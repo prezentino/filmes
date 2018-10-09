@@ -1,6 +1,5 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://listaccess.me/Logo/A&E.png" group-title="Canais: Filmes e Series",A&E
-<<<<<<< HEAD
 http://sspitv.liss.fun:8880/live/askwqx9unc/k153mva2gh/2346.ts
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E [Alter 2]" tvg-logo="http://listaccess.me/Logo/A&E.png" group-title="Canais: Filmes e Series",A&E [Alter 2]
 http://sspitv.liss.fun:8880/live/askwqx9unc/k153mva2gh/13681.ts
