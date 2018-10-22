@@ -1187,8 +1187,6 @@ http://sspitv.liss.fun:8880/live/2y641ejmcn/632rmawk19/2161.ts
 http://sspitv.liss.fun:8880/live/2y641ejmcn/632rmawk19/7238.ts
 #EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV HD [Alter]" tvg-logo="http://listaccess.me/Logo/trutv1.png" group-title="Canais: Documentários",TruTV HD [Alter]
 http://sspitv.liss.fun:8880/live/2y641ejmcn/632rmawk19/7237.ts
-#EXTINF:-1 tvg-id="Tv Anhanguera" tvg-name="Tv Anhanguera" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Tv Anhanguera
-http://sspitv.liss.fun:8880/live/2y641ejmcn/632rmawk19/7109.ts
 #EXTINF:-1 tvg-id="Aparecida" tvg-name="TV Aparecida [Alter]" tvg-logo="http://listaccess.me/Logo/aparecida.png" group-title="Canais: Religioso",TV Aparecida [Alter]
 http://sspitv.liss.fun:8880/live/2y641ejmcn/632rmawk19/7245.ts
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="http://listaccess.me/Logo/tvbrasil1.png" group-title="Canais: Abertos",TV Brasil
@@ -5803,98 +5801,6 @@ http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7384.ts
 http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7184.ts
 #EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="Globo RJ HD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo RJ HD
 http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/2277.ts
-#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="Globo RJ HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo RJ HD [Alter 2]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13428.ts
-#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="Globo RJ HD [Alter]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo RJ HD [Alter]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7383.ts
-#EXTINF:-1 tvg-id="Globo Rpc Curitiba" tvg-name="Globo Rpc Curitiba" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo Rpc Curitiba
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/11666.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rpc Curitiba [Alter 2]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo Rpc Curitiba [Alter 2]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13747.ts
-#EXTINF:-1 tvg-id="Globo Rpc Curitiba" tvg-name="Globo Rpc Curitiba [Alter]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo Rpc Curitiba [Alter]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7382.ts
-#EXTINF:-1 tvg-id="Globo RPC Curitiba FHD" tvg-name="Globo RPC Curitiba FHD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo RPC Curitiba FHD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7137.ts
-#EXTINF:-1 tvg-id="Globo Rpc Curitiba HD" tvg-name="Globo Rpc Curitiba HD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo Rpc Curitiba HD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7381.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rpc Curitiba HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo Rpc Curitiba HD [Alter 2]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13748.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguacu" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo RPC Foz do Iguacu
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13791.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguacu FHD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo RPC Foz do Iguacu FHD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13790.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguacu HD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo RPC Foz do Iguacu HD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13789.ts
-#EXTINF:-1 tvg-id="Globo Sorocaba" tvg-name="Globo Sorocaba" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo Sorocaba
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/2138.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Sorocaba [Alter 2]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo Sorocaba [Alter 2]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13756.ts
-#EXTINF:-1 tvg-id="Globo Sorocaba" tvg-name="Globo Sorocaba [Alter]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo Sorocaba [Alter]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7371.ts
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo SP
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/2276.ts
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP [Alter 2]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo SP [Alter 2]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13426.ts
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP [Alter]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo SP [Alter]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7380.ts
-#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP FHD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo SP FHD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7183.ts
-#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo SP HD [Alter 2]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13632.ts
-#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP HD [Alter]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo SP HD [Alter]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7379.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera [Alter 2]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Anhanguera [Alter 2]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13749.ts
-#EXTINF:-1 tvg-id="Globo TV Anhanguera [Alter]" tvg-name="Globo TV Anhanguera [Alter]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Anhanguera [Alter]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7378.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Anhanguera HD [Alter 2]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13750.ts
-#EXTINF:-1 tvg-id="Globo TV Anhanguera HD [Alter]" tvg-name="Globo TV Anhanguera HD [Alter]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Anhanguera HD [Alter]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7377.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Clube Teresina
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13788.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina FHD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Clube Teresina FHD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13787.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina HD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Clube Teresina HD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13786.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Gazeta Alagoas
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/15139.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Gazeta Alagoas FHD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/15141.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Gazeta Alagoas HD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/15140.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Sul FHD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Gazeta Sul FHD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/16205.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Sul HD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Gazeta Sul HD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/16204.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitoria" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Gazeta Vitoria
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13785.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitoria FHD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Gazeta Vitoria FHD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13784.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitoria HD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Gazeta Vitoria HD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13783.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Sergipe
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13782.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe FHD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Sergipe FHD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13781.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe HD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Sergipe HD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13780.ts
-#EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto" tvg-name="Globo TV Tem S.J. do Rio Preto" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Tem S.J. do Rio Preto
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7372.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem S.J. do Rio Preto [Alter 2]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Tem S.J. do Rio Preto [Alter 2]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13755.ts
-#EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto HD" tvg-name="Globo TV Tem S.J. do Rio Preto HD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Tem S.J. do Rio Preto HD
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/7373.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem S.J. do Rio Preto HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Tem S.J. do Rio Preto HD [Alter 2]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/13754.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santos" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Tribuna Santos
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/16533.ts
-#EXTINF:-1 tvg-id="Globo TV Vanguarda" tvg-name="Globo TV Vanguarda" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Vanguarda
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/11668.ts
-#EXTINF:-1 tvg-id="Globo TV Vanguarda" tvg-name="Globo TV Vanguarda [Alter]" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="Canais: Abertos",Globo TV Vanguarda [Alter]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/10455.ts
-#EXTINF:-1 tvg-id="Globo TV Verdes mares [Alter]" tvg-name="Globo TV Verdes mares [Alter]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais: Abertos",Globo TV Verdes mares [Alter]
-http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/8673.ts
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://listaccess.me/Logo/Gloob1.png" group-title="Canais: Infantil",Gloob
 http://sspitv.liss.fun:8880/live/1bremfcyqu/w5y4gz97b8/2272.ts
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob [Alter]" tvg-logo="http://listaccess.me/Logo/Gloob1.png" group-title="Canais: Infantil",Gloob [Alter]
