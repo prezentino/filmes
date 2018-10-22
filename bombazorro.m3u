@@ -1,6 +1,5 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://listaccess.me/Logo/A&E.png" group-title="Canais: Filmes e Series",A&E
-<<<<<<< HEAD
 http://sspitv.liss.fun:8880/live/er67tfa3jc/98u6q3dnah/2346.ts
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E [Alter 2]" tvg-logo="http://listaccess.me/Logo/A&E.png" group-title="Canais: Filmes e Series",A&E [Alter 2]
 http://sspitv.liss.fun:8880/live/er67tfa3jc/98u6q3dnah/13681.ts
@@ -10804,4 +10803,3 @@ http://sspitv.liss.fun:8880/movie/1bremfcyqu/w5y4gz97b8/13926.mp4
 http://sspitv.liss.fun:8880/movie/1bremfcyqu/w5y4gz97b8/9095.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zootopia Essa Cidade é o Bicho" tvg-logo="http://listaccess.me:8080/images/sM33SANp9z6rXW8Itn7NnG1GOEs_small.jpg" group-title="Filmes: Animação",Zootopia Essa Cidade é o Bicho
 http://sspitv.liss.fun:8880/movie/1bremfcyqu/w5y4gz97b8/3029.mp4
->>>>>>> 93b0f4aeb69f20a6a3ed2b5b6c76421004cead8e
