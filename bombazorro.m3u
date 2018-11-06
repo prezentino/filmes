@@ -5660,7 +5660,7 @@ https://lh3.googleusercontent.com/gRpboI4MSZqVUtq19cURJ5ho3THo46mAYSZQvkPvbCcoCM
 https://goo.gl/JRhQWX
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes10",pltv-subgroup="Romance",10 Anos de Pura Amizade
 https://goo.gl/RRgF7Y
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",10 Coisas que Eu Odeio em Você
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes"," Filmes10",pltv-subgroup="Romance"10 Coisas que Eu Odeio em Você
 https://goo.gl/SJ6Bfy
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",100 metros
 https://goo.gl/voy8gu
@@ -5736,7 +5736,7 @@ https://goo.gl/3cbaWZ
 https://goo.gl/dRvtYe
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",A 5ª Onda
 https://goo.gl/V8RuWo
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Abelha Maya
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"A Abelha Maya
 https://goo.gl/d2a3JM
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Acompanhante
 https://goo.gl/BN9UeP
@@ -5784,7 +5784,7 @@ https://goo.gl/yQsbbG
 https://goo.gl/HJGGj1
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Casa Maligna
 https://goo.gl/Ub29W7
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Casa Monstro
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"A Casa Monstro
 https://goo.gl/RVyAbp
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Caverna
 https://goo.gl/YrxzRv
@@ -5830,17 +5830,17 @@ https://goo.gl/VX3Sfe
 https://goo.gl/ik56J3
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Era da Escuridão
 https://goo.gl/RPxjzo
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Era Do Gelo 1
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"A Era Do Gelo 1
 https://goo.gl/LqrBXQ
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Era do Gelo 2
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"A Era do Gelo 2
 https://lh3.googleusercontent.com/53h_TQrS8FKUbMHqSy2nNbq6EvhbBP0I7mQ2Rpgt_-0=m22
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Era Do Gelo 3
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"A Era Do Gelo 3
 https://goo.gl/Yd6PKv
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Era do Gelo 4
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"A Era do Gelo 4
 https://lh3.googleusercontent.com/W3OnuJWIFou1u57_izRRftv6qY2-MA08LC8JbLLfgds=m22
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Era do Gelo 5: O Big Bang
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"A Era do Gelo 5: O Big Bang
 https://lh3.googleusercontent.com/UbtiBn7_VTJs5hMVfhngO1MHURSHy2kLHpbuxz4ZLc34TLp1Fe0PXYjX0izikGSuTe5hoHCpbb3SrOM=m22
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Era do Gelo 6
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"A Era do Gelo 6
 https://goo.gl/LcuAbA
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Escala Amizade Em Segundo Lugar 2018
 https://goo.gl/2X7hdk
@@ -5866,7 +5866,7 @@ https://drive.google.com/file/d/0B0a4vfQr_3bYV0RLaWZlOWtEa2M
 https://goo.gl/ndDdi9
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Estrada Interior
 https://goo.gl/csCk5m
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Estrela de Belem 2018
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"A Estrela de Belem 2018
 https://goo.gl/GVdGXt
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Eterna Namorada
 https://goo.gl/oB8LrW
@@ -5876,7 +5876,7 @@ https://goo.gl/uCPXGw
 https://goo.gl/31buiL
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Família Bélier
 https://goo.gl/WNzcgF
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Família do Futuro
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"A Família do Futuro
 https://goo.gl/kL3Msw
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Festa 2017
 https://goo.gl/wjbWRz
@@ -6050,9 +6050,9 @@ https://dropapk.com/vidembed-pn8665cqtxsi
 https://dropapk.com/vidembed-4k9vh7b9puif
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Pequena Sereia
 https://goo.gl/WRZ1Kf
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Pequena Sereia A História de Ariel 2008
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"A Pequena Sereia A História de Ariel 2008
 https://goo.gl/Lbwg6L
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Pequena Sereia II O Retorno Para o Mar 2000
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"A Pequena Sereia II O Retorno Para o Mar 2000
 https://goo.gl/DUvcmP
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",A Peregrinação
 https://goo.gl/xTqPgS
@@ -6520,9 +6520,9 @@ https://goo.gl/MW5eUZ
 https://lh3.googleusercontent.com/WZnB_vNQYKQHyoePJvWujbSoITYf6Bepay31iTPYhtgn9YXKv9DOsGAi11jTGjTE0xkXgdFsa1IyIhogrw=m22
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",Bob Esponja Um Herói Fora DÁgua
 https://goo.gl/fvVRjT
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",Bob Esponja: O Filme
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"Bob Esponja: O Filme
 https://goo.gl/2f77Qu
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",Bob Esponja: Um Herói Fora D'Água
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"Bob Esponja: Um Herói Fora D'Água
 https://lh3.googleusercontent.com/eQnf3XL0CFp7lMatj6LqQ7Dlxi5V8qtOtVCaYxPa5orm-iS9vV0OHgXmEJ5cJF2trjFu6jc0HSZ4UvM=m22
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",BOM DIA VIETNA
 https://lh3.googleusercontent.com/W9wUJz-61zO9uTJMEdydj6gLIR5TMoI2XQNFp5bnHoUIz_BGJeiZdbVCGjxz8EEupmCygy9LSrdmsg=m22
@@ -6584,7 +6584,7 @@ https://goo.gl/tVvtTr
 https://goo.gl/VuaRGY
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",Cadê Meu Carro? Dublado
 https://goo.gl/mEfmGD
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",CADE O NOE
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"CADE O NOE
 https://lh3.googleusercontent.com/uxfdUxKyJm0WyHeCBs0P1ijAXVzerdQ64CcpVF9LTQkUBM5qSSYRO52rC9eu4F0b0dwbP88C5HnSDw=m22
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",CAES DE GUERRA
 https://lh3.googleusercontent.com/IbHeHcMNfW0OEBkyL-OzJ_yJk6e-oRmuTt6rz8TmDAk6F2ZE8skK6OweWZv-Yr2SvwVMVxbgkg=m22
@@ -6650,7 +6650,7 @@ https://goo.gl/Uq3KHA
 https://goo.gl/s5L5BL
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",Cavalos Selvagens
 https://goo.gl/FzwxZ1
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",Cegonhas A História que Não te Contaram 2016
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"Cegonhas A História que Não te Contaram 2016
 https://goo.gl/mgggPo
 #EXTINF:-1 tvg-id="avi" group-title=" Filmes",Cegos Surdos e Loucos(1989)
 https://ia601500.us.archive.org/18/items/CegosSurdosELoucos1989BDripBluRay720pDubladoDat2014/Cegos%20Surdos%20e%20Loucos%20(1989)%20BDrip%20-%20BluRay%20720p%20Dublado%20dat2014.mp4
@@ -6690,7 +6690,7 @@ https://lh3.googleusercontent.com/j3a42souqIqtco4DB-1uuzRaeTFOkEFGdoAJrEMDPP5ajY
 https://goo.gl/691JFz
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",CIDADE DOS SONHOS
 https://lh3.googleusercontent.com/qUReES3SvBs91Wb6utumSs6g-ppH5af9yHUBHhKdhNORESdFw9SLUgKFJZUrNNLwLmMMBvtX=m22
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",Cinderela
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"Cinderela
 https://goo.gl/VtdNdu
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",Cinquenta Tons de Cinza
 https://goo.gl/ixxaiz
@@ -6932,7 +6932,7 @@ https://lh3.googleusercontent.com/8xSKw3orU9Q4X_l3UbEvfby9xLiCG-tHW0BLJMSPFYqv3q
 https://lh3.googleusercontent.com/E3ErzLgVVxb7ZUT_zx0CbsSO63FRxJReoF1zSvMevnV2WushP6VuHuBeM3JrlI5O-EAp-THG9Q=m22
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",Detroit em Rebeliao 2018
 https://goo.gl/Quv74e
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",Deu a Louca na Chapeuzinho 2
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"Deu a Louca na Chapeuzinho 2
 https://goo.gl/ECJgBo
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",Deu a Louca no Mundo
 https://goo.gl/CywjwR
@@ -6966,7 +6966,7 @@ https://goo.gl/JMKj3T
 https://lh3.googleusercontent.com/RW5eG4nfrzv720ZJ_tgRXtLFVaYEuM-Rjd07juCSRFqrXlPJ1CQcn26DfNPxaaABBNElUkPRKHTPHG_7xA=m22
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",Divergente
 https://goo.gl/5RSpNa
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",Divertida Mente
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"Divertida Mente
 https://goo.gl/7dBPXF
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",Dívida de Honra
 https://goo.gl/BsbW39
@@ -6998,7 +6998,7 @@ http://network.vstreaming.net/movies/docesencontros-dub-720p.mp4
 https://goo.gl/VdRNrG
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",Doentes de Amor 2018
 https://goo.gl/8RBcpF
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",Dog Eat Dog
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"Dog Eat Dog
 https://goo.gl/kmBDQd
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",Dois Caras Legais
 https://goo.gl/2fKpYN
@@ -7134,7 +7134,7 @@ https://archive.org/download/EntreODesejoEAMorte1968Dubl/Entre%20o%20Desejo%20e%
 https://lh3.googleusercontent.com/95i_XYTVhhQ2uE_poYo_dq0R74ukjkHwwNrw7JBSSdCYOCf1RjmyzBeOsV-348p9uo0I9qeX64Qy5w=m22
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",Era Uma Vez no México Dublado
 https://goo.gl/Siq1u5
-#EXTINF:-1 tvg-id="ext" group-title=" Filmes",ERAGON
+#EXTINF:-1 tvg-id="ext" group-title=" Filmes",pltv-subgroup="Animacao"ERAGON
 https://lh3.googleusercontent.com/a-u2ajA9ZCSUqmJGNn7IqSZTNqe4OtXGoRvTd0oiqXUGIQ7eivwV__oGPD8rfiX3ooSCrCUNqoN97g=m22
 #EXTINF:-1 tvg-id="ext" group-title=" Filmes",ERNEST O BOBO E A FERA
 https://lh3.googleusercontent.com/YMIbCPGUvCLnJpbRG2eZiWwUh2EdyQNin_Pm4FQ5n0cwSW5yjLP4wSVGjsmAM07SjgW1zZls=m18
