@@ -1,2 +1,4 @@
 #EXTM3U
+#EXTINF:-1 type="stream" tvg-id="Playboy TV HD" tvg-logo="SD_PLAYBOY.png" group-title="Adulto",Playboy TV HD
 http://iptvip.com:25461/live/hXbb03DJ0Y/V2ZeJhEwFk/202.ts
+
