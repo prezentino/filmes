@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1,A FAZENDA 10
+﻿#EXTM3U
+#EXTINF:-1, group-title="Variedades",FILMESA FAZENDA 10
 http://unionsrv.online:8880/will/12345/15145
 #EXTINF:-1,A FAZENDA [Alternativo]
 http://unionsrv.online:8880/will/12345/19441
