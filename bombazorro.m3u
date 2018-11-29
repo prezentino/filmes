@@ -1,15 +1,15 @@
 ﻿#EXTM3U
-#EXTINF:-1, group-title="Variedades",FILMESA FAZENDA 10
+#EXTINF:-1, group-title="Variedades",A FAZENDA 10
 http://unionsrv.online:8880/will/12345/15145
-#EXTINF:-1,A FAZENDA [Alternativo]
+#EXTINF:-1, group-title="Variedades",A FAZENDA [Alternativo]
 http://unionsrv.online:8880/will/12345/19441
-#EXTINF:-1,A&amp;E
+#EXTINF:-1,A&E
 http://unionsrv.online:8880/will/12345/8156
-#EXTINF:-1,A&amp;E [Alternativo]
+#EXTINF:-1,A&E [Alternativo]
 http://unionsrv.online:8880/will/12345/12719
-#EXTINF:-1,A&amp;E HD
+#EXTINF:-1,A&E HD
 http://unionsrv.online:8880/will/12345/8241
-#EXTINF:-1,A&amp;E HD [Alternativo]
+#EXTINF:-1,A&E HD [Alternativo]
 http://unionsrv.online:8880/will/12345/12720
 #EXTINF:-1,AMC
 http://unionsrv.online:8880/will/12345/8155
@@ -19,7 +19,7 @@ http://unionsrv.online:8880/will/12345/12717
 http://unionsrv.online:8880/will/12345/8240
 #EXTINF:-1,AMC HD [Alternativo]
 http://unionsrv.online:8880/will/12345/12718
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:-1, group-title="Documentarios",ANIMAL PLANET
 http://unionsrv.online:8880/will/12345/8154
 #EXTINF:-1,ANIMAL PLANET [Alternativo]
 http://unionsrv.online:8880/will/12345/12735
