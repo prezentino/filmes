@@ -1,3 +1,3 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BBB 19 (Aquecimento)" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",BBB 19 (Aquecimento)
-http://167.114.173.170:25461/live/andre/andre/610.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",BBB 19 (Aquecimento)
+http://144.217.74.151:8900/live/canais/androidlivetv/442.tsandre/610.ts
