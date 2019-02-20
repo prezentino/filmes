@@ -1,3 +1,27 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",BBB 19 (Aquecimento)
-http://144.217.74.151:8900/live/canais/androidlivetv/442.tsandre/610.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
+http://144.217.74.151:8900/live/canais/androidlivetv/440.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
+http://144.217.74.151:8900/live/canais/androidlivetv/441.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
+http://144.217.74.151:8900/live/canais/androidlivetv/442.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
+http://144.217.74.151:8900/live/canais/androidlivetv/443.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",Nickeolondon
+http://144.217.74.151:8900/live/canais/androidlivetv/444.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
+http://144.217.74.151:8900/live/canais/androidlivetv/445.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
+http://144.217.74.151:8900/live/canais/androidlivetv/446.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
+http://144.217.74.151:8900/live/canais/androidlivetv/447.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
+http://144.217.74.151:8900/live/canais/androidlivetv/448.ts
