@@ -1,27 +1,108 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
-http://144.217.74.151:8900/live/canais/androidlivetv/440.ts
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
-http://144.217.74.151:8900/live/canais/androidlivetv/441.ts
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
+#EXTINF:-1,mAX
 http://144.217.74.151:8900/live/canais/androidlivetv/442.ts
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
-http://144.217.74.151:8900/live/canais/androidlivetv/443.ts
+#EXTINF:-1,Max Prime
+http://144.217.74.151:8900/live/canais/androidlivetv/441.ts
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",Nickeolondon
+#EXTINF:-1,Max Prime
+http://144.217.74.151:8900/live/canais/androidlivetv/410.ts
+#EXTM3U
+#EXTINF:-1,Nickeolondon
 http://144.217.74.151:8900/live/canais/androidlivetv/444.ts
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
-http://144.217.74.151:8900/live/canais/androidlivetv/445.ts
+#EXTINF:-1,410
+http://144.217.74.151:8900/live/canais/androidlivetv/410.ts
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
-http://144.217.74.151:8900/live/canais/androidlivetv/446.ts
+#EXTINF:-1,411
+http://144.217.74.151:8900/live/canais/androidlivetv/411.ts
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
-http://144.217.74.151:8900/live/canais/androidlivetv/447.ts
+#EXTINF:-1,Globo
+http://144.217.74.151:8900/live/canais/androidlivetv/412.ts
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: 24hrs",mAX
-http://144.217.74.151:8900/live/canais/androidlivetv/448.ts
+#EXTINF:-1,HBO
+http://144.217.74.151:8900/live/canais/androidlivetv/413.ts
+#EXTM3U
+#EXTINF:-1,414-HBO 2
+http://144.217.74.151:8900/live/canais/androidlivetv/414.ts
+#EXTM3U
+#EXTINF:-1,415-Paramount
+http://144.217.74.151:8900/live/canais/androidlivetv/415.ts
+#EXTM3U
+#EXTINF:-1,416-iesportes
+http://144.217.74.151:8900/live/canais/androidlivetv/416.ts
+#EXTM3U
+#EXTINF:-1,417-Studio Universal
+http://144.217.74.151:8900/live/canais/androidlivetv/417.ts
+#EXTM3U
+#EXTINF:-1,418-Universal
+http://144.217.74.151:8900/live/canais/androidlivetv/418.ts
+#EXTM3U
+#EXTINF:-1,419-Viva
+http://144.217.74.151:8900/live/canais/androidlivetv/419.ts
+#EXTM3U
+#EXTINF:-1,420-Warner
+http://144.217.74.151:8900/live/canais/androidlivetv/420.ts
+#EXTM3U
+#EXTINF:-1,421-Discovery Channels
+http://144.217.74.151:8900/live/canais/androidlivetv/421.ts
+#EXTM3U
+#EXTINF:-1,422-Natgeo
+http://144.217.74.151:8900/live/canais/androidlivetv/422.ts
+#EXTM3U
+#EXTINF:-1,423-Cartoon Network
+http://144.217.74.151:8900/live/canais/androidlivetv/423.ts
+#EXTM3U
+#EXTINF:-1,424-Multishow
+http://144.217.74.151:8900/live/canais/androidlivetv/424.ts
+#EXTM3U
+#EXTINF:-1,425
+http://144.217.74.151:8900/live/canais/androidlivetv/425.ts
+#EXTM3U
+#EXTINF:-1,426-Band News
+http://144.217.74.151:8900/live/canais/androidlivetv/426.ts
+#EXTM3U
+#EXTINF:-1,427-Comedy Central
+http://144.217.74.151:8900/live/canais/androidlivetv/427.ts
+#EXTM3U
+#EXTINF:-1,428-News
+http://144.217.74.151:8900/live/canais/androidlivetv/428.ts
+#EXTM3U
+#EXTINF:-1,429-Band HD
+http://144.217.74.151:8900/live/canais/androidlivetv/429.ts
+#EXTM3U
+#EXTINF:-1,430
+http://144.217.74.151:8900/live/canais/androidlivetv/430.ts
+#EXTM3U
+#EXTINF:-1,431
+http://144.217.74.151:8900/live/canais/androidlivetv/431.ts
+#EXTM3U
+#EXTINF:-1,432
+http://144.217.74.151:8900/live/canais/androidlivetv/431.ts
+#EXTM3U
+#EXTINF:-1,Discovery H&H---
+http://144.217.74.151:8900/live/canais/androidlivetv/432.ts
+#EXTM3U
+#EXTINF:-1,433
+http://144.217.74.151:8900/live/canais/androidlivetv/433.ts
+#EXTM3U
+#EXTINF:-1,434-Discovery Turbo
+http://144.217.74.151:8900/live/canais/androidlivetv/434.ts
+#EXTM3U
+#EXTINF:-1,435
+http://144.217.74.151:8900/live/canais/androidlivetv/435.ts
+#EXTM3U
+#EXTINF:-1,436
+http://144.217.74.151:8900/live/canais/androidlivetv/436.ts
+#EXTM3U
+#EXTINF:-1,437
+http://144.217.74.151:8900/live/canais/androidlivetv/437.ts
+#EXTM3U
+#EXTINF:-1,438
+http://144.217.74.151:8900/live/canais/androidlivetv/438.ts
+#EXTM3U
+#EXTINF:-1,439
+http://144.217.74.151:8900/live/canais/androidlivetv/439.ts
+#EXTM3U
+#EXTINF:-1,440
+http://144.217.74.151:8900/live/canais/androidlivetv/440.ts
