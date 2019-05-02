@@ -109,6 +109,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40609
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39582
 #EXTINF:-1 tvg-id="CombateHD" tvg-name="Combate" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37119
+#EXTINF:-1 tvg-id="CombateHD" tvg-name="Combate Marco" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate Marco
+http://assistirpainel.ddns.net:8880/Negrao4883/123r/7463
 #EXTINF:-1 tvg-id="CombateHD" tvg-name="COMBATE 4K" tvg-logo="" group-title="Canais 4K",COMBATE 4K
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42635
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate HD
