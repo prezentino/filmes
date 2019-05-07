@@ -256,6 +256,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36917
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36916
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37089
+#EXTINF:-1 tvg-id="Gloob Marco" tvg-name="Gloob Marco" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob Marco
+http://iptv.cspainel.xyz:8880/teste/teste/12
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob HD" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36915
 #EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho HD
@@ -436,6 +438,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36906
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37017
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 7 HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36905
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9 Marco" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 9 Marco
+http://iptv.cspainel.xyz:8880/teste/teste/9
 #EXTINF:-1 tvg-id="Premiere 9" tvg-name="Premiere 9 SD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Esportes",Premiere 9 SD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41305
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",PREMIERE CLUBES
@@ -704,6 +708,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50665
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50534
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",CARTOON NETWORK HD [Alternativo]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50667
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON Marco" tvg-logo="" group-title="Canais | Alternativos",Cartoon Marco
+http://iptv.cspainel.xyz:8880/teste/teste/14
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX H265" tvg-logo="" group-title="Canais | H265",CINEMAX H265
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50535
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",CINEMAX HD [Alternativo]
