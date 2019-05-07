@@ -624,6 +624,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36946
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40106
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37048
+#EXTINF:-1 tvg-id="SBT Marco" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT Marco
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w1396576526.m3u8
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36945
 #EXTINF:-1 tvg-id="SBT Interior SP" tvg-name="SBT SP Interior" tvg-logo="http://painel.linkiptv.ml/logocanais/sbt_br.png" group-title="Canais | Abertos",SBT SP Interior
