@@ -3,8 +3,6 @@
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37130
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36929
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="ABC HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/872.png" group-title="Canais | Internacionais",ABC HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40616
 #EXTINF:-1 tvg-id="" tvg-name="Aeromsith" tvg-logo="" group-title="Shows",Aeromsith
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42571
 #EXTINF:-1 tvg-id="Agro Canal" tvg-name="Agro Canal" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf87ee412553236ff71fdb6a2f5d8ce.jpg" group-title="Canais | Abertos",Agro Canal
@@ -73,8 +71,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/43828
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/44697
 #EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 3 HD(Funcionamento apenas em dias de jogos)" tvg-logo="" group-title="Canais | Esportes",Campeonato Catarinense 3 HD(Funcionamento apenas em dias de jogos)
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/44698
-#EXTINF:-1 tvg-id="Canal 26" tvg-name="Canal 26" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/55bbaf68c40165a36c468aa26ac5a747.png" group-title="Canais | Internacionais",Canal 26
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40146
 #EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Abertos",Canal Brasil
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37122
 #EXTINF:-1 tvg-id="Canção Nova HD" tvg-name="Canção Nova" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="Canais | Religioso",Canção Nova
@@ -83,10 +79,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37023
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37121
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36927
-#EXTINF:-1 tvg-id="" tvg-name="CBTV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f24169065abbca5112493217775b6172.jpg" group-title="Canais | Internacionais",CBTV
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40195
-#EXTINF:-1 tvg-id="" tvg-name="CHANSON" tvg-logo="" group-title="Canais | Internacionais",CHANSON
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/43003
 #EXTINF:-1 tvg-id="" tvg-name="Charlie e Lola [24h]" tvg-logo="http://www.mag2u.com/images/custom/cnl/charlielola.png" group-title="Canais | 24 Horas",Charlie e Lola [24h]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39579
 #EXTINF:-1 tvg-id="" tvg-name="Chaves [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/LP_Chaves.jpg" group-title="Canais | 24 Horas",Chaves [24h]
@@ -97,8 +89,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42620
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37120
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais | Filmes e Series",Cinemax HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36926
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://images.mi.tv/channels/br_cnn_m.png" group-title="Canais | Internacionais",CNN
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40609
 #EXTINF:-1 tvg-id="" tvg-name="Cocoricó [24h]" tvg-logo="https://i.pinimg.com/originals/d9/85/04/d985040b90dac7529ac94816b0dadcd9.png" group-title="Canais | 24 Horas",Cocoricó [24h]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39582
 #EXTINF:-1 tvg-id="CombateHD" tvg-name="Combate" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate
@@ -113,8 +103,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36986
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37118
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36925
-#EXTINF:-1 tvg-id="" tvg-name="Cooking Channel SD" tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/cooking.png" group-title="Canais | Internacionais",Cooking Channel SD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40611
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40073
 #EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Variedades",Curta!
@@ -177,8 +165,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41977
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42910
 #EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Esportes",ESPN HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36977
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport" tvg-logo="" group-title="Canais | Internacionais",EuroSport
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42657
 #EXTINF:-1 tvg-id="" tvg-name="FESTIVAL SERTANEJO" tvg-logo="" group-title="Shows",FESTIVAL SERTANEJO
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39772
 #EXTINF:-1 tvg-id="" tvg-name="Festival Sertanejo 2018" tvg-logo="" group-title="Shows",Festival Sertanejo 2018
@@ -195,12 +181,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37102
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36919
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37101
-#EXTINF:-1 tvg-id="" tvg-name="Fox 23 News HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d5b258a1676eeedc661a140792b5603d.jpg" group-title="Canais | Internacionais",Fox 23 News HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40198
 #EXTINF:-1 tvg-id="Fox Channel HD" tvg-name="Fox Channel HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36972
-#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy SD" tvg-logo="https://i.pinimg.com/originals/ed/f4/f4/edf4f4f06bd7b5544b3a2d9e1b327988.png" group-title="Canais | Internacionais",FOX Comedy SD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40617
 #EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37335
 #EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 1  HD" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1  HD
@@ -223,8 +205,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36971
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40784
 #EXTINF:-1 tvg-id="Fox Sports HD" tvg-name="FoxSports HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36970
-#EXTINF:-1 tvg-id="" tvg-name="France 24 SD" tvg-logo="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1410170559/hpedrytyl60by12tbo4b.png" group-title="Canais | Internacionais",France 24 SD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40607
 #EXTINF:-1 tvg-id="" tvg-name="Frank Aguiar" tvg-logo="" group-title="Shows",Frank Aguiar
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39788
 #EXTINF:-1 tvg-id="Futura SD" tvg-name="Futura" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura
@@ -288,8 +268,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37087
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37086
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO 2 HD" tvg-logo="http://t.likeiptv.com/hbo2hd.png" group-title="Canais | Filmes e Series",HBO 2 HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36966
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 International" tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112150007-canal-hbo-2.png" group-title="Canais | Internacionais",HBO 2 International
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40610
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Filmes e Series",HBO Family
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37085
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://t.likeiptv.com/hbohddd.png" group-title="Canais | Filmes e Series",HBO Family HD
@@ -360,12 +338,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36958
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42577
 #EXTINF:-1 tvg-id="" tvg-name="Milionario e Jose Rico" tvg-logo="" group-title="Shows",Milionario e Jose Rico
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39789
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ee4c267eb8ceadf63a93090b9844f642.png" group-title="Canais | Internacionais",MLB Network HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40199
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37071
-#EXTINF:-1 tvg-id="" tvg-name="MTV Dance HD" tvg-logo="http://www.itizaps.net/zapper/logo/b/mtv-dance.png" group-title="Canais | Internacionais",MTV Dance HD
-http://178.163.110.32:1024/udp/234.0.0.233:2000
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36910
 #EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVLIVE/large_white.png" group-title="Canais | Variedades",MTV Live
@@ -392,8 +366,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37068
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36956
 #EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="https://i.imgur.com/gb8AAKf.png" group-title="Canais | Abertos",NBR
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37021
-#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b885dddf8d0e990d24c4a3fae05c4194.png" group-title="Canais | Internacionais",NHK WORLD HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40147
 #EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37064
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick HD" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick HD
@@ -476,8 +448,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37053
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42572
 #EXTINF:-1 tvg-id="" tvg-name="Racionais Mc's" tvg-logo="" group-title="Shows",Racionais Mc's
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39784
-#EXTINF:-1 tvg-id="" tvg-name="RADOST MOYA" tvg-logo="" group-title="Canais | Internacionais",RADOST MOYA
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/43004
 #EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 SD" tvg-logo="" group-title="Canais | Internacionais",RAI NEWS 24 SD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41576
 #EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",RBS TV Porto Alegre
