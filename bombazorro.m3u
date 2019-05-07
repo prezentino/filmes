@@ -538,6 +538,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40785
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37255
 #EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Filmes e Series",Studio Universal
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37043
+#EXTINF:-1 tvg-id="Studio Universal Marco" tvg-name="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Filmes e Series",Studio Universal Marco
+http://iptv.cspainel.xyz:8880/teste/teste/18
 #EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Filmes e Series",Studio Universal HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36904
 #EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Filmes e Series",Syfy
