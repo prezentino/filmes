@@ -85,10 +85,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37023
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37121
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36927
-#EXTINF:-1 tvg-id="" tvg-name="Cascavel Panorâmica" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f869e31dbca32dca5d9adda8f13fcd09.png" group-title="Câmeras | 24 Horas",Cascavel Panorâmica
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40116
-#EXTINF:-1 tvg-id="" tvg-name="CBN SP 90,5 FM - Estúdio Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0d14f4b6c83f6bc0fc2766d3602113d0.png" group-title="Câmeras | 24 Horas",CBN SP 90,5 FM - Estúdio Ao Vivo
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40212
 #EXTINF:-1 tvg-id="" tvg-name="CBTV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f24169065abbca5112493217775b6172.jpg" group-title="Canais | Internacionais",CBTV
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40195
 #EXTINF:-1 tvg-id="" tvg-name="CHANSON" tvg-logo="" group-title="Canais | Internacionais",CHANSON
@@ -203,8 +199,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41374
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37103
 #EXTINF:-1 tvg-id="Fish TV HD" tvg-name="Fish TV HD" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Esportes",Fish TV HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42911
-#EXTINF:-1 tvg-id="" tvg-name="FM O Dia 100,5 FM - Estúdio Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28987a4ac0e1c027f469ff70d132a5a8.png" group-title="Câmeras | 24 Horas",FM O Dia 100,5 FM - Estúdio Ao Vivo
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40203
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",Food Network
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37102
 #EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network HD" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",Food Network HD
@@ -368,6 +362,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39776
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37081
 #EXTINF:-1 tvg-id="H2" tvg-name="History 2" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History 2
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42915
+#EXTINF:-1 tvg-id="H2 Marco" tvg-name="History 2" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History 2 Marco
+http://iptv.cspainel.xyz:8880/teste/teste/1
 #EXTINF:-1 tvg-id="H2" tvg-name="History 2 HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History 2 HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36961
 #EXTINF:-1 tvg-id="History" tvg-name="History HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History HD
@@ -432,12 +428,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40518
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37070
 #EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36957
-#EXTINF:-1 tvg-id="" tvg-name="Muro das Lamentações (Western Wall)" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0e38cd5526d5729065b538d59a66b03d.png" group-title="Câmeras | 24 Horas",Muro das Lamentações (Western Wall)
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40110
 #EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brazil
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37069
-#EXTINF:-1 tvg-id="" tvg-name="Naha Airport" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b00fe4c8e68e38b5cbe7f93df1fd1e7e.jpg" group-title="Câmeras | 24 Horas",Naha Airport
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40109
 #EXTINF:-1 tvg-id="Nat Geo Kids Alternativo HD" tvg-name="NatGeo Kids" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37067
 #EXTINF:-1 tvg-id="Nat Geo Kids Alternativo HD" tvg-name="NatGeo Kids HD" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids HD
@@ -498,8 +490,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42445
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39775
 #EXTINF:-1 tvg-id="" tvg-name="PlayKids HD" tvg-logo="https://sydneyseast.kidsizeliving.com.au/dotAsset/f281f444-3ec8-4b01-826c-4287a7649bc6.png" group-title="Canais | Infantil",PlayKids HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41359
-#EXTINF:-1 tvg-id="" tvg-name="Ponte Internacional da Amizade" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f1af60306ec4f464b05dd7d1e8c1f116.jpg" group-title="Câmeras | 24 Horas",Ponte Internacional da Amizade
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40107
 #EXTINF:-1 tvg-id="" tvg-name="Popeye [24h]" tvg-logo="https://i.pinimg.com/originals/3a/c3/ac/3ac3ac9a957f934708c7ce785ece3dc0.png" group-title="Canais | 24 Horas",Popeye [24h]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39777
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2
@@ -588,8 +578,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37011
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37012
 #EXTINF:-1 tvg-id="" tvg-name="RedeTV HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36946
-#EXTINF:-1 tvg-id="" tvg-name="Rio de Janeiro - Copacabana" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5881b447c22ccca2c4d6a528c6125bce.jpg" group-title="Câmeras | 24 Horas",Rio de Janeiro - Copacabana
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40106
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37048
 #EXTINF:-1 tvg-id="SBT Marco" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT Marco
@@ -672,14 +660,10 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36935
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/43002
 #EXTINF:-1 tvg-id="" tvg-name="Teletubbies [24h]" tvg-logo="https://2.bp.blogspot.com/-ldyYvygC3tA/V2KchfdiSaI/AAAAAAAAXXw/Q_kpOc1OGfAMWQUuefQ-Iwt7jW7r--MoACLcB/s640/teletubbies-brand-image_v5.png" group-title="Canais | 24 Horas",Teletubbies [24h]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39583
-#EXTINF:-1 tvg-id="" tvg-name="Temple Bar" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8b17acafc7a8363de6b040bbeda039d6.png" group-title="Câmeras | 24 Horas",Temple Bar
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40113
 #EXTINF:-1 tvg-id="" tvg-name="Teodoro & Sampaio" tvg-logo="" group-title="Shows",Teodoro & Sampaio
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39791
 #EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/Lasl3ys.png" group-title="Canais | Variedades",Terra Viva
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37004
-#EXTINF:-1 tvg-id="" tvg-name="Times Square" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/79f69f9233742d0aa618e83574ea854e.jpg" group-title="Câmeras | 24 Horas",Times Square
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40112
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Canais | Variedades",TLC HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36902
 #EXTINF:-1 tvg-id="" tvg-name="TLC SD" tvg-logo="http://images.mi.tv/channels/br_tlc_m.png" group-title="Canais | Variedades",TLC SD
@@ -704,14 +688,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40128
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37003
 #EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida HD" tvg-logo="" group-title="Canais | Religioso",TV Aparecida HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41341
-#EXTINF:-1 tvg-id="" tvg-name="TV Câmara" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a21e5d497fe0f1fc302afd7f02082730.jpg" group-title="Canais | Variedades",TV Câmara
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40189
-#EXTINF:-1 tvg-id="CATVE" tvg-name="TV CATVE SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b3559796c3af8698f1de6163c34454cb.jpg" group-title="Canais | Variedades",TV CATVE SD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40186
-#EXTINF:-1 tvg-id="" tvg-name="TV Diário SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="Canais | Abertos",TV Diário SD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40226
-#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="http://i.imgur.com/oSZZKxP.png" group-title="Canais | Abertos",TV Escola
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36999
 #EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="Canais | Religioso",TV Evangelizar
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40072
 #EXTINF:-1 tvg-id="TV Imaculada Conceicao" tvg-name="TV Imaculada SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/798e12bbccbc19d6e254463b1b072f06.png" group-title="Canais | Religioso",TV Imaculada SD
