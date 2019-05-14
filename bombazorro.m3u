@@ -244,12 +244,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36968
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37090
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37361
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL ES HD" tvg-logo="" group-title="Canais | Abertos",GLOBO TV GAZETA SUL ES HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42998
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA VITORIA" tvg-logo="" group-title="Canais | Abertos",GLOBO TV GAZETA VITORIA
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42978
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA VITORIA HD" tvg-logo="" group-title="Canais | Abertos",GLOBO TV GAZETA VITORIA HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42980
 #EXTINF:-1 tvg-id="Globo News HD" tvg-name="GloboNews" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37093
 #EXTINF:-1 tvg-id="Globo News" tvg-name="GloboNews HD" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews HD
@@ -468,22 +462,12 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40229
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36947
 #EXTINF:-1 tvg-id="Record MG FHD" tvg-name="Record MG HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record MG HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41361
-#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="Record MG SD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record MG SD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41362
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41529
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37050
 #EXTINF:-1 tvg-id="RecordSD" tvg-name="RecordTV" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37051
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV BAHIA HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RECORDTV BAHIA HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42624
-#EXTINF:-1 tvg-id="" tvg-name="RecordTV Brasilia" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Brasilia
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42627
-#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RecordTV Brasilia HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Brasilia HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42626
-#EXTINF:-1 tvg-id="" tvg-name="RecordTV Rio" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Rio
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42637
 #EXTINF:-1 tvg-id="" tvg-name="RECORDTV RS" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RECORDTV RS
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42629
 #EXTINF:-1 tvg-id="" tvg-name="RECORDTV RS HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RECORDTV RS HD
