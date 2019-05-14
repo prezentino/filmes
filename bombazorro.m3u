@@ -41,6 +41,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36990
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37126
 #EXTINF:-1 tvg-id="" tvg-name="Band SP HD" tvg-logo="http://painel.linkiptv.ml/logocanais/band_br.png" group-title="Canais | Abertos",Band SP HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41530
+#EXTINF:-1 tvg-id="" tvg-name="Tv Gazeta Marco" tvg-logo="http://i.imgur.com/LDOGImV.jpg" group-title="Canais | Abertos",Tv Gazeta Marco
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Banda Calypso" tvg-logo="" group-title="Shows",Banda Calypso
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39787
 #EXTINF:-1 tvg-id="" tvg-name="BANDA FORROZÃO DAS ANTIGAS" tvg-logo="" group-title="Shows",BANDA FORROZÃO DAS ANTIGAS
