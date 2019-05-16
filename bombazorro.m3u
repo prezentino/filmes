@@ -292,8 +292,10 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39573
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40120
 #EXTINF:-1 tvg-id="Globo NSC Florianopolis HD" tvg-name="Globo Florianopolis" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Florianopolis
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/38641
-#EXTINF:-1 tvg-id="Globo Marco" tvg-name="Globo Florianopolis" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Marco
+#EXTINF:-1 tvg-id="Globo Marco" tvg-name="Globo Marco" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51145
+#EXTINF:-1 tvg-id="Globo Marco" tvg-name="Globo Marco HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51146
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="" group-title="Canais | Abertos",GLOBO NSC TV FLORIANOPOLIS HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42958
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PORTO ALEGRE" tvg-logo="" group-title="Canais | Abertos",GLOBO RBS TV PORTO ALEGRE
