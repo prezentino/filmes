@@ -171,6 +171,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36983
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50709
 #EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37112
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo Marco" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50710
 #EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36982
 #EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",Discovery World HD
