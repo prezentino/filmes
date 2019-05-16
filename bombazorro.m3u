@@ -285,6 +285,12 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36969
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clarencio [24h]" tvg-logo="https://imgur.com/0tK8520.jpg" group-title="Canais | 24 Horas",Clarencio [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marvel [24h]" tvg-logo="" group-title="Canais | 24 Horas",Marvel [24h]
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Apenas um Show [24h]" tvg-logo="" group-title="Canais | 24 Horas",Apenas Um Show [24h]
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A pantera Cor de Rosa [24h]" tvg-logo="" group-title="Canais | 24 Horas",A pantera cor de rosa [24h]
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13152.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e7/Galinha_Pintadinha.png/255px-Galinha_Pintadinha.png" group-title="Canais | 24 Horas",Galinha Pintadinha [24h]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39570
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
@@ -296,6 +302,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40120
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/38641
 #EXTINF:-1 tvg-id="Globo Marco" tvg-name="Globo Marco" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51145
+#EXTINF:-1 tvg-id="Globo Marco 2" tvg-name="Globo Marco" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Marco 2
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13042.m3u8
 #EXTINF:-1 tvg-id="Globo Marco" tvg-name="Globo Marco HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51146
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="" group-title="Canais | Abertos",GLOBO NSC TV FLORIANOPOLIS HD
