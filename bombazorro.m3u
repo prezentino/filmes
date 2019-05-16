@@ -428,7 +428,7 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40518
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37070
 #EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36957
-#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow HD
+#EXTINF:-1 tvg-id="" tvg-name="Multishow Marco" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50857
 #EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brazil
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37069
@@ -436,8 +436,12 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37069
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37067
 #EXTINF:-1 tvg-id="Nat Geo Kids Alternativo HD" tvg-name="NatGeo Kids HD" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36909
+#EXTINF:-1 tvg-id="Nat Geo Kids Marco" tvg-name="NatGeo Kids HD" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50903
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="National Geographic Wild" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37066
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="National Geographic Wild Marco" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50902
 #EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="National Geographic Wild HD" tvg-logo="http://i.imgur.com/QouD1hh.png" group-title="Canais | Documentarios",National Geographic Wild HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36955
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="NATIONAL GEOGRAPHICS" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",NATIONAL GEOGRAPHICS
