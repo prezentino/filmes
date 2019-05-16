@@ -157,10 +157,14 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50704
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37115
 #EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37113
+#EXTINF:-1 tvg-id="Discovery Kids Marco" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50706
 #EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36923
 #EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science HD" tvg-logo="http://logowow.net/logos/Y8rtqQriW.png" group-title="Canais | Documentarios",Discovery Science HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36922
+#EXTINF:-1 tvg-id="Discovery Science Marco" tvg-name="Discovery Science HD" tvg-logo="http://logowow.net/logos/Y8rtqQriW.png" group-title="Canais | Documentarios",Discovery Science Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50708
 #EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Documentarios",Discovery Theater HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36983
 #EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo
