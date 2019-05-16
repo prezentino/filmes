@@ -101,12 +101,16 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39762
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42620
 #EXTINF:-1 tvg-id="Cinemax SD" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Canais | Filmes e Series",Cinemax
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37120
+#EXTINF:-1 tvg-id="Cinemax SD Marco" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Canais | Filmes e Series",Cinemax Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50668
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais | Filmes e Series",Cinemax HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36926
 #EXTINF:-1 tvg-id="" tvg-name="Cocoricó [24h]" tvg-logo="https://i.pinimg.com/originals/d9/85/04/d985040b90dac7529ac94816b0dadcd9.png" group-title="Canais | 24 Horas",Cocoricó [24h]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39582
 #EXTINF:-1 tvg-id="CombateHD" tvg-name="Combate" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37119
+#EXTINF:-1 tvg-id="CombateHD" tvg-name="Combate Marc0" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50671
 #EXTINF:-1 tvg-id="CombateHD" tvg-name="Combate Marc0" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate Marc0
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50673
 #EXTINF:-1 tvg-id="CombateHD" tvg-name="Combate Marco" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate Marco
@@ -117,6 +121,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42635
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36986
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37118
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central Marco" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50674
 #EXTINF:-1 tvg-id="Comedy Central Marco" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50537
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central HD
