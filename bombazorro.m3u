@@ -291,6 +291,8 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13055.m3u8
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13098.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e7/Galinha_Pintadinha.png/255px-Galinha_Pintadinha.png" group-title="Canais | 24 Horas",Galinha Pintadinha [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Winx [24h]" tvg-logo="" group-title="Canais | 24 Horas",Winx [24h]
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13518.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Garfield [24h]" tvg-logo="http://2.bp.blogspot.com/-bMLyzRKgRbc/U7a7nU5RFvI/AAAAAAAABvA/mugFra_KGJ4/s1600/image009.gif" group-title="Canais | 24 Horas",Garfield [24h]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39573
 #EXTINF:-1 tvg-id="" tvg-name="Gazeta HD" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/s1600/Logo+TV+Gazeta.png" group-title="Canais | Variedades",Gazeta HD
