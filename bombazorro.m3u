@@ -408,6 +408,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50842
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37075
 #EXTINF:-1 tvg-id="MegapixHD" tvg-name="Megapix" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",Megapix
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37072
+#EXTINF:-1 tvg-id="MegapixHD" tvg-name="Megapix Marco" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",Megapix MArco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51047
 #EXTINF:-1 tvg-id="MegaPix HD" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",Megapix HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36958
 #EXTINF:-1 tvg-id="" tvg-name="Metálica" tvg-logo="" group-title="Shows",Metálica
@@ -592,8 +594,10 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51024
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36946
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37048
-#EXTINF:-1 tvg-id="SBT Marco" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT Marco
+#EXTINF:-1 tvg-id="SBT Marco" tvg-name="SBT Marco" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT Marco
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w1396576526.m3u8
+#EXTINF:-1 tvg-id="SBT Marco" tvg-name="SBT Marco" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51039
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36945
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo [24h]" tvg-logo="" group-title="Canais | 24 Horas",Scooby Doo [24h]
