@@ -233,7 +233,7 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40074
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37097
 #EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36969
-#EXTINF:-1 tvg-id="" tvg-name="Larva Tuba [24h]" group-title="Canais | 24 Horas",Larva Tube [24h]
+#EXTINF:-1 tvg-id="" tvg-name="Larva Tuba [24h]" tvg-logo="https://img.youtube.com/vi/pBB9xzOSfrw/0.jpg" group-title="Canais | 24 Horas",Larva Tube [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e7/Galinha_Pintadinha.png/255px-Galinha_Pintadinha.png" group-title="Canais | 24 Horas",Galinha Pintadinha [24h]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39570
