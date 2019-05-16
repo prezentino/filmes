@@ -620,10 +620,16 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36944
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37256
 #EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv 2" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv 2
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37044
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv Marco" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51055
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv 2 Marco" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv 2 Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51049
 #EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv 2 HD" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv 2 HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36943
 #EXTINF:-1 tvg-id="SporTV 3" tvg-name="Sportv 3" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",Sportv 3
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37006
+#EXTINF:-1 tvg-id="SporTV 3 Marco" tvg-name="Sportv 3" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",Sportv 3 Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51053
 #EXTINF:-1 tvg-id="" tvg-name="Sportv 3 HD" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",Sportv 3 HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36942
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 4K" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais 4K",SPORTV 4K
@@ -646,6 +652,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36940
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37037
 #EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Action
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37040
+#EXTINF:-1 tvg-id="Telecine Action Marco" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Action Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51083
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Action HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36939
 #EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/XvhwDTh.png" group-title="Canais | Filmes e Series",Telecine Cult
