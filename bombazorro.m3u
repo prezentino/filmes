@@ -177,8 +177,12 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50710
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36982
 #EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",Discovery World HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36981
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World Marco" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",Discovery World Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50712
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37111
+#EXTINF:-1 tvg-id="Disney Channel Marco" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50713
 #EXTINF:-1 tvg-id="Disney Channel Alternativo HD" tvg-name="Disney Channel HD" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36921
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/HNCqSdX.png" group-title="Canais | Infantil",Disney Junior
