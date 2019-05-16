@@ -366,8 +366,10 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36963
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37082
 #EXTINF:-1 tvg-id="HBO Signaturehd" tvg-name="HBO Signature HD" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Filmes e Series",HBO Signature HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36962
-#EXTINF:-1 tvg-id="" tvg-name="He Man [24h]" tvg-logo="https://www.impaktovisual.com.br/3759-large_default/display-de-festa-infantil.jpg" group-title="Canais | 24 Horas",He Man [24h]
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats [24h]" tvg-logo="https://www.impaktovisual.com.br/3759-large_default/display-de-festa-infantil.jpg" group-title="Canais | 24 Horas",Thundercats [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pica pau [24h]" tvg-logo="https://www.impaktovisual.com.br/3759-large_default/display-de-festa-infantil.jpg" group-title="Canais | 24 Horas",Pica Pau [24h]
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13422.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37081
 #EXTINF:-1 tvg-id="" tvg-name="History Marco" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History Marco
