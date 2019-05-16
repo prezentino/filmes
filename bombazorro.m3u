@@ -326,6 +326,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36967
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50775
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37087
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Marco" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50792
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Filmes e Series",HBO 2
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37086
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO 2 HD" tvg-logo="http://t.likeiptv.com/hbo2hd.png" group-title="Canais | Filmes e Series",HBO 2 HD
@@ -336,10 +338,14 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50788
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37085
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://t.likeiptv.com/hbohddd.png" group-title="Canais | Filmes e Series",HBO Family HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36965
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family Marco" tvg-logo="http://t.likeiptv.com/hbohddd.png" group-title="Canais | Filmes e Series",HBO Family Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50790
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://t.likeiptv.com/hbohd.png" group-title="Canais | Filmes e Series",HBO HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36964
 #EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37084
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus Marco" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50793
 #EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS E" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO PLUS E
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37083
 #EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus HD" tvg-logo="http://t.likeiptv.com/hboplushd.png" group-title="Canais | Filmes e Series",HBO Plus HD
@@ -352,6 +358,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36962
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39776
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37081
+#EXTINF:-1 tvg-id="" tvg-name="History Marco" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50798
 #EXTINF:-1 tvg-id="H2" tvg-name="History 2" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History 2
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42915
 #EXTINF:-1 tvg-id="H2" tvg-name="History 2 Marco" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History 2 Marco
@@ -364,6 +372,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36960
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40075
 #EXTINF:-1 tvg-id="" tvg-name="ID: Investigação Discovery" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Canais | Documentarios",ID: Investigação Discovery
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37114
+#EXTINF:-1 tvg-id="" tvg-name="ID: Investigação Discovery Marco" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Canais | Documentarios",ID: Investigação Discovery Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50803
 #EXTINF:-1 tvg-id="Investigação Discovery" tvg-name="Investigação Discovery HD" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Canais | Documentarios",Investigação Discovery HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36959
 #EXTINF:-1 tvg-id="" tvg-name="IMPD TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="Canais | Religioso",IMPD TV
@@ -392,6 +402,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36912
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37073
 #EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP HD" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Filmes e Series",Max UP HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36911
+#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP HD" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Filmes e Series",Max UP HD
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50842
 #EXTINF:-1 tvg-id="Max Prime HD" tvg-name="MaxPrime" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",MaxPrime
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37075
 #EXTINF:-1 tvg-id="MegapixHD" tvg-name="Megapix" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",Megapix
