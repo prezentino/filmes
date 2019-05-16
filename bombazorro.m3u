@@ -508,8 +508,12 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50954
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50976
 #EXTINF:-1 tvg-id="" tvg-name="Premiere Sky 4 Marco" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere SKY 4 Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50977
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Sky 5 Marco" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere SKY 5 Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50983
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2 HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36952
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 Marco" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2 Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50984
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37059
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3 HD
