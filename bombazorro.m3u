@@ -201,6 +201,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37108
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36920
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://bit.ly/2GLHTrI" group-title="Canais | Esportes",ESPN
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37105
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Marco" tvg-logo="https://bit.ly/2GLHTrI" group-title="Canais | Esportes",ESPN Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50734
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Marco" tvg-logo="https://bit.ly/2GLHTrI" group-title="Canais | Esportes",ESPN MArco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50541
 #EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN 2 HD
@@ -209,6 +211,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36976
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/43430
 #EXTINF:-1 tvg-id="ESPN BrasilHD" tvg-name="Espn Brasil" tvg-logo="https://bit.ly/2ICVj9U" group-title="Canais | Esportes",Espn Brasil
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37104
+#EXTINF:-1 tvg-id="ESPN BrasilHD" tvg-name="Espn Brasil" tvg-logo="https://bit.ly/2ICVj9U" group-title="Canais | Esportes",Espn Brasil
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50736
 #EXTINF:-1 tvg-id="ESPN BrasilHD" tvg-name="ESPN Brasil HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5R2hNRFnQfEI9Cv1wXmjdYTJOXbnpwPJgI_Ky_hujhkeWDJ_XQ" group-title="Canais | Esportes",ESPN Brasil HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36978
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN Extra
@@ -237,6 +241,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37101
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50544
 #EXTINF:-1 tvg-id="Fox Channel HD" tvg-name="Fox Channel HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36972
+#EXTINF:-1 tvg-id="Fox Channel HD" tvg-name="Fox Channel Marco" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50747
 #EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37335
 #EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 1  HD" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1  HD
@@ -247,6 +253,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37336
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36973
 #EXTINF:-1 tvg-id="FoxLife" tvg-name="FoxLife" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Filmes e Series",FoxLife
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37100
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FoxLife Marco" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Filmes e Series",FoxLife Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50748
 #EXTINF:-1 tvg-id="FoxLife HD" tvg-name="FoxLife HD" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Variedades",FoxLife HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36918
 #EXTINF:-1 tvg-id="FoxSports" tvg-name="FoxSports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports
