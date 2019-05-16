@@ -500,6 +500,10 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41359
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39777
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37060
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Sky Marco" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere SKY Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50953
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Sky 2 Marco" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere SKY 2 Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50954
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2 HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36952
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3
@@ -574,6 +578,8 @@ https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w1396576526.m3u8
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36945
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo [24h]" tvg-logo="" group-title="Canais | 24 Horas",Scooby Doo [24h]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41898
+#EXTINF:-1 tvg-id="" tvg-name="XUXA [24h]" tvg-logo="" group-title="Canais | 24 Horas",XUXA [24h]
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50956
 #EXTINF:-1 tvg-id="" tvg-name="SHOW DA VIOLA" tvg-logo="" group-title="Shows",SHOW DA VIOLA
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39770
 #EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria Bar das Coleguinhas" tvg-logo="" group-title="Shows",Simone e Simaria Bar das Coleguinhas
