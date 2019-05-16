@@ -658,10 +658,14 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51083
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36939
 #EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/XvhwDTh.png" group-title="Canais | Filmes e Series",Telecine Cult
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37039
+#EXTINF:-1 tvg-id="Telecine Cult Marco" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/XvhwDTh.png" group-title="Canais | Filmes e Series",Telecine Cult Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51085
 #EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Canais | Filmes e Series",Telecine Cult HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36901
 #EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",Telecine Fun
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37005
+#EXTINF:-1 tvg-id="Telecine Fun Marco" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",Telecine Fun Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51087
 #EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",Telecine Fun HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36938
 #EXTINF:-1 tvg-id="Telecine Pipoca  HD" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Canais | Filmes e Series",Telecine Pipoca
