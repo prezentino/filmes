@@ -81,6 +81,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37122
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37023
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37121
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50667
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36927
 #EXTINF:-1 tvg-id="" tvg-name="Charlie e Lola [24h]" tvg-logo="http://www.mag2u.com/images/custom/cnl/charlielola.png" group-title="Canais | 24 Horas",Charlie e Lola [24h]
@@ -452,8 +454,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37053
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42572
 #EXTINF:-1 tvg-id="" tvg-name="Racionais Mc's" tvg-logo="" group-title="Shows",Racionais Mc's
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39784
-#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 SD" tvg-logo="" group-title="Canais | Internacionais",RAI NEWS 24 SD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41576
 #EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",RBS TV Porto Alegre
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40253
 #EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",RBS TV Porto Alegre HD
@@ -500,8 +500,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41898
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39770
 #EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria Bar das Coleguinhas" tvg-logo="" group-title="Shows",Simone e Simaria Bar das Coleguinhas
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39792
-#EXTINF:-1 tvg-id="" tvg-name="SKY News HD" tvg-logo="https://i.imgur.com/kpRfowV.jpg" group-title="Canais | Internacionais",SKY News HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40223
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37007
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony HD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony HD
@@ -540,8 +538,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37041
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36940
 #EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM" tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png" group-title="Canais | Filmes e Series",TCM
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37037
-#EXTINF:-1 tvg-id="" tvg-name="TeleBärn" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9005845dafd7598d202d9b1e8221e6f7.png" group-title="Canais | Internacionais",TeleBärn
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40201
 #EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Action
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37040
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Action HD
@@ -566,8 +562,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36936
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36995
 #EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Filmes e Series",Telecine Touch HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36935
-#EXTINF:-1 tvg-id="" tvg-name="Telekanal 360HD" tvg-logo="" group-title="Canais | Internacionais",Telekanal 360HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/43002
 #EXTINF:-1 tvg-id="" tvg-name="Teletubbies [24h]" tvg-logo="https://2.bp.blogspot.com/-ldyYvygC3tA/V2KchfdiSaI/AAAAAAAAXXw/Q_kpOc1OGfAMWQUuefQ-Iwt7jW7r--MoACLcB/s640/teletubbies-brand-image_v5.png" group-title="Canais | 24 Horas",Teletubbies [24h]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39583
 #EXTINF:-1 tvg-id="" tvg-name="Teodoro & Sampaio" tvg-logo="" group-title="Shows",Teodoro & Sampaio
@@ -606,8 +600,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40127
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41371
 #EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV Ra Tim Bum" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil",TV Ra Tim Bum
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37015
-#EXTINF:-1 tvg-id="" tvg-name="TV Red Bull HD" tvg-logo="https://store-images.s-microsoft.com/image/apps.17102.9007199266286060.e5a6c641-2165-46d1-90f1-429549b643cd.baa183a4-ef9a-488a-a0e1-fab4395f0c7d?w=180&h=180&q=60" group-title="Canais | Internacionais",TV Red Bull HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40370
 #EXTINF:-1 tvg-id="Rede Gospel" tvg-name="TV Rede Gospel SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4bde8a9c788e4ae4b2d76359d0889963.jpg" group-title="Canais | Religioso",TV Rede Gospel SD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40247
 #EXTINF:-1 tvg-id="Rede Seculo 21" tvg-name="Tv Século 21" tvg-logo="http://i.imgur.com/ORv5J6Y.png" group-title="Canais | Religioso",Tv Século 21
