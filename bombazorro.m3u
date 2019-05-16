@@ -167,6 +167,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36922
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50708
 #EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Documentarios",Discovery Theater HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36983
+#EXTINF:-1 tvg-id="Discovery Theater Marco" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Documentarios",Discovery Theater Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50709
 #EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37112
 #EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo HD
