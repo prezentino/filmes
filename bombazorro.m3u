@@ -67,6 +67,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36988
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40745
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil",Boomerang
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37123
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang Marco" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil",Boomerang Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50663
 #EXTINF:-1 tvg-id="" tvg-name="CABARE EDUARDO COSTA & LEONARDO" tvg-logo="" group-title="Shows",CABARE EDUARDO COSTA & LEONARDO
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39768
 #EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense  2(Funcionamento apenas em dias de jogos)" tvg-logo="" group-title="Canais | Esportes",Campeonato Catarinense  2(Funcionamento apenas em dias de jogos)
