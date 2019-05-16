@@ -658,14 +658,14 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50654
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50655
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50613
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="" group-title="Canais | Esportes",BAND Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50613
 #EXTINF:-1 tvg-id="BandSports HD" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50612
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BAND SPORTS HD [Alternativo]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50656
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BAND SPORTS SD [Alternativo]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50657
-#EXTINF:-1 tvg-id="" tvg-name="BBB A CASA HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BBB A CASA HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50658
 #EXTINF:-1 tvg-id="" tvg-name="BIS HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BIS HD [Alternativo]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50661
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BOOMERANG HD [Alternativo]
