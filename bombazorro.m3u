@@ -369,8 +369,10 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37082
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36962
 #EXTINF:-1 tvg-id="" tvg-name="Thundercats [24h]" tvg-logo="https://www.impaktovisual.com.br/3759-large_default/display-de-festa-infantil.jpg" group-title="Canais | 24 Horas",Thundercats [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pica pau [24h]" tvg-logo="https://www.impaktovisual.com.br/3759-large_default/display-de-festa-infantil.jpg" group-title="Canais | 24 Horas",Pica Pau [24h]
+#EXTINF:-1 tvg-id="" tvg-name="Pica pau [24h]" tvg-logo="" group-title="Canais | 24 Horas",Pica Pau [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="He Man [24h]" tvg-logo="" group-title="Canais | 24 Horas",He Man [24h]
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13522.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Flinstones [24h]" tvg-logo="" group-title="Canais | 24 Horas",Flinstones [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13429.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="caes de resgate [24h]" tvg-logo="" group-title="Canais | 24 Horas",caes de resgate [24h]
