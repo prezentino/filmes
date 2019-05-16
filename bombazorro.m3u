@@ -416,6 +416,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42577
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39789
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37071
+#EXTINF:-1 tvg-id="" tvg-name="MTV Marco" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50855
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36910
 #EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVLIVE/large_white.png" group-title="Canais | Variedades",MTV Live
@@ -426,6 +428,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40518
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37070
 #EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36957
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow HD
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50857
 #EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brazil
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37069
 #EXTINF:-1 tvg-id="Nat Geo Kids Alternativo HD" tvg-name="NatGeo Kids" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids
