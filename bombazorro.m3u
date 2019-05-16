@@ -676,6 +676,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51089
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36937
 #EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Filmes e Series",Telecine Premium
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36994
+#EXTINF:-1 tvg-id="Telecine Premium Marco" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Filmes e Series",Telecine Premium Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51104
 #EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Filmes e Series",Telecine Premium HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36936
 #EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Filmes e Series",Telecine Touch
