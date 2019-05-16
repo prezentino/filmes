@@ -3,8 +3,8 @@
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37130
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36929
-#EXTINF:-1 tvg-id="" tvg-name="Aeromsith" tvg-logo="" group-title="Shows",Aeromsith
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42571
+#EXTINF:-1 tvg-id="A&E Marco" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50614
 #EXTINF:-1 tvg-id="" tvg-name="TOPTV Sertaneja" tvg-logo="" group-title="Shows",TOPTV Sertaneja
 http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
 #EXTINF:-1 tvg-id="Agro Canal" tvg-name="Agro Canal" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf87ee412553236ff71fdb6a2f5d8ce.jpg" group-title="Canais | Abertos",Agro Canal
@@ -29,6 +29,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36992
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37133
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37132
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN Marco" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50644
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36991
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV
