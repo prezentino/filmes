@@ -658,7 +658,7 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50654
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50655
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50613
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="" group-title="Canais | Esportes",BAND Marco
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Esportes",BAND Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50613
 #EXTINF:-1 tvg-id="BandSports HD" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50612
