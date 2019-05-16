@@ -18,7 +18,7 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36928
 #EXTINF:-1 tvg-id="" tvg-name="amigaozao [24h]" tvg-logo="https://media.fstatic.com/yx2ORRqyHCShqDHo1PhyHdy7Qd4=/fit-in/290x478/smart/media/movies/covers/2017/01/amigaozao.png" group-title="Canais | 24 Horas",amigaozao [24h]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40786
 #EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa [24h]" tvg-logo="http://kitdepontos.com.br/wp-content/uploads/2016/09/ponto-pantera-cor-de-rosa-kitdepontos.com_.br_.png" group-title="Canais | 24 Horas",A Pantera Cor de Rosa [24h]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39576
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13152.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Angel TV [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",Angel TV [Alternativo]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/43000
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",Animal Planet
@@ -291,8 +291,6 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13184.m3u8
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13055.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Apenas um Show [24h]" tvg-logo="" group-title="Canais | 24 Horas",Apenas Um Show [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A pantera Cor de Rosa [24h]" tvg-logo="" group-title="Canais | 24 Horas",A pantera cor de rosa [24h]
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13152.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e7/Galinha_Pintadinha.png/255px-Galinha_Pintadinha.png" group-title="Canais | 24 Horas",Galinha Pintadinha [24h]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39570
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
