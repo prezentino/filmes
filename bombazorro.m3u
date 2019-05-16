@@ -285,6 +285,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36969
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clarencio [24h]" tvg-logo="https://imgur.com/0tK8520.jpg" group-title="Canais | 24 Horas",Clarencio [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vai que cola [24h]" tvg-logo="http://s2.glbimg.com/g6MnfxjlEwXv7XACFyctt1caVKg=/300x180/g.glbimg.com/og/gs/gsat4/f/thumbs/programa/2017/10/02/VQC_220817_FtGutoCosta_0900.jpg" group-title="Canais | 24 Horas",Vai que cola [24h]
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13184.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Marvel [24h]" tvg-logo="" group-title="Canais | 24 Horas",Marvel [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13055.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Apenas um Show [24h]" tvg-logo="" group-title="Canais | 24 Horas",Apenas Um Show [24h]
