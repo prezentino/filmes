@@ -232,10 +232,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39573
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40120
 #EXTINF:-1 tvg-id="Globo NSC Florianopolis HD" tvg-name="Globo Florianopolis" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Florianopolis
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/38641
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO" tvg-logo="" group-title="Canais | Abertos",GLOBO NSC TV CHAPECO
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42971
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="" group-title="Canais | Abertos",GLOBO NSC TV CHAPECO HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42970
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="" group-title="Canais | Abertos",GLOBO NSC TV FLORIANOPOLIS HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42958
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PORTO ALEGRE" tvg-logo="" group-title="Canais | Abertos",GLOBO RBS TV PORTO ALEGRE
@@ -492,8 +488,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37048
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w1396576526.m3u8
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36945
-#EXTINF:-1 tvg-id="SBT Interior SP" tvg-name="SBT SP Interior" tvg-logo="http://painel.linkiptv.ml/logocanais/sbt_br.png" group-title="Canais | Abertos",SBT SP Interior
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42912
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo [24h]" tvg-logo="" group-title="Canais | 24 Horas",Scooby Doo [24h]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41898
 #EXTINF:-1 tvg-id="" tvg-name="SHOW DA VIOLA" tvg-logo="" group-title="Shows",SHOW DA VIOLA
@@ -604,10 +598,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37015
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40247
 #EXTINF:-1 tvg-id="Rede Seculo 21" tvg-name="Tv Século 21" tvg-logo="http://i.imgur.com/ORv5J6Y.png" group-title="Canais | Religioso",Tv Século 21
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40098
-#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-name="TV TEM Bauru" tvg-logo="https://i.imgur.com/n6a7ez8.png" group-title="Canais | Abertos",TV TEM Bauru
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37030
-#EXTINF:-1 tvg-id="TV TEM Sorocaba" tvg-name="TV TEM Sorocaba" tvg-logo="https://i.imgur.com/n6a7ez8.png" group-title="Canais | Abertos",TV TEM Sorocaba
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37029
 #EXTINF:-1 tvg-id="" tvg-name="Tv Universal" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c3d5c184450857c9f064bd7b608e9fb8.jpg" group-title="Canais | Religioso",Tv Universal
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40079
 #EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal Channel
@@ -620,8 +610,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36900
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36997
 #EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36931
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Jasmin TV" tvg-logo="http://i.imgur.com/DLEFDcv.png" group-title="Canais | Adultos",[XX] Jasmin TV
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40305
 #EXTINF:-1 tvg-id="" tvg-name="[XX] Playboy TV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Canais | Adultos",[XX] Playboy TV
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37061
 #EXTINF:-1 tvg-id="PlayboyTV" tvg-name="[XX] Playboy TV HD" tvg-logo="http://4.bp.blogspot.com/-zoABwtfCqyI/VnH8ehrNSwI/AAAAAAAAAdU/qZU8akpmPfE/s1600/PLAYBOYTVHD-2012.png" group-title="Canais | Adultos",[XX] Playboy TV HD
