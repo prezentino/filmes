@@ -193,6 +193,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50715
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40517
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil",Disney XD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37109
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD Marco" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil",Disney XD MArco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50717
 #EXTINF:-1 tvg-id="" tvg-name="E! Entertainment Television" tvg-logo="https://goo.gl/V6G6Hy" group-title="Canais | Variedades",E! Entertainment Television
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37108
 #EXTINF:-1 tvg-id="E! HD" tvg-name="E! HD" tvg-logo="https://goo.gl/V6G6Hy" group-title="Canais | Variedades",E! HD
