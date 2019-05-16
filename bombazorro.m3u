@@ -137,6 +137,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39785
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39780
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37116
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel Marco" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel MArco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50681
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36985
 #EXTINF:-1 tvg-id="Discovery Channel Marco" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel Marco
@@ -145,8 +147,12 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50538
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36924
 #EXTINF:-1 tvg-id="Discovery Civilization Marco" tvg-name="Discovery Civilization HD" tvg-logo="https://1.bp.blogspot.com/-zfUSjCPSqE0/WasIODWYBVI/AAAAAAAACSE/7Y3DoKQVXuQrsCbTghQBC_Ni-DG6Mej4ACLcBGAs/s1600/downloadfile-1.png" group-title="Canais | Documentarios",Discovery Civilization Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50539
+#EXTINF:-1 tvg-id="Discovery Civilization Marco" tvg-name="Discovery Civilization HD" tvg-logo="https://1.bp.blogspot.com/-zfUSjCPSqE0/WasIODWYBVI/AAAAAAAACSE/7Y3DoKQVXuQrsCbTghQBC_Ni-DG6Mej4ACLcBGAs/s1600/downloadfile-1.png" group-title="Canais | Documentarios",Discovery Civilization Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50702
 #EXTINF:-1 tvg-id="Discovery Home & HealthHD" tvg-name="Discovery Home & Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Documentarios",Discovery Home & Health
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36984
+#EXTINF:-1 tvg-id="Discovery Home & HealthHD Marco" tvg-name="Discovery Home & Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Documentarios",Discovery Home & Health Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50704
 #EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-name="Discovery Home & Health HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Home & Health HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37115
 #EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids
