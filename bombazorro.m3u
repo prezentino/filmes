@@ -35,8 +35,12 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50644
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36991
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36993
+#EXTINF:-1 tvg-id="BabyTV Marco" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50649
 #EXTINF:-1 tvg-id="Band HD" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37127
+#EXTINF:-1 tvg-id="Band HD" tvg-name="Band Marco" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50652
 #EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36990
 #EXTINF:-1 tvg-id="BandNews FHD" tvg-name="Band News" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",Band News
@@ -660,6 +664,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50654
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50655
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50613
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS Marco" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS MArco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50656
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Esportes",BAND Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50613
 #EXTINF:-1 tvg-id="BandSports HD" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS HD
