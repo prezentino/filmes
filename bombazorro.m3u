@@ -109,6 +109,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42635
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36986
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37118
+#EXTINF:-1 tvg-id="Comedy Central Marco" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50537
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36925
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
@@ -123,8 +125,12 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39780
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37116
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36985
+#EXTINF:-1 tvg-id="Discovery Channel Marco" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50538
 #EXTINF:-1 tvg-id="Discovery Civilization HD" tvg-name="Discovery Civilization HD" tvg-logo="https://1.bp.blogspot.com/-zfUSjCPSqE0/WasIODWYBVI/AAAAAAAACSE/7Y3DoKQVXuQrsCbTghQBC_Ni-DG6Mej4ACLcBGAs/s1600/downloadfile-1.png" group-title="Canais | Documentarios",Discovery Civilization HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36924
+#EXTINF:-1 tvg-id="Discovery Civilization Marco" tvg-name="Discovery Civilization HD" tvg-logo="https://1.bp.blogspot.com/-zfUSjCPSqE0/WasIODWYBVI/AAAAAAAACSE/7Y3DoKQVXuQrsCbTghQBC_Ni-DG6Mej4ACLcBGAs/s1600/downloadfile-1.png" group-title="Canais | Documentarios",Discovery Civilization Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50539
 #EXTINF:-1 tvg-id="Discovery Home & HealthHD" tvg-name="Discovery Home & Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Documentarios",Discovery Home & Health
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36984
 #EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-name="Discovery Home & Health HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Home & Health HD
@@ -159,6 +165,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37108
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36920
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://bit.ly/2GLHTrI" group-title="Canais | Esportes",ESPN
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37105
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Marco" tvg-logo="https://bit.ly/2GLHTrI" group-title="Canais | Esportes",ESPN MArco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50541
 #EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN 2 HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36976
 #EXTINF:-1 tvg-id="ESPN" tvg-name="Globo 4K" tvg-logo="" group-title="Canais 4K",Globo 4K
@@ -189,6 +197,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37102
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36919
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37101
+#EXTINF:-1 tvg-id="" tvg-name="Fox Marco" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50544
 #EXTINF:-1 tvg-id="Fox Channel HD" tvg-name="Fox Channel HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36972
 #EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1
@@ -209,6 +219,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37099
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37098
 #EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FoxSports 2 HD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports 2 HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36971
+#EXTINF:-1 tvg-id="Fox Sports Marco" tvg-name="FoxSports 2 HD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50545
 #EXTINF:-1 tvg-id="FoxSports" tvg-name="FoxSports 4K" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais 4K",FoxSports 4K
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40784
 #EXTINF:-1 tvg-id="Fox Sports HD" tvg-name="FoxSports HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports HD
