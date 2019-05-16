@@ -440,6 +440,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36909
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50903
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="National Geographic Wild" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37066
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="National Geographic Wild Marco" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild MArco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50920
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="National Geographic Wild Marco" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50902
 #EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="National Geographic Wild HD" tvg-logo="http://i.imgur.com/QouD1hh.png" group-title="Canais | Documentarios",National Geographic Wild HD
@@ -450,10 +452,14 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37068
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36956
 #EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37064
+#EXTINF:-1 tvg-id="" tvg-name="Nick Marco" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50935
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick HD" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36907
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick Jr.
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37065
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr. Marco" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick Jr.Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50932
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr. HD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick Jr. HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36908
 #EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-logo="https://i.imgur.com/Y2ncDiz.png" group-title="Canais | Religioso",Novo Tempo
