@@ -330,6 +330,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37087
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37086
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO 2 HD" tvg-logo="http://t.likeiptv.com/hbo2hd.png" group-title="Canais | Filmes e Series",HBO 2 HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36966
+#EXTINF:-1 tvg-id="HBO HD Marco" tvg-name="HBO 2 HD" tvg-logo="http://t.likeiptv.com/hbo2hd.png" group-title="Canais | Filmes e Series",HBO 2 Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50788
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Filmes e Series",HBO Family
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37085
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://t.likeiptv.com/hbohddd.png" group-title="Canais | Filmes e Series",HBO Family HD
@@ -352,6 +354,8 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39776
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37081
 #EXTINF:-1 tvg-id="H2" tvg-name="History 2" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History 2
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42915
+#EXTINF:-1 tvg-id="H2" tvg-name="History 2 Marco" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History 2 Marco
+http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50786
 #EXTINF:-1 tvg-id="H2" tvg-name="History 2 HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History 2 HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36961
 #EXTINF:-1 tvg-id="History" tvg-name="History HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History HD
