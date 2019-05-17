@@ -307,8 +307,6 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13042.m3u8
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51146
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="" group-title="Canais | Abertos",GLOBO NSC TV FLORIANOPOLIS HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42958
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIPA MARCO" tvg-logo="" group-title="Canais | Abertos",GLOBO NSC TV FLORIPA MARCO
-http://tv.factoryiptv.com:80/andre/andre/42985
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PORTO ALEGRE" tvg-logo="" group-title="Canais | Abertos",GLOBO RBS TV PORTO ALEGRE
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42959
 #EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo Rio" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio
