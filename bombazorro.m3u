@@ -19,8 +19,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36928
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40786
 #EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa [24h]" tvg-logo="http://kitdepontos.com.br/wp-content/uploads/2016/09/ponto-pantera-cor-de-rosa-kitdepontos.com_.br_.png" group-title="Canais | 24 Horas",A Pantera Cor de Rosa [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Angel TV [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",Angel TV [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/43000
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",Animal Planet
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37128
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",Animal Planet HD
@@ -181,8 +179,6 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50712
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37111
 #EXTINF:-1 tvg-id="Disney Channel Marco" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50713
-#EXTINF:-1 tvg-id="Disney Channel Alternativo HD" tvg-name="Disney Channel HD" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36921
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/HNCqSdX.png" group-title="Canais | Infantil",Disney Junior
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37110
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior Marco" tvg-logo="https://i.imgur.com/HNCqSdX.png" group-title="Canais | Infantil",Disney Junior Marco
@@ -459,10 +455,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36957
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50857
 #EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brazil
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37069
-#EXTINF:-1 tvg-id="Nat Geo Kids Alternativo HD" tvg-name="NatGeo Kids" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37067
-#EXTINF:-1 tvg-id="Nat Geo Kids Alternativo HD" tvg-name="NatGeo Kids HD" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36909
 #EXTINF:-1 tvg-id="Nat Geo Kids Marco" tvg-name="NatGeo Kids HD" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50903
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="National Geographic Wild" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild
@@ -775,36 +767,6 @@ http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37047
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37009
 #EXTINF:-1 tvg-id="" tvg-name="[XX] Venus" tvg-logo="https://i.imgur.com/Ru2GvCs.png" group-title="Canais | Adultos",[XX] Venus
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37026
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",A&E HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50614
-#EXTINF:-1 tvg-id="AXN" tvg-name="A&E SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",A&E SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50628
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",AMC HD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50639
-#EXTINF:-1 tvg-id="" tvg-name="AMC SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",AMC SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50640
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",ANIMAL PLANET SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50641
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",Arte 1 HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50642
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",Arte 1 SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50643
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",AXN HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50646
-#EXTINF:-1 tvg-id="" tvg-name="AXN SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",AXN SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50647
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BABY TV HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50648
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BABY TV SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50649
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BAND CAMPINAS HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50650
-#EXTINF:-1 tvg-id="" tvg-name="BAND HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BAND HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50652
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BAND NEWS HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50654
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BAND NEWS SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50655
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50613
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS Marco" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS MArco
@@ -813,189 +775,38 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50656
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50613
 #EXTINF:-1 tvg-id="BandSports HD" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50612
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BAND SPORTS HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50656
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BAND SPORTS SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50657
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BIS HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50661
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",BOOMERANG HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50664
 #EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="" group-title="Canais | H265",Canal do Boi
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50645
 #EXTINF:-1 tvg-id="" tvg-name="Canal Futebol" tvg-logo="" group-title="Canais | Esportes",Canal Futebol
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50651
-#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",CANCAO NOVA [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50665
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK H265" tvg-logo="" group-title="Canais | H265",CARTOON NETWORK H265
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50534
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",CARTOON NETWORK HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50667
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX H265" tvg-logo="" group-title="Canais | H265",CINEMAX H265
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50535
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",CINEMAX HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50669
-#EXTINF:-1 tvg-id="" tvg-name="CNT [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",CNT [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50670
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE H265" tvg-logo="" group-title="Canais | H265",COMBATE H265
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50536
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",COMBATE HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50672
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL H265" tvg-logo="" group-title="Canais | H265",COMEDY CENTRAL H265
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50537
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",COMEDY CENTRAL HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50674
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",COMEDY CENTRAL SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50675
-#EXTINF:-1 tvg-id="" tvg-name="CURTA SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",CURTA SD [Alternativo]
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50676
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL H265" tvg-logo="" group-title="Canais | H265",DISCOVERY CHANNEL H265
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50538
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISCOVERY CHANNEL HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50691
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISCOVERY CHANNEL SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50701
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION H265" tvg-logo="" group-title="Canais | H265",DISCOVERY CIVILIZATION H265
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50539
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION HD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISCOVERY CIVILIZATION HD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50703
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH HD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISCOVERY HOME & HEALTH HD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50704
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HELTH SD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISCOVERY HOME & HELTH SD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50705
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISCOVERY KIDS HD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50706
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS SD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISCOVERY KIDS SD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50707
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Canais | Documentarios",DISCOVERY SCIENCE
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51002
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE H265" tvg-logo="" group-title="Canais | H265",DISCOVERY SCIENCE H265
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50540
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISCOVERY SCIENCE HD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50708
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="" group-title="Canais | H265",Discovery Theater
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51007
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISCOVERY THEATER HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50709
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISCOVERY TURBO HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50710
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISCOVERY TURBO SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50711
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISCOVERY WORLD HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50712
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISNEY CHANNEL HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50713
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISNEY CHANNEL SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50714
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISNEY JR HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50715
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISNEY JR SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50716
 #EXTINF:-1 tvg-id="Disney XD HD" tvg-name="Disney XD HD" tvg-logo="" group-title="Canais | H265",Disney XD HD
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51050
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISNEY XD HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50717
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",DISNEY XD SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50718
 #EXTINF:-1 tvg-id="" tvg-name="Doug 24h" tvg-logo="" group-title="Canais | 24 Horas",Doug 24h
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51003
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="" group-title="Canais | Alternativos",E!
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50720
-#EXTINF:-1 tvg-id="" tvg-name="E! HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",E! HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50719
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",ESPN 2  HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50734
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 H265" tvg-logo="" group-title="Canais | H265",ESPN 2 H265
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50541
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",ESPN BRASIL HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50736
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",ESPN BRASIL SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50737
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",ESPN HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50739
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",ESPN SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50740
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK H265" tvg-logo="" group-title="Canais | H265",FOOD NETWORK H265
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50543
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FOOD NETWORK HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50742
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FOOD NETWORK SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50745
 #EXTINF:-1 tvg-id="" tvg-name="FOX H265" tvg-logo="" group-title="Canais | H265",FOX H265
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50544
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FOX HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50747
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FOX LIFE HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50748
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FOX LIFE SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50749
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FOX PREMIUM 1 HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50750
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 HD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FOX PREMIUM 2 HD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50751
-#EXTINF:-1 tvg-id="" tvg-name="FOX SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FOX SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50752
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 H265" tvg-logo="" group-title="Canais | H265",FOX SPORTS 2 H265
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50545
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FOX SPORTS 2 HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50753
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FOX SPORTS 2 SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50754
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FOX SPORTS HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50755
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FOX SPORTS SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50756
-#EXTINF:-1 tvg-id="" tvg-name="FX HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FX HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50770
-#EXTINF:-1 tvg-id="" tvg-name="FX SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",FX SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50771
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS SD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",GLOBO EPTV SAO CARLOS SD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51145
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERTV CABUGI  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",GLOBO INTERTV CABUGI  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51153
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",GLOBO MINAS HD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51147
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS SD*  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",GLOBO MINAS SD*  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51154
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",GLOBO NORDESTE HD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51148
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",GLOBO RJ HD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51149
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",GLOBO SP HD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51150
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",GLOBO TV TRIBUNA SANTOS  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51155
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",GLOOB HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50773
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",GLOOBINHO SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50774
-#EXTINF:-1 tvg-id="" tvg-name="GNT HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",GNT HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50775
-#EXTINF:-1 tvg-id="" tvg-name="GNT SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",GNT SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50781
-#EXTINF:-1 tvg-id="" tvg-name="H2 HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",H2 HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50786
-#EXTINF:-1 tvg-id="" tvg-name="H2 SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",H2 SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50787
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",HBO 2 HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50788
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",HBO 2 SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50789
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",HBO FAMILY HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50790
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",HBO FAMILY SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50791
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",HBO HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50792
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS *E [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",HBO PLUS *E [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50793
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",HBO PLUS HD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51151
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS SD  [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",HBO PLUS SD  [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50794
-#EXTINF:-1 tvg-id="" tvg-name="HBO SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",HBO SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50795
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",HBO SIGNATURE HD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50796
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE SD [Alternativo]" tvg-logo="" group-title="Canais | Alternativos",HBO SIGNATURE SD [Alternativo]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50797
