@@ -63,12 +63,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50541
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50736
 #EXTINF:-1 tvg-id="" tvg-name="Fox Marco" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50544
-#EXTINF:-1 tvg-id="Fox Channel HD" tvg-name="Fox Channel HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36972
 #EXTINF:-1 tvg-id="Fox Channel HD" tvg-name="Fox Channel Marco" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50747
-#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37335
 #EXTINF:-1 tvg-id="Fox Premium Marco" tvg-name="Fox Premium 1" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50750
 #EXTINF:-1 tvg-id="FoxLife" tvg-name="FoxLife Marco" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Filmes e Series",FoxLife Marco
@@ -131,100 +127,22 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50786
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50803
 #EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP HD" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Filmes e Series",Max UP HD
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50842
-#EXTINF:-1 tvg-id="Max Prime HD" tvg-name="MaxPrime" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",MaxPrime
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37075
-#EXTINF:-1 tvg-id="MegapixHD" tvg-name="Megapix" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",Megapix
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37072
 #EXTINF:-1 tvg-id="MegapixHD" tvg-name="Megapix Marco" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",Megapix MArco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51047
-#EXTINF:-1 tvg-id="MegaPix HD" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",Megapix HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36958
-#EXTINF:-1 tvg-id="" tvg-name="Metálica" tvg-logo="" group-title="Shows",Metálica
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42577
-#EXTINF:-1 tvg-id="" tvg-name="Milionario e Jose Rico" tvg-logo="" group-title="Shows",Milionario e Jose Rico
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39789
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37071
 #EXTINF:-1 tvg-id="" tvg-name="MTV Marco" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50855
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36910
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVLIVE/large_white.png" group-title="Canais | Variedades",MTV Live
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40519
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV LIVE HD" tvg-logo="https://www.parabola.cz/img_logo/mtv-live-hd.gif" group-title="Canais | Variedades",MTV LIVE HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40518
-#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37070
-#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36957
 #EXTINF:-1 tvg-id="" tvg-name="Multishow Marco" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50857
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brazil
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37069
 #EXTINF:-1 tvg-id="Nat Geo Kids Marco" tvg-name="NatGeo Kids HD" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50903
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="National Geographic Wild" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37066
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="National Geographic Wild Marco" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild MArco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50920
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="National Geographic Wild Marco" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50902
-#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="National Geographic Wild HD" tvg-logo="http://i.imgur.com/QouD1hh.png" group-title="Canais | Documentarios",National Geographic Wild HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36955
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="NATIONAL GEOGRAPHICS" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",NATIONAL GEOGRAPHICS
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37068
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHICS HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/738.png" group-title="Canais | Documentarios",NATIONAL GEOGRAPHICS HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36956
-#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37064
 #EXTINF:-1 tvg-id="" tvg-name="Nick Marco" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50935
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick HD" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36907
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick Jr.
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37065
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr. Marco" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick Jr.Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50932
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr. HD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick Jr. HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36908
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-logo="https://i.imgur.com/Y2ncDiz.png" group-title="Canais | Religioso",Novo Tempo
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39793
-#EXTINF:-1 tvg-id="" tvg-name="O Incrivel Mundo de Gumball [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Amazing_World_of_Gumball_logo.png" group-title="Canais | 24 Horas",O Incrivel Mundo de Gumball [24h]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39774
-#EXTINF:-1 tvg-id="" tvg-name="O Maskara [24h]" tvg-logo="" group-title="Canais | 24 Horas",O Maskara [24h]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41895
-#EXTINF:-1 tvg-id="" tvg-name="O MELHOR DO PAGODE" tvg-logo="" group-title="Shows",O MELHOR DO PAGODE
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39773
-#EXTINF:-1 tvg-id="" tvg-name="Off" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Variedades",Off
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37063
-#EXTINF:-1 tvg-id="" tvg-name="Off HD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Variedades",Off HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36954
-#EXTINF:-1 tvg-id="" tvg-name="Os Flintstones [24h]" tvg-logo="" group-title="Canais | 24 Horas",Os Flintstones [24h]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42641
-#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Magicos [24h]" tvg-logo="https://colorir.org/wp-content/uploads/2015/03/os-padrinhos-magicos-para-colorir.png" group-title="Canais | 24 Horas",Os Padrinhos Magicos [24h]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39574
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Filmes e Series",Paramount Channel
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37062
-#EXTINF:-1 tvg-id="Paramount HD" tvg-name="Paramount HD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Filmes e Series",Paramount HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36953
-#EXTINF:-1 tvg-id="" tvg-name="PATATI PATATA [24h]" tvg-logo="https://occ-0-901-999.1.nflxso.net/art/3dbf7/2ae0a5ddd191aa9565d566c729882104f063dbf7.png" group-title="Canais | 24 Horas",PATATI PATATA [24h]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39781
-#EXTINF:-1 tvg-id="" tvg-name="Pearl Jam" tvg-logo="" group-title="Shows",Pearl Jam
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42444
-#EXTINF:-1 tvg-id="" tvg-name="Pepe Legal [24h]" tvg-logo="" group-title="Canais | 24 Horas",Pepe Legal [24h]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41897
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig [24h]" tvg-logo="https://www.peppapigliveaus.com/img/slides/Peppa.png" group-title="Canais | 24 Horas",Peppa Pig [24h]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39572
-#EXTINF:-1 tvg-id="" tvg-name="Pink Floyd" tvg-logo="" group-title="Shows",Pink Floyd
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42445
-#EXTINF:-1 tvg-id="" tvg-name="PJ Masks [24h]" tvg-logo="https://i1.wp.com/disneynews.us/wp-content/uploads/2018/04/l4406_4419_PJ-Masks.png" group-title="Canais | 24 Horas",PJ Masks [24h]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39775
-#EXTINF:-1 tvg-id="" tvg-name="PlayKids HD" tvg-logo="https://sydneyseast.kidsizeliving.com.au/dotAsset/f281f444-3ec8-4b01-826c-4287a7649bc6.png" group-title="Canais | Infantil",PlayKids HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41359
-#EXTINF:-1 tvg-id="" tvg-name="Popeye [24h]" tvg-logo="https://i.pinimg.com/originals/3a/c3/ac/3ac3ac9a957f934708c7ce785ece3dc0.png" group-title="Canais | 24 Horas",Popeye [24h]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39777
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37060
 #EXTINF:-1 tvg-id="" tvg-name="Premiere Sky Marco" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere SKY Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50953
 #EXTINF:-1 tvg-id="" tvg-name="Premiere Sky 2 Marco" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere SKY 2 Marco
@@ -237,278 +155,45 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50977
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50983
 #EXTINF:-1 tvg-id="" tvg-name="Premiere Sky 6 Marco" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere SKY 6 Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50985
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2 HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36952
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2 Marco" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2 Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50984
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37059
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3 Marco" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3 Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50986
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3 HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36951
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 4
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37058
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 4 HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36950
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 5
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37057
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 5 HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36949
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 6
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37056
-#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 6 HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36906
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 7
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37017
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 7 HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36905
-#EXTINF:-1 tvg-id="Premiere 9" tvg-name="Premiere 9 SD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Esportes",Premiere 9 SD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41305
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",PREMIERE CLUBES
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37016
 #EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes Marco" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Clubes Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51000
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Clubes HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36948
-#EXTINF:-1 tvg-id="Prime Box" tvg-name="Prime Box Brazil" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Filmes e Series",Prime Box Brazil
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37053
-#EXTINF:-1 tvg-id="" tvg-name="Queen" tvg-logo="" group-title="Shows",Queen
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42572
-#EXTINF:-1 tvg-id="" tvg-name="Racionais Mc's" tvg-logo="" group-title="Shows",Racionais Mc's
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39784
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",RBS TV Porto Alegre
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40253
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",RBS TV Porto Alegre HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40252
-#EXTINF:-1 tvg-id="RCI" tvg-name="RCI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TVCi.png/200px-TVCi.png" group-title="Canais | Religioso",RCI SD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40229
-#EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="Record HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36947
 #EXTINF:-1 tvg-id="TV RECORD Marco" tvg-name="Record HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51001
-#EXTINF:-1 tvg-id="Record MG FHD" tvg-name="Record MG HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record MG HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41361
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41529
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37050
-#EXTINF:-1 tvg-id="RecordSD" tvg-name="RecordTV" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37051
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV RS" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RECORDTV RS
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42629
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV RS HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RECORDTV RS HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/42628
-#EXTINF:-1 tvg-id="" tvg-name="Rede Minas" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/17007d69e234910da3da1ac85e3d49b9.jpg" group-title="Canais | Variedades",Rede Minas
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40183
-#EXTINF:-1 tvg-id="" tvg-name="Rede Plenitude TV" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/Logo_iaptd.png/460px-Logo_iaptd.png" group-title="Canais | Religioso",Rede Plenitude TV
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40078
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Religioso",Rede Vida
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37011
 #EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Religioso",Rede Vida Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51032
-#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37012
 #EXTINF:-1 tvg-id="Rede TV Marco" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51024
-#EXTINF:-1 tvg-id="" tvg-name="RedeTV HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36946
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37048
 #EXTINF:-1 tvg-id="SBT Marco" tvg-name="SBT Marco" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT Marco
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w1396576526.m3u8
 #EXTINF:-1 tvg-id="SBT Marco" tvg-name="SBT Marco" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51039
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36945
-#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo [24h]" tvg-logo="" group-title="Canais | 24 Horas",Scooby Doo [24h]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41898
 #EXTINF:-1 tvg-id="" tvg-name="XUXA [24h]" tvg-logo="" group-title="Canais | 24 Horas",XUXA [24h]
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50956
-#EXTINF:-1 tvg-id="" tvg-name="SHOW DA VIOLA" tvg-logo="" group-title="Shows",SHOW DA VIOLA
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39770
-#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria Bar das Coleguinhas" tvg-logo="" group-title="Shows",Simone e Simaria Bar das Coleguinhas
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39792
-#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37007
-#EXTINF:-1 tvg-id="Sony" tvg-name="Sony HD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36987
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Filmes e Series",Space
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37046
-#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Filmes e Series",Space HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36944
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",SporTV
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37256
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv 2" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv 2
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37044
 #EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv Marco" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51055
 #EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv 2 Marco" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv 2 Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51049
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv 2 HD" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv 2 HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36943
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="Sportv 3" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",Sportv 3
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37006
 #EXTINF:-1 tvg-id="SporTV 3 Marco" tvg-name="Sportv 3" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",Sportv 3 Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51053
-#EXTINF:-1 tvg-id="" tvg-name="Sportv 3 HD" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",Sportv 3 HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36942
-#EXTINF:-1 tvg-id="SporTVHD" tvg-name="Sportv HD" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37255
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Filmes e Series",Studio Universal
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37043
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Filmes e Series",Studio Universal HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36904
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Filmes e Series",Syfy
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37042
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy HD" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Filmes e Series",Syfy HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36903
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Canais | Variedades",TBS
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37041
-#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Canais | Variedades",TBS HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36940
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM" tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png" group-title="Canais | Filmes e Series",TCM
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37037
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Action
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37040
 #EXTINF:-1 tvg-id="Telecine Action Marco" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Action Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51083
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Action HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36939
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/XvhwDTh.png" group-title="Canais | Filmes e Series",Telecine Cult
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37039
 #EXTINF:-1 tvg-id="Telecine Cult Marco" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/XvhwDTh.png" group-title="Canais | Filmes e Series",Telecine Cult Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51085
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Canais | Filmes e Series",Telecine Cult HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36901
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",Telecine Fun
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37005
 #EXTINF:-1 tvg-id="Telecine Fun Marco" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",Telecine Fun Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51087
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",Telecine Fun HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36938
-#EXTINF:-1 tvg-id="Telecine Pipoca  HD" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Canais | Filmes e Series",Telecine Pipoca
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37038
 #EXTINF:-1 tvg-id="Telecine Pipoca Marco" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Canais | Filmes e Series",Telecine Pipoca Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51089
-#EXTINF:-1 tvg-id="Telecine Pipoca  HD" tvg-name="Telecine Pipoca HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Pipoca HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36937
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Filmes e Series",Telecine Premium
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36994
 #EXTINF:-1 tvg-id="Telecine Premium Marco" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Filmes e Series",Telecine Premium Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51104
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Filmes e Series",Telecine Premium HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36936
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Filmes e Series",Telecine Touch
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36995
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Filmes e Series",Telecine Touch HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36935
-#EXTINF:-1 tvg-id="" tvg-name="Teletubbies [24h]" tvg-logo="https://2.bp.blogspot.com/-ldyYvygC3tA/V2KchfdiSaI/AAAAAAAAXXw/Q_kpOc1OGfAMWQUuefQ-Iwt7jW7r--MoACLcB/s640/teletubbies-brand-image_v5.png" group-title="Canais | 24 Horas",Teletubbies [24h]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39583
-#EXTINF:-1 tvg-id="" tvg-name="Teodoro & Sampaio" tvg-logo="" group-title="Shows",Teodoro & Sampaio
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39791
-#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/Lasl3ys.png" group-title="Canais | Variedades",Terra Viva
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37004
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Canais | Variedades",TLC HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36902
-#EXTINF:-1 tvg-id="" tvg-name="TLC SD" tvg-logo="http://images.mi.tv/channels/br_tlc_m.png" group-title="Canais | Variedades",TLC SD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37036
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Filmes e Series",TNT
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37035
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT Marco" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Filmes e Series",TNT Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51119
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://t.likeiptv.com/tnthd1.png" group-title="Canais | Filmes e Series",TNT HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36934
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Series
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37034
 #EXTINF:-1 tvg-id="TNT Series Marco" tvg-name="TNT Series" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Series Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51121
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series HD" tvg-logo="http://t.likeiptv.com/tntserieshd.png" group-title="Canais | Filmes e Series",TNT Series HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36933
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Infantil",Tooncast
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37033
-#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="https://i.imgur.com/qxeEe8p.png" group-title="Canais | Variedades",TruTV
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37032
-#EXTINF:-1 tvg-id="" tvg-name="Turma da Monica [24h]" tvg-logo="http://1.bp.blogspot.com/-ksg1L-EuEJ0/UxfPcWiYZNI/AAAAAAAABi0/PFDR7T8OY2c/s1600/turma-da-monica.png" group-title="Canais | 24 Horas",Turma da Monica [24h]
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39571
-#EXTINF:-1 tvg-id="" tvg-name="Tv Alvorada Espirita SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c87e36de564e887c7a9ed534c1d1127a.png" group-title="Canais | Religioso",Tv Alvorada Espirita SD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40128
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Canais | Religioso",TV Aparecida
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37003
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida HD" tvg-logo="" group-title="Canais | Religioso",TV Aparecida HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/41341
-#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="Canais | Religioso",TV Evangelizar
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40072
-#EXTINF:-1 tvg-id="TV Imaculada Conceicao" tvg-name="TV Imaculada SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/798e12bbccbc19d6e254463b1b072f06.png" group-title="Canais | Religioso",TV Imaculada SD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40127
-#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV Ra Tim Bum" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil",TV Ra Tim Bum
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37015
-#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="TV Rede Gospel SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4bde8a9c788e4ae4b2d76359d0889963.jpg" group-title="Canais | Religioso",TV Rede Gospel SD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40247
-#EXTINF:-1 tvg-id="Rede Seculo 21" tvg-name="Tv Século 21" tvg-logo="http://i.imgur.com/ORv5J6Y.png" group-title="Canais | Religioso",Tv Século 21
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40098
-#EXTINF:-1 tvg-id="" tvg-name="Tv Universal" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c3d5c184450857c9f064bd7b608e9fb8.jpg" group-title="Canais | Religioso",Tv Universal
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40079
-#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal Channel
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37027
-#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel HD" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal Channel HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36932
-#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://i.imgur.com/ST4gtJb.png" group-title="Canais | Variedades",VH1 HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36900
-#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36997
-#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36931
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Playboy TV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Canais | Adultos",[XX] Playboy TV
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37061
-#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="[XX] Playboy TV HD" tvg-logo="http://4.bp.blogspot.com/-zoABwtfCqyI/VnH8ehrNSwI/AAAAAAAAAdU/qZU8akpmPfE/s1600/PLAYBOYTVHD-2012.png" group-title="Canais | Adultos",[XX] Playboy TV HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40749
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Canais | Adultos",[XX] Sextreme
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37047
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Sexy Hot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Canais | Adultos",[XX] Sexy Hot
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37009
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Venus" tvg-logo="https://i.imgur.com/Ru2GvCs.png" group-title="Canais | Adultos",[XX] Venus
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37026
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50613
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS Marco" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS MArco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50656
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Esportes",BAND Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50613
-#EXTINF:-1 tvg-id="BandSports HD" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50612
-#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="" group-title="Canais | H265",Canal do Boi
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50645
-#EXTINF:-1 tvg-id="" tvg-name="Canal Futebol" tvg-logo="" group-title="Canais | Esportes",Canal Futebol
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50651
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK H265" tvg-logo="" group-title="Canais | H265",CARTOON NETWORK H265
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50534
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX H265" tvg-logo="" group-title="Canais | H265",CINEMAX H265
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50535
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE H265" tvg-logo="" group-title="Canais | H265",COMBATE H265
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50536
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL H265" tvg-logo="" group-title="Canais | H265",COMEDY CENTRAL H265
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50537
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50676
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL H265" tvg-logo="" group-title="Canais | H265",DISCOVERY CHANNEL H265
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50538
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION H265" tvg-logo="" group-title="Canais | H265",DISCOVERY CIVILIZATION H265
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50539
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Canais | Documentarios",DISCOVERY SCIENCE
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51002
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE H265" tvg-logo="" group-title="Canais | H265",DISCOVERY SCIENCE H265
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50540
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="" group-title="Canais | H265",Discovery Theater
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51007
-#EXTINF:-1 tvg-id="Disney XD HD" tvg-name="Disney XD HD" tvg-logo="" group-title="Canais | H265",Disney XD HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51050
-#EXTINF:-1 tvg-id="" tvg-name="Doug 24h" tvg-logo="" group-title="Canais | 24 Horas",Doug 24h
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/51003
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 H265" tvg-logo="" group-title="Canais | H265",ESPN 2 H265
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50541
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK H265" tvg-logo="" group-title="Canais | H265",FOOD NETWORK H265
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50543
-#EXTINF:-1 tvg-id="" tvg-name="FOX H265" tvg-logo="" group-title="Canais | H265",FOX H265
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50544
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 H265" tvg-logo="" group-title="Canais | H265",FOX SPORTS 2 H265
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/50545
