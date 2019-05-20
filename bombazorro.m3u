@@ -71,38 +71,12 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50747
 http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37335
 #EXTINF:-1 tvg-id="Fox Premium Marco" tvg-name="Fox Premium 1" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50750
-#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 1  HD" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1  HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36974
-#EXTINF:-1 tvg-id="FoxPremium2" tvg-name="Fox Premium 2" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Filmes e Series",Fox Premium 2
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37336
-#EXTINF:-1 tvg-id="FoxPremium2" tvg-name="Fox Premium 2 HD" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Filmes e Series",Fox Premium 2 HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36973
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="FoxLife" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Filmes e Series",FoxLife
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37100
 #EXTINF:-1 tvg-id="FoxLife" tvg-name="FoxLife Marco" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Filmes e Series",FoxLife Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50748
-#EXTINF:-1 tvg-id="FoxLife HD" tvg-name="FoxLife HD" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Variedades",FoxLife HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36918
-#EXTINF:-1 tvg-id="FoxSports" tvg-name="FoxSports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37099
-#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FoxSports 2" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports 2
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37098
-#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FoxSports 2 HD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports 2 HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36971
 #EXTINF:-1 tvg-id="Fox Sports Marco" tvg-name="FoxSports 2 HD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50545
-#EXTINF:-1 tvg-id="Fox Sports HD" tvg-name="FoxSports HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36970
-#EXTINF:-1 tvg-id="" tvg-name="Frank Aguiar" tvg-logo="" group-title="Shows",Frank Aguiar
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/39788
-#EXTINF:-1 tvg-id="Futura SD" tvg-name="Futura" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/40074
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/37097
 #EXTINF:-1 tvg-id="FX" tvg-name="FX Marco" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50770
-#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX HD
-http://tv.factoryiptv.com:80/KF08srQMJ/phantomiptv/36969
 #EXTINF:-1 tvg-id="" tvg-name="Larva Tuba [24h]" tvg-logo="https://img.youtube.com/vi/pBB9xzOSfrw/0.jpg" group-title="Canais | 24 Horas",Larva Tube [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clarencio [24h]" tvg-logo="https://imgur.com/0tK8520.jpg" group-title="Canais | 24 Horas",Clarencio [24h]
