@@ -3,6 +3,17 @@
 
 <channels>
 <channel>
+<name>[COLOR white][B]TV[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/gJAafIS.jpg</thumbnail>
+<fanart>https://i.imgur.com/89g94HU.jpg</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://github.com/bombazorro/filmes/blob/master/menutv.xml</externallink>
+<info>A MELHOR SELECAO DE TVS PAGAS</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR white][B]FILMES[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/WpRyaKC.jpg</thumbnail>
 <fanart>https://i.imgur.com/6mXkJ5B.jpg</fanart>
@@ -37,7 +48,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]SPORTS[/B][/COLOR] - [COLOR red][B]NIL GAMES[/B][/COLOR]</name>
+<name>[COLOR white][B]SPORTS[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/afRWMVg.jpg</thumbnail>
 <fanart>https://i.imgur.com/89g94HU.jpg</fanart>
 <link>http://ignorar.com/</link>
@@ -48,23 +59,12 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]MUSICAS[/B][/COLOR] - [COLOR red][B]NIL GAMES[/B][/COLOR]</name>
+<name>[COLOR white][B]MUSICAS[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/4cx9hSX.jpg</thumbnail>
 <fanart>https://i.imgur.com/89g94HU.jpg</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://pastebin.com/raw/NxusRZZ9</externallink>
 <info>O MELHOR DA MUSICA VOCE ENCONTRA AQUI</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR white][B]GOSPEL[/B][/COLOR] - [COLOR red][B]NIL GAMES[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/gJAafIS.jpg</thumbnail>
-<fanart>https://i.imgur.com/89g94HU.jpg</fanart>
-<link>http://ignorar.com/</link>
-<externallink>https://pastebin.com/raw/3jdPLF3S</externallink>
-<info>O MELHOR DO GOSPEL VOCE ENCONTRA AQUI</info>
 </channel>
 </channels>
 
