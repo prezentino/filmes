@@ -11,6 +11,10 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50644
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50649
 #EXTINF:-1 tvg-id="Band HD" tvg-name="Band Marco" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50652
+#EXTINF:-1 tvg-id="Band HD" tvg-name="Band Marco3" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band Marco3
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:-1 tvg-id="Band HD" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Gazeta Marco" tvg-logo="http://i.imgur.com/LDOGImV.jpg" group-title="Canais | Abertos",Tv Gazeta Marco
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang Marco" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil",Boomerang Marco
