@@ -14,9 +14,20 @@
 
 <channels>
 <channel>
+<name>[COLOR white][B]DESENHOS[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/F3cCOqDb.jpg</thumbnail>
+<fanart>https://i.imgur.com/Z9QaMbGb.jpg</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/menudesenhos.xml</externallink>
+<info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR white][B]FILMES[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/WpRyaKC.jpg</thumbnail>
-<fanart>https://i.imgur.com/6mXkJ5B.jpg</fanart>
+<thumbnail>https://i.imgur.com/F3cCOqDb.jpg</thumbnail>
+<fanart>https://i.imgur.com/Z9QaMbGb.jpg</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://pastebin.com/raw/R2GqwjDj</externallink>
 <info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
@@ -36,29 +47,6 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]KIDS[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/UD4zjuf.jpg</thumbnail>
-<fanart>https://i.imgur.com/89g94HU.jpg</fanart>
-<link>http://ignorar.com/</link>
-<externallink>https://pastebin.com/raw/ZufbvjM3</externallink>
-<info>O MELHOR DO DESENHO VOCE ENCONTRA AQUI</info>
-</channel>
-</channels>
-
-
-<channels>
-<channel>
-<name>[COLOR white][B]SPORTS[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/afRWMVg.jpg</thumbnail>
-<fanart>https://i.imgur.com/89g94HU.jpg</fanart>
-<link>http://ignorar.com/</link>
-<externallink>https://pastebin.com/raw/49TZ6qMA</externallink>
-<info>O MELHOR DO SPORT VOCE ENCONTRA AQUI</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
 <name>[COLOR white][B]MUSICAS[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/4cx9hSX.jpg</thumbnail>
 <fanart>https://i.imgur.com/89g94HU.jpg</fanart>
@@ -68,14 +56,13 @@
 </channel>
 </channels>
 
-
 <channels>
 <channel>
-<name>[COLOR white][B]TV AO VIVO[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
+<name>[COLOR white][B]ADULTO[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/QktZidz.jpg</thumbnail>
 <fanart>https://i.imgur.com/89g94HU.jpg</fanart>
 <link>http://ignorar.com/</link>
-<externallink>https://pastebin.com/raw/9cKLJFy1</externallink>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/menuadulto</externallink>
 <info>O MELHOR DO IPTV VOCE ENCONTRA AQUI</info>
 </channel>
 </channels>
