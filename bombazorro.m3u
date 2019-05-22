@@ -167,7 +167,7 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50986
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51000
 #EXTINF:-1 tvg-id="TV RECORD Marco" tvg-name="Record HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51001
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Religioso",Rede Vida Marco
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Canais | Religioso",Rede Vida Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51032
 #EXTINF:-1 tvg-id="Rede TV Marco" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51024
@@ -202,33 +202,33 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50656
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Esportes",BAND Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50613
 ----------------- Teste 19
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="RELIGIOSO", TV Evangelizar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="Canais | Religioso", TV Evangelizar
 http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/cancaonova.png" group-title="RELIGIOSO", Canção Nova HD
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/cancaonova.png" group-title="Canais | Religioso", Canção Nova HD
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="RELIGIOSO", Rede Vida
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="Canais | Religioso", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="RELIGIOSO", Aparecida
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="Canais | Religioso", Aparecida
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
  
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSO", Rede Século 21
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/m7MQIPJ.png" group-title="Canais | Religioso", Rede Século 21
 http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?ValterHD
  
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/l2Fy8cv.png" group-title="RELIGIOSO", Rede Super
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/l2Fy8cv.png" group-title="Canais | Religioso", Rede Super
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
  
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="RELIGIOSO", Novo Tempo Moises
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="Canais | Religioso", Novo Tempo Moises
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IPTVPLENITUDE
  
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title="RELIGIOSO", IMPD TV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title="Canais | Religioso", IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
  
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/aiNRaga.png" group-title="RELIGIOSO", IURD TV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/aiNRaga.png" group-title="Canais | Religioso", IURD TV
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redegospel.png" group-title="RELIGIOSO",Rede Gospel
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redegospel.png" group-title="Canais | Religioso",Rede Gospel
 http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
  
