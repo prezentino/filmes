@@ -12,6 +12,19 @@
 </channel>
 </channels>
 
+
+
+<channels>
+<channel>
+<name>[COLOR white][B]DESENHOS[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/F3cCOqDb.jpg</thumbnail>
+<fanart>https://i.imgur.com/Z9QaMbGb.jpg</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://github.com/bombazorro/filmes/blob/master/menudesenhos</externallink>
+<info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
+</channel>
+</channels>
+
 <channels>
 <channel>
 <name>[COLOR white][B]FILMES[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
