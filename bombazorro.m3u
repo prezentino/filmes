@@ -21,6 +21,8 @@ http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50663
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network Marco" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50667
+#EXTINF:-1 tvg-id="Cartoon Network Teste" tvg-name="Cartoon Network Marco" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network Teste Marco
+http://br.e-tv.xyz/Cartoon_Network_HD/video.m3u8
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST Marco" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",tooncast
 http://br.e-tv.xyz/Tooncast_SD/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="Cinemax SD Marco" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Canais | Filmes e Series",Cinemax Marco
