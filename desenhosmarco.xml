@@ -60,6 +60,21 @@
 </item>
 
 <item>
+<title>[B][COLOR white]TEXTESEX - 2016[/COLOR][/B]</title>
+<link>$doregex[BP1]sexhot.m3u8$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQy-eIH4js6V7PHfSOLz4wMFdvJvM3kL6n7M35p1XAI9NTJu3R_</thumbnail>
+<fanart>http://www.osmais.com/wallpapers/201207/a-era-do-gelo-4-wallpaper.jpg</fanart>
+<info>Após uma nova trapalhada de Scat, uma catástrofe cósmica ameaça a vida na Terra, obrigando Manny, Ellie, Diego, Shira e Sid a deixarem seus lares.</info>
+<date>2016</date>
+</item>
+
+
+
+<item>
 <title>[B][COLOR white]A ERA DO GELO - A Grande Caçada Aos Ovos De Páscoa - 2016[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= https://drive.google.com/file/d/1v3bQplArSj2GqIa7V-5st1sSLspBw-Wu/view?usp=sharing </link>
 <thumbnail>https://is1-ssl.mzstatic.com/image/thumb/Video69/v4/f0/68/54/f068543c-563b-f594-e3f8-60c470413381/pr_source.lsr/1200x630bb.png</thumbnail>
