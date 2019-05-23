@@ -328,6 +328,8 @@ http://elitept.dynu.net:8080/pai/pai/31122
 http://elitept.dynu.net:8080/pai/pai/31120
 #EXTINF:-1 tvg-id="" tvg-name="BR:FOX HD" tvg-logo="" group-title="BRAZIL",BR:FOX HD
 http://elitept.dynu.net:8080/pai/pai/31119
+#EXTINF:-1 tvg-id="" tvg-name="BR:FOX HD Marco" tvg-logo="" group-title="BRAZIL",BR:FOX HD Marco
+http://br.e-tv.xyz/FOX_HD/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="" tvg-name="BR:FOX PREMIUM 1 HD" tvg-logo="" group-title="BRAZIL",BR:FOX PREMIUM 1 HD
 http://elitept.dynu.net:8080/pai/pai/31117
 #EXTINF:-1 tvg-id="" tvg-name="BR:FOX PREMIUM 2 HD" tvg-logo="" group-title="BRAZIL",BR:FOX PREMIUM 2 HD
