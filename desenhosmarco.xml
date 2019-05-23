@@ -48,14 +48,6 @@
 
 <item>
 <title>[B][COLOR white]A ERA DO GELO 5 - O Big Bang - 2016[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= https://drive.google.com/file/d/1QV7zk64mAK2ZlH5EGPsRYmWwIvIClHsa/view?usp=sharing</link>
-<thumbnail>https://1.bp.blogspot.com/-_7P47cuCrcw/V3sUT2REJ4I/AAAAAAAAHMI/SD7i5VzEhycYAhrLx7WjJKEQpTJ8cHafgCLcB/s1600/A%2Bera%2Bdo%2Bgelo%2BO%2Bbig%2Bbang.jpg</thumbnail>
-<fanart>https://www.corujinhalulu.com/wp-content/uploads/2016/07/resenha_a_era_do_gelo_5_o_big_bang_filme_critica_analise_corujinhalulu.png</fanart>
-<info>Sinopse: Após uma nova trapalhada de Scat, uma catástrofe cósmica ameaça a vida na Terra, obrigando Manny, Ellie, Diego, Shira e Sid a deixarem seus lares.</info>
-<item>
-
-<item>
-<title>[COLOR white][B]A ERA DO GELO: O BIG BANG[/B][/COLOR]</title>
 <link>$doregex[BP1]AERDGLOBB.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
