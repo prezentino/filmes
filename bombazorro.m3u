@@ -37,6 +37,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50673
 http://iptvtool.es:9977/JESUS/JESUS/59438
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central Marco" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50674
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central Marco Teste" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central Teste Marco
+http://br.e-tv.xyz/Comedy_Centra_lHD/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="Comedy Central Marco" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50537
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel Marco" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel MArco
