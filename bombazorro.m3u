@@ -73,6 +73,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50544
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50747
 #EXTINF:-1 tvg-id="Fox Premium Marco" tvg-name="Fox Premium 1" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50750
+#EXTINF:-1 tvg-id="Fox Premium 2 Marco" tvg-name="Fox Premium 1" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 2 Marco
+http://br.e-tv.xyz/FOX_PREMIUM_2_HD/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="FoxLife" tvg-name="FoxLife Marco" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Filmes e Series",FoxLife Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50748
 #EXTINF:-1 tvg-id="Fox Sports Marco" tvg-name="FoxSports 2 HD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports Marco
@@ -199,6 +201,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51083
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51085
 #EXTINF:-1 tvg-id="Telecine Fun Marco" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",Telecine Fun Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51087
+#EXTINF:-1 tvg-id="Telecine Funy Marco" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",Telecine Funy Marco
+http://br.e-tv.xyz/Telecine_Fun_HD/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="Telecine Pipoca Marco" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Canais | Filmes e Series",Telecine Pipoca Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51089
 #EXTINF:-1 tvg-id="Telecine Premium Marco" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Filmes e Series",Telecine Premium Marco
