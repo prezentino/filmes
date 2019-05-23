@@ -187,6 +187,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51039
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50956
 #EXTINF:-1 tvg-id="" tvg-name="Gato de Botas [24h]" tvg-logo="" group-title="Canais | 24 Horas",Gato de Botas [24h]
 http://br.e-tv.xyz/GATODEBOTAS/video.m3u8?token=cw3bU4Gg63
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS [24h]" tvg-logo="" group-title="Canais | 24 Horas",TODO MUNDO ODEIA O CHRIS [24h]
+http://br.e-tv.xyz/TODOMUNDOODEIACHRIS/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv Marco" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51055
 #EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv 2 Marco" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv 2 Marco
