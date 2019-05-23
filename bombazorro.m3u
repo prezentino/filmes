@@ -51,6 +51,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50708
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50709
 #EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo Marco" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50710
+#EXTINF:-1 tvg-id="Discovery Turbo HD2" tvg-name="Discovery Turbo Marco" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo2 Marco
+http://br.e-tv.xyz/DISCOVERY_TURBO_HD*/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World Marco" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",Discovery World Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50712
 #EXTINF:-1 tvg-id="Disney Channel Marco" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel Marco
@@ -167,6 +169,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50986
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51000
 #EXTINF:-1 tvg-id="TV RECORD Marco" tvg-name="Record HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51001
+#EXTINF:-1 tvg-id="TV RECORD2 Marco" tvg-name="Record HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record2 Marco
+http://br.e-tv.xyz/RECORDHD/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Religioso",Rede Vida Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51032
 #EXTINF:-1 tvg-id="Rede TV Marco" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV Marco
