@@ -207,6 +207,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51121
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50656
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Esportes",BAND Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50613
+#EXTINF:-1 tvg-id="FBI" tvg-name="FBI" tvg-logo="" group-title="Canais | Filmes",FBI Marco
+http://br.e-tv.xyz/FBI/video.m3u8?token=cw3bU4Gg63
 ----------------- Teste 19
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="Canais | Religioso", TV Evangelizar
 http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
