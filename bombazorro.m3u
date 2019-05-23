@@ -99,6 +99,8 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13516.m3u8
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13518.m3u8
 #EXTINF:-1 tvg-id="Globo Marco" tvg-name="Globo Marco" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51145
+#EXTINF:-1 tvg-id="Globo Marco" tvg-name="Globo Marco" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo full Marco
+http://br.e-tv.xyz/GLOBOSPFULLHD/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="Globo Marco 2" tvg-name="Globo Marco" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Marco 2
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13042.m3u8
 #EXTINF:-1 tvg-id="Globo Marco" tvg-name="Globo Marco HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Marco
