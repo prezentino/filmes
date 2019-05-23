@@ -242,3 +242,254 @@ http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
  
 #EXTINF:-1 tvg-id="Globo Teste" tvg-name="Globo Teste" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Teste
 http://elitept.dynu.net:8080/pai/pai/8300
+
+
+-------------------- Teste Brasil
+#EXTINF:-1 tvg-id="" tvg-name="BR:FOX LIFE HD" tvg-logo="" group-title="BRAZIL",BR:FOX LIFE HD
+http://elitept.dynu.net:8080/pai/pai/31118
+#EXTINF:-1 tvg-id="" tvg-name="BR: A E HD" tvg-logo="" group-title="BRAZIL",BR: A E HD
+http://elitept.dynu.net:8080/pai/pai/31157
+#EXTINF:-1 tvg-id="" tvg-name="BR:AMC HD" tvg-logo="" group-title="BRAZIL",BR:AMC HD
+http://elitept.dynu.net:8080/pai/pai/31156
+#EXTINF:-1 tvg-id="" tvg-name="BR:ANIMAL PLANET HD" tvg-logo="" group-title="BRAZIL",BR:ANIMAL PLANET HD
+http://elitept.dynu.net:8080/pai/pai/31155
+#EXTINF:-1 tvg-id="" tvg-name="BR:ARTE 1 HD" tvg-logo="" group-title="BRAZIL",BR:ARTE 1 HD
+http://elitept.dynu.net:8080/pai/pai/31154
+#EXTINF:-1 tvg-id="" tvg-name="BR:AXN HD" tvg-logo="" group-title="BRAZIL",BR:AXN HD
+http://elitept.dynu.net:8080/pai/pai/31153
+#EXTINF:-1 tvg-id="" tvg-name="BR:BAND CAMPINAS HD" tvg-logo="" group-title="BRAZIL",BR:BAND CAMPINAS HD
+http://elitept.dynu.net:8080/pai/pai/31152
+#EXTINF:-1 tvg-id="" tvg-name="BR:BAND HD" tvg-logo="" group-title="BRAZIL",BR:BAND HD
+http://elitept.dynu.net:8080/pai/pai/31151
+#EXTINF:-1 tvg-id="" tvg-name="BR:BAND NEWS HD" tvg-logo="" group-title="BRAZIL",BR:BAND NEWS HD
+http://elitept.dynu.net:8080/pai/pai/31150
+#EXTINF:-1 tvg-id="" tvg-name="BR:BAND SPORTS HD" tvg-logo="" group-title="BRAZIL",BR:BAND SPORTS HD
+http://elitept.dynu.net:8080/pai/pai/31149
+#EXTINF:-1 tvg-id="" tvg-name="BR:BIG BROTHER BRASIL HD" tvg-logo="" group-title="BRAZIL",BR:BIG BROTHER BRASIL HD
+http://elitept.dynu.net:8080/pai/pai/31148
+#EXTINF:-1 tvg-id="" tvg-name="BR:BIG BROTHER BRASIL MOSAICO HD" tvg-logo="" group-title="BRAZIL",BR:BIG BROTHER BRASIL MOSAICO HD
+http://elitept.dynu.net:8080/pai/pai/31147
+#EXTINF:-1 tvg-id="" tvg-name="BR:BIS HD" tvg-logo="" group-title="BRAZIL",BR:BIS HD
+http://elitept.dynu.net:8080/pai/pai/31146
+#EXTINF:-1 tvg-id="" tvg-name="BR:BOOMERANG HD" tvg-logo="" group-title="BRAZIL",BR:BOOMERANG HD
+http://elitept.dynu.net:8080/pai/pai/31145
+#EXTINF:-1 tvg-id="" tvg-name="BR:CANAL BRASIL HD" tvg-logo="" group-title="BRAZIL",BR:CANAL BRASIL HD
+http://elitept.dynu.net:8080/pai/pai/31144
+#EXTINF:-1 tvg-id="" tvg-name="BR:CANAL SONY HD" tvg-logo="" group-title="BRAZIL",BR:CANAL SONY HD
+http://elitept.dynu.net:8080/pai/pai/31143
+#EXTINF:-1 tvg-id="" tvg-name="BR:CARTOON NETWORK HD" tvg-logo="" group-title="BRAZIL",BR:CARTOON NETWORK HD
+http://elitept.dynu.net:8080/pai/pai/31142
+#EXTINF:-1 tvg-id="" tvg-name="BR:CINEMAX HD" tvg-logo="" group-title="BRAZIL",BR:CINEMAX HD
+http://elitept.dynu.net:8080/pai/pai/31141
+#EXTINF:-1 tvg-id="" tvg-name="BR:COMBATE HD" tvg-logo="" group-title="BRAZIL",BR:COMBATE HD
+http://elitept.dynu.net:8080/pai/pai/31140
+#EXTINF:-1 tvg-id="" tvg-name="BR:COMEDY CENTRAL HD" tvg-logo="" group-title="BRAZIL",BR:COMEDY CENTRAL HD
+http://elitept.dynu.net:8080/pai/pai/31139
+#EXTINF:-1 tvg-id="" tvg-name="BR:COPA NORDESTE 1 HD" tvg-logo="" group-title="BRAZIL",BR:COPA NORDESTE 1 HD
+http://elitept.dynu.net:8080/pai/pai/31138
+#EXTINF:-1 tvg-id="" tvg-name="BR:COPA NORDESTE 2 HD" tvg-logo="" group-title="BRAZIL",BR:COPA NORDESTE 2 HD
+http://elitept.dynu.net:8080/pai/pai/31137
+#EXTINF:-1 tvg-id="" tvg-name="BR:DAZN HD" tvg-logo="" group-title="BRAZIL",BR:DAZN HD
+http://elitept.dynu.net:8080/pai/pai/31110
+#EXTINF:-1 tvg-id="" tvg-name="BR:DISCOVERY CHANNEL HD" tvg-logo="" group-title="BRAZIL",BR:DISCOVERY CHANNEL HD
+http://elitept.dynu.net:8080/pai/pai/31136
+#EXTINF:-1 tvg-id="" tvg-name="BR:DISCOVERY CIVILIZATION HD" tvg-logo="" group-title="BRAZIL",BR:DISCOVERY CIVILIZATION HD
+http://elitept.dynu.net:8080/pai/pai/31135
+#EXTINF:-1 tvg-id="" tvg-name="BR:DISCOVERY HOME e HEALTH HD" tvg-logo="" group-title="BRAZIL",BR:DISCOVERY HOME e HEALTH HD
+http://elitept.dynu.net:8080/pai/pai/31134
+#EXTINF:-1 tvg-id="" tvg-name="BR:DISCOVERY KIDS HD" tvg-logo="" group-title="BRAZIL",BR:DISCOVERY KIDS HD
+http://elitept.dynu.net:8080/pai/pai/31133
+#EXTINF:-1 tvg-id="" tvg-name="BR:DISCOVERY SCIENCE HD" tvg-logo="" group-title="BRAZIL",BR:DISCOVERY SCIENCE HD
+http://elitept.dynu.net:8080/pai/pai/31132
+#EXTINF:-1 tvg-id="" tvg-name="BR:DISCOVERY THEATER HD" tvg-logo="" group-title="BRAZIL",BR:DISCOVERY THEATER HD
+http://elitept.dynu.net:8080/pai/pai/31131
+#EXTINF:-1 tvg-id="" tvg-name="BR:DISCOVERY TURBO HD" tvg-logo="" group-title="BRAZIL",BR:DISCOVERY TURBO HD
+http://elitept.dynu.net:8080/pai/pai/31130
+#EXTINF:-1 tvg-id="" tvg-name="BR:DISCOVERY WORLD HD" tvg-logo="" group-title="BRAZIL",BR:DISCOVERY WORLD HD
+http://elitept.dynu.net:8080/pai/pai/31129
+#EXTINF:-1 tvg-id="" tvg-name="BR:DISNEY CHANNEL HD" tvg-logo="" group-title="BRAZIL",BR:DISNEY CHANNEL HD
+http://elitept.dynu.net:8080/pai/pai/31128
+#EXTINF:-1 tvg-id="" tvg-name="BR:DISNEY JUNIOR HD" tvg-logo="" group-title="BRAZIL",BR:DISNEY JUNIOR HD
+http://elitept.dynu.net:8080/pai/pai/31127
+#EXTINF:-1 tvg-id="" tvg-name="BR:DISNEY XD HD" tvg-logo="" group-title="BRAZIL",BR:DISNEY XD HD
+http://elitept.dynu.net:8080/pai/pai/31126
+#EXTINF:-1 tvg-id="" tvg-name="BR:E! HD" tvg-logo="" group-title="BRAZIL",BR:E! HD
+http://elitept.dynu.net:8080/pai/pai/31125
+#EXTINF:-1 tvg-id="" tvg-name="BR:ESPN 2 HD" tvg-logo="" group-title="BRAZIL",BR:ESPN 2 HD
+http://elitept.dynu.net:8080/pai/pai/31124
+#EXTINF:-1 tvg-id="" tvg-name="BR:ESPN BRASIL HD" tvg-logo="" group-title="BRAZIL",BR:ESPN BRASIL HD
+http://elitept.dynu.net:8080/pai/pai/31123
+#EXTINF:-1 tvg-id="" tvg-name="BR:ESPN HD" tvg-logo="" group-title="BRAZIL",BR:ESPN HD
+http://elitept.dynu.net:8080/pai/pai/31122
+#EXTINF:-1 tvg-id="" tvg-name="BR:FOOD NETWORK HD" tvg-logo="" group-title="BRAZIL",BR:FOOD NETWORK HD
+http://elitept.dynu.net:8080/pai/pai/31120
+#EXTINF:-1 tvg-id="" tvg-name="BR:FOX HD" tvg-logo="" group-title="BRAZIL",BR:FOX HD
+http://elitept.dynu.net:8080/pai/pai/31119
+#EXTINF:-1 tvg-id="" tvg-name="BR:FOX PREMIUM 1 HD" tvg-logo="" group-title="BRAZIL",BR:FOX PREMIUM 1 HD
+http://elitept.dynu.net:8080/pai/pai/31117
+#EXTINF:-1 tvg-id="" tvg-name="BR:FOX PREMIUM 2 HD" tvg-logo="" group-title="BRAZIL",BR:FOX PREMIUM 2 HD
+http://elitept.dynu.net:8080/pai/pai/31116
+#EXTINF:-1 tvg-id="" tvg-name="BR:FOX SPORTS 2 HD" tvg-logo="" group-title="BRAZIL",BR:FOX SPORTS 2 HD
+http://elitept.dynu.net:8080/pai/pai/31115
+#EXTINF:-1 tvg-id="" tvg-name="BR:FOX SPORTS 2 SD" tvg-logo="" group-title="BRAZIL",BR:FOX SPORTS 2 SD
+http://elitept.dynu.net:8080/pai/pai/31114
+#EXTINF:-1 tvg-id="" tvg-name="BR:FOX SPORTS HD" tvg-logo="" group-title="BRAZIL",BR:FOX SPORTS HD
+http://elitept.dynu.net:8080/pai/pai/31113
+#EXTINF:-1 tvg-id="" tvg-name="BR:FOX SPORTS SD" tvg-logo="" group-title="BRAZIL",BR:FOX SPORTS SD
+http://elitept.dynu.net:8080/pai/pai/31112
+#EXTINF:-1 tvg-id="" tvg-name="BR:FX HD" tvg-logo="" group-title="BRAZIL",BR:FX HD
+http://elitept.dynu.net:8080/pai/pai/31121
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Minas Gerais" tvg-logo="" group-title="BRAZIL",BR: Globo Minas Gerais
+http://elitept.dynu.net:8080/pai/pai/31648
+#EXTINF:-1 tvg-id="" tvg-name="BR:GLOBO BRASILIA HD" tvg-logo="" group-title="BRAZIL",BR:GLOBO BRASILIA HD
+http://elitept.dynu.net:8080/pai/pai/31111
+#EXTINF:-1 tvg-id="" tvg-name="BR:GLOBO RJ" tvg-logo="" group-title="BRAZIL",BR:GLOBO RJ
+http://elitept.dynu.net:8080/pai/pai/31108
+#EXTINF:-1 tvg-id="" tvg-name="BR:GLOBO RJ HD" tvg-logo="" group-title="BRAZIL",BR:GLOBO RJ HD
+http://elitept.dynu.net:8080/pai/pai/31109
+#EXTINF:-1 tvg-id="" tvg-name="BR:GLOBO SP" tvg-logo="" group-title="BRAZIL",BR:GLOBO SP
+http://elitept.dynu.net:8080/pai/pai/31107
+#EXTINF:-1 tvg-id="" tvg-name="BR:GLOBO SP HD" tvg-logo="" group-title="BRAZIL",BR:GLOBO SP HD
+http://elitept.dynu.net:8080/pai/pai/31106
+#EXTINF:-1 tvg-id="" tvg-name="BR:GLOOB" tvg-logo="" group-title="BRAZIL",BR:GLOOB
+http://elitept.dynu.net:8080/pai/pai/31104
+#EXTINF:-1 tvg-id="" tvg-name="BR:GLOOB HD" tvg-logo="" group-title="BRAZIL",BR:GLOOB HD
+http://elitept.dynu.net:8080/pai/pai/31105
+#EXTINF:-1 tvg-id="" tvg-name="BR:GLOOBINHO HD" tvg-logo="" group-title="BRAZIL",BR:GLOOBINHO HD
+http://elitept.dynu.net:8080/pai/pai/31103
+#EXTINF:-1 tvg-id="" tvg-name="BR:GNT HD" tvg-logo="" group-title="BRAZIL",BR:GNT HD
+http://elitept.dynu.net:8080/pai/pai/31102
+#EXTINF:-1 tvg-id="" tvg-name="BR:H2 HD" tvg-logo="" group-title="BRAZIL",BR:H2 HD
+http://elitept.dynu.net:8080/pai/pai/31101
+#EXTINF:-1 tvg-id="" tvg-name="BR:HBO 2 HD" tvg-logo="" group-title="BRAZIL",BR:HBO 2 HD
+http://elitept.dynu.net:8080/pai/pai/31100
+#EXTINF:-1 tvg-id="" tvg-name="BR:HBO Family HD" tvg-logo="" group-title="BRAZIL",BR:HBO Family HD
+http://elitept.dynu.net:8080/pai/pai/31099
+#EXTINF:-1 tvg-id="" tvg-name="BR:HBO HD" tvg-logo="" group-title="BRAZIL",BR:HBO HD
+http://elitept.dynu.net:8080/pai/pai/31098
+#EXTINF:-1 tvg-id="" tvg-name="BR:HBO PLUS HD" tvg-logo="" group-title="BRAZIL",BR:HBO PLUS HD
+http://elitept.dynu.net:8080/pai/pai/31097
+#EXTINF:-1 tvg-id="" tvg-name="BR:HBO SIGNATURE HD" tvg-logo="" group-title="BRAZIL",BR:HBO SIGNATURE HD
+http://elitept.dynu.net:8080/pai/pai/31096
+#EXTINF:-1 tvg-id="" tvg-name="BR:HISTORY CHANNEL HD" tvg-logo="" group-title="BRAZIL",BR:HISTORY CHANNEL HD
+http://elitept.dynu.net:8080/pai/pai/31095
+#EXTINF:-1 tvg-id="" tvg-name="BR:HIT TV HD" tvg-logo="" group-title="BRAZIL",BR:HIT TV HD
+http://elitept.dynu.net:8080/pai/pai/31094
+#EXTINF:-1 tvg-id="" tvg-name="BR:ID-INVESTIGACAO DISCOVERY HD" tvg-logo="" group-title="BRAZIL",BR:ID-INVESTIGACAO DISCOVERY HD
+http://elitept.dynu.net:8080/pai/pai/31093
+#EXTINF:-1 tvg-id="" tvg-name="BR:LIFETIME HD" tvg-logo="" group-title="BRAZIL",BR:LIFETIME HD
+http://elitept.dynu.net:8080/pai/pai/31092
+#EXTINF:-1 tvg-id="" tvg-name="BR:MAIS GLOBOSAT HD" tvg-logo="" group-title="BRAZIL",BR:MAIS GLOBOSAT HD
+http://elitept.dynu.net:8080/pai/pai/31091
+#EXTINF:-1 tvg-id="" tvg-name="BR:MAX HD" tvg-logo="" group-title="BRAZIL",BR:MAX HD
+http://elitept.dynu.net:8080/pai/pai/31090
+#EXTINF:-1 tvg-id="" tvg-name="BR:MAX PRIME HD" tvg-logo="" group-title="BRAZIL",BR:MAX PRIME HD
+http://elitept.dynu.net:8080/pai/pai/31089
+#EXTINF:-1 tvg-id="" tvg-name="BR:MAX UP HD" tvg-logo="" group-title="BRAZIL",BR:MAX UP HD
+http://elitept.dynu.net:8080/pai/pai/31088
+#EXTINF:-1 tvg-id="" tvg-name="BR:MEGAPIX HD" tvg-logo="" group-title="BRAZIL",BR:MEGAPIX HD
+http://elitept.dynu.net:8080/pai/pai/31087
+#EXTINF:-1 tvg-id="" tvg-name="BR:MULTISHOW HD" tvg-logo="" group-title="BRAZIL",BR:MULTISHOW HD
+http://elitept.dynu.net:8080/pai/pai/31086
+#EXTINF:-1 tvg-id="" tvg-name="BR:NATGEO KIDS HD" tvg-logo="" group-title="BRAZIL",BR:NATGEO KIDS HD
+http://elitept.dynu.net:8080/pai/pai/31085
+#EXTINF:-1 tvg-id="" tvg-name="BR:NATGEO WILD HD" tvg-logo="" group-title="BRAZIL",BR:NATGEO WILD HD
+http://elitept.dynu.net:8080/pai/pai/31084
+#EXTINF:-1 tvg-id="" tvg-name="BR:NATIONAL GEOGRAPHY HD" tvg-logo="" group-title="BRAZIL",BR:NATIONAL GEOGRAPHY HD
+http://elitept.dynu.net:8080/pai/pai/31083
+#EXTINF:-1 tvg-id="" tvg-name="BR:NHK HD" tvg-logo="" group-title="BRAZIL",BR:NHK HD
+http://elitept.dynu.net:8080/pai/pai/31082
+#EXTINF:-1 tvg-id="" tvg-name="BR:NICK JR HD" tvg-logo="" group-title="BRAZIL",BR:NICK JR HD
+http://elitept.dynu.net:8080/pai/pai/31081
+#EXTINF:-1 tvg-id="" tvg-name="BR:NICKELODEON HD" tvg-logo="" group-title="BRAZIL",BR:NICKELODEON HD
+http://elitept.dynu.net:8080/pai/pai/31080
+#EXTINF:-1 tvg-id="" tvg-name="BR:OFF HD" tvg-logo="" group-title="BRAZIL",BR:OFF HD
+http://elitept.dynu.net:8080/pai/pai/31079
+#EXTINF:-1 tvg-id="" tvg-name="BR:PARAMOUNT HD" tvg-logo="" group-title="BRAZIL",BR:PARAMOUNT HD
+http://elitept.dynu.net:8080/pai/pai/31078
+#EXTINF:-1 tvg-id="" tvg-name="BR:PREMIERE 2 HD" tvg-logo="" group-title="BRAZIL",BR:PREMIERE 2 HD
+http://elitept.dynu.net:8080/pai/pai/31077
+#EXTINF:-1 tvg-id="" tvg-name="BR:PREMIERE 3 HD" tvg-logo="" group-title="BRAZIL",BR:PREMIERE 3 HD
+http://elitept.dynu.net:8080/pai/pai/31076
+#EXTINF:-1 tvg-id="" tvg-name="BR:PREMIERE 4 HD" tvg-logo="" group-title="BRAZIL",BR:PREMIERE 4 HD
+http://elitept.dynu.net:8080/pai/pai/31075
+#EXTINF:-1 tvg-id="" tvg-name="BR:PREMIERE 5 HD" tvg-logo="" group-title="BRAZIL",BR:PREMIERE 5 HD
+http://elitept.dynu.net:8080/pai/pai/31074
+#EXTINF:-1 tvg-id="" tvg-name="BR:PREMIERE 6 HD" tvg-logo="" group-title="BRAZIL",BR:PREMIERE 6 HD
+http://elitept.dynu.net:8080/pai/pai/31073
+#EXTINF:-1 tvg-id="" tvg-name="BR:PREMIERE 7 HD" tvg-logo="" group-title="BRAZIL",BR:PREMIERE 7 HD
+http://elitept.dynu.net:8080/pai/pai/31072
+#EXTINF:-1 tvg-id="" tvg-name="BR:PREMIERE CLUBES HD" tvg-logo="" group-title="BRAZIL",BR:PREMIERE CLUBES HD
+http://elitept.dynu.net:8080/pai/pai/31071
+#EXTINF:-1 tvg-id="" tvg-name="BR:RECORD HD" tvg-logo="" group-title="BRAZIL",BR:RECORD HD
+http://elitept.dynu.net:8080/pai/pai/31068
+#EXTINF:-1 tvg-id="" tvg-name="BR:RECORD NEWS HD" tvg-logo="" group-title="BRAZIL",BR:RECORD NEWS HD
+http://elitept.dynu.net:8080/pai/pai/31067
+#EXTINF:-1 tvg-id="" tvg-name="BR:RECORD SANTA CATARINA HD" tvg-logo="" group-title="BRAZIL",BR:RECORD SANTA CATARINA HD
+http://elitept.dynu.net:8080/pai/pai/31070
+#EXTINF:-1 tvg-id="" tvg-name="BR:RECORD SP HD" tvg-logo="" group-title="BRAZIL",BR:RECORD SP HD
+http://elitept.dynu.net:8080/pai/pai/31066
+#EXTINF:-1 tvg-id="" tvg-name="BR:RECORD TV GOIAS HD" tvg-logo="" group-title="BRAZIL",BR:RECORD TV GOIAS HD
+http://elitept.dynu.net:8080/pai/pai/31069
+#EXTINF:-1 tvg-id="" tvg-name="BR:REDE BRASIL" tvg-logo="" group-title="BRAZIL",BR:REDE BRASIL
+http://elitept.dynu.net:8080/pai/pai/31064
+#EXTINF:-1 tvg-id="" tvg-name="BR:REDE TV HD" tvg-logo="" group-title="BRAZIL",BR:REDE TV HD
+http://elitept.dynu.net:8080/pai/pai/31065
+#EXTINF:-1 tvg-id="" tvg-name="BR:SBT GO" tvg-logo="" group-title="BRAZIL",BR:SBT GO
+http://elitept.dynu.net:8080/pai/pai/31062
+#EXTINF:-1 tvg-id="" tvg-name="BR:SBT HD" tvg-logo="" group-title="BRAZIL",BR:SBT HD
+http://elitept.dynu.net:8080/pai/pai/31063
+#EXTINF:-1 tvg-id="" tvg-name="BR:SPACE HD" tvg-logo="" group-title="BRAZIL",BR:SPACE HD
+http://elitept.dynu.net:8080/pai/pai/31061
+#EXTINF:-1 tvg-id="" tvg-name="BR:SPORTV 1" tvg-logo="" group-title="BRAZIL",BR:SPORTV 1
+http://elitept.dynu.net:8080/pai/pai/31055
+#EXTINF:-1 tvg-id="" tvg-name="BR:SPORTV 1 HD" tvg-logo="" group-title="BRAZIL",BR:SPORTV 1 HD
+http://elitept.dynu.net:8080/pai/pai/31056
+#EXTINF:-1 tvg-id="" tvg-name="BR:SPORTV 2" tvg-logo="" group-title="BRAZIL",BR:SPORTV 2
+http://elitept.dynu.net:8080/pai/pai/31059
+#EXTINF:-1 tvg-id="" tvg-name="BR:SPORTV 2 HD" tvg-logo="" group-title="BRAZIL",BR:SPORTV 2 HD
+http://elitept.dynu.net:8080/pai/pai/31060
+#EXTINF:-1 tvg-id="" tvg-name="BR:SPORTV 3" tvg-logo="" group-title="BRAZIL",BR:SPORTV 3
+http://elitept.dynu.net:8080/pai/pai/31057
+#EXTINF:-1 tvg-id="" tvg-name="BR:SPORTV 3 HD" tvg-logo="" group-title="BRAZIL",BR:SPORTV 3 HD
+http://elitept.dynu.net:8080/pai/pai/31058
+#EXTINF:-1 tvg-id="" tvg-name="BR:STUDIO UNIVERSAL HD" tvg-logo="" group-title="BRAZIL",BR:STUDIO UNIVERSAL HD
+http://elitept.dynu.net:8080/pai/pai/31054
+#EXTINF:-1 tvg-id="" tvg-name="BR:SYFY HD" tvg-logo="" group-title="BRAZIL",BR:SYFY HD
+http://elitept.dynu.net:8080/pai/pai/31053
+#EXTINF:-1 tvg-id="" tvg-name="BR:TBS HD" tvg-logo="" group-title="BRAZIL",BR:TBS HD
+http://elitept.dynu.net:8080/pai/pai/31052
+#EXTINF:-1 tvg-id="" tvg-name="BR:TCM HD" tvg-logo="" group-title="BRAZIL",BR:TCM HD
+http://elitept.dynu.net:8080/pai/pai/31051
+#EXTINF:-1 tvg-id="" tvg-name="BR:TELECINE ACTION HD" tvg-logo="" group-title="BRAZIL",BR:TELECINE ACTION HD
+http://elitept.dynu.net:8080/pai/pai/31050
+#EXTINF:-1 tvg-id="" tvg-name="BR:TELECINE CULT HD" tvg-logo="" group-title="BRAZIL",BR:TELECINE CULT HD
+http://elitept.dynu.net:8080/pai/pai/31049
+#EXTINF:-1 tvg-id="" tvg-name="BR:TELECINE FUN HD" tvg-logo="" group-title="BRAZIL",BR:TELECINE FUN HD
+http://elitept.dynu.net:8080/pai/pai/31048
+#EXTINF:-1 tvg-id="" tvg-name="BR:TELECINE PIPOCA HD" tvg-logo="" group-title="BRAZIL",BR:TELECINE PIPOCA HD
+http://elitept.dynu.net:8080/pai/pai/31047
+#EXTINF:-1 tvg-id="" tvg-name="BR:TELECINE PREMIUM HD" tvg-logo="" group-title="BRAZIL",BR:TELECINE PREMIUM HD
+http://elitept.dynu.net:8080/pai/pai/31046
+#EXTINF:-1 tvg-id="" tvg-name="BR:TELECINE TOUCH HD" tvg-logo="" group-title="BRAZIL",BR:TELECINE TOUCH HD
+http://elitept.dynu.net:8080/pai/pai/31045
+#EXTINF:-1 tvg-id="" tvg-name="BR:TNT HD" tvg-logo="" group-title="BRAZIL",BR:TNT HD
+http://elitept.dynu.net:8080/pai/pai/31044
+#EXTINF:-1 tvg-id="" tvg-name="BR:TNT SERIES HD" tvg-logo="" group-title="BRAZIL",BR:TNT SERIES HD
+http://elitept.dynu.net:8080/pai/pai/31043
+#EXTINF:-1 tvg-id="" tvg-name="BR:TVE HD" tvg-logo="" group-title="BRAZIL",BR:TVE HD
+http://elitept.dynu.net:8080/pai/pai/31042
+#EXTINF:-1 tvg-id="" tvg-name="BR:UNIVERSAL CHANNEL HD" tvg-logo="" group-title="BRAZIL",BR:UNIVERSAL CHANNEL HD
+http://elitept.dynu.net:8080/pai/pai/31041
+#EXTINF:-1 tvg-id="" tvg-name="BR:VH1 MEGA HITS HD" tvg-logo="" group-title="BRAZIL",BR:VH1 MEGA HITS HD
+http://elitept.dynu.net:8080/pai/pai/31040
+#EXTINF:-1 tvg-id="" tvg-name="BR:VIVA HD" tvg-logo="" group-title="BRAZIL",BR:VIVA HD
+http://elitept.dynu.net:8080/pai/pai/31039
+#EXTINF:-1 tvg-id="" tvg-name="BR:WARNER CHANNEL HD" tvg-logo="" group-title="BRAZIL",BR:WARNER CHANNEL HD
+http://elitept.dynu.net:8080/pai/pai/31038
+#EXTINF:-1 tvg-id="" tvg-name="==== BR DOCUMENTARIOS =====" tvg-logo="" group-title="BRAZIL",==== BR DOCUMENTARIOS =====
+http://elitept.dynu.net:8080/pai/pai/29326
+#EXTINF:-1 tvg-id="" tvg-name="==== BR FILMES / SERIES =====" tvg-logo="" group-title="BRAZIL",==== BR FILMES / SERIES =====
+http://elitept.dynu.net:8080/pai/pai/29328
+#EXTINF:-1 tvg-id="" tvg-name="==== BR MUSICA =====" tvg-logo="" group-title="BRAZIL",==== BR MUSICA =====
+http://elitept.dynu.net:8080/pai/pai/29327
