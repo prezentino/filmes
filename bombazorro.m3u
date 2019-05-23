@@ -215,6 +215,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51119
 http://br.e-tv.xyz/TNT_FULL_HD/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="TNT Series Marco" tvg-name="TNT Series" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Series Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51121
+#EXTINF:-1 tvg-id="TNT Series 2" tvg-name="TNT Series" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Series 2
+http://br.e-tv.xyz/TNT_Series_HD/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS Marco" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS MArco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50656
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Esportes",BAND Marco
