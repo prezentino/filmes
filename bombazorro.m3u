@@ -177,6 +177,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51032
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51024
 #EXTINF:-1 tvg-id="SBT Marco" tvg-name="SBT Marco" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT Marco
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w1396576526.m3u8
+#EXTINF:-1 tvg-id="SBT FULL Marco" tvg-name="SBT Full Marco" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT FULLMarco
+http://br.e-tv.xyz/SBTSPFULLHD/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="SBT Marco" tvg-name="SBT Marco" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51039
 #EXTINF:-1 tvg-id="" tvg-name="XUXA [24h]" tvg-logo="" group-title="Canais | 24 Horas",XUXA [24h]
