@@ -29,6 +29,8 @@ http://br.e-tv.xyz/Tooncast_SD/video.m3u8?token=cw3bU4Gg63
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50668
 #EXTINF:-1 tvg-id="CombateHD" tvg-name="Combate Marc0" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50671
+#EXTINF:-1 tvg-id="CombateHD Teste" tvg-name="Combate Marc0" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate Teste Marco
+http://br.e-tv.xyz/Combate_HD/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="CombateHD" tvg-name="Combate Marc0" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate Marc0
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50673
 #EXTINF:-1 tvg-id="CombateHD" tvg-name="Combate Marco" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate Marco
