@@ -240,3 +240,5 @@ https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redegospel.png" group-title="Canais | Religioso",Rede Gospel
 http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
  
+#EXTINF:-1 tvg-id="Globo Teste" tvg-name="Globo Teste" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Teste
+http://elitept.dynu.net:8080/pai/pai/8300
