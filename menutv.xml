@@ -14,39 +14,6 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]TV MARCO 1[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
-<fanart>https://i.imgur.com/rXOHYDs.png</fanart>
-<link>http://ignorar.com/</link>
-<externallink>https://raw.githubusercontent.com/tx3mx9/OnePlayHD/master/TV/Servidor-2/TV1</externallink>
-<info>Seleção de tv paga.</info>
-</channel>
-<channels>
-
-<channels>
-<channel>
-<name>[COLOR red][B]TV MARCO 2[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
-<fanart>https://i.imgur.com/rXOHYDs.png</fanart>
-<link>http://ignorar.com/</link>
-<externallink>https://raw.githubusercontent.com/tx3mx9/OnePlayHD/master/TV/Servidor-2/TV2</externallink>
-<info>Seleção de tv paga.</info>
-</channel>
-</channe>ls
-
-<channels>
-<channel>
-<name>[COLOR red][B]TV MARCO 3[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
-<fanart>https://i.imgur.com/rXOHYDs.png</fanart>
-<link>http://ignorar.com/</link>
-<externallink>https://raw.githubusercontent.com/tx3mx9/OnePlayHD/master/TV/Servidor-2/TV3</externallink>
-<info>Seleção de tv paga.</info>
-</channel>
-</channe>ls
-
-<channels>
-<channel>
 <name>[COLOR red][B]TV MARCO 3[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
 <fanart>https://i.imgur.com/rXOHYDs.png</fanart>
@@ -56,4 +23,14 @@
 </channel>
 </channe>ls
 
+<channels>
+<channel>
+<name>[COLOR red][B]CANAIS ONEPLAYHD[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
+<fanart>https://i.imgur.com/rXOHYDs.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://bitbucket.org/OnePlayHD/oneplayhd/raw/master/TV/Menu-Tv</externallink>
+<info>Seleção de One PalyHD.</info>
+</channel>
+</channe>ls
 
