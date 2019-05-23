@@ -185,6 +185,8 @@ http://br.e-tv.xyz/SBTSPFULLHD/video.m3u8?token=cw3bU4Gg63
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51039
 #EXTINF:-1 tvg-id="" tvg-name="XUXA [24h]" tvg-logo="" group-title="Canais | 24 Horas",XUXA [24h]
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50956
+#EXTINF:-1 tvg-id="" tvg-name="Gato de Botas [24h]" tvg-logo="" group-title="Canais | 24 Horas",Gato de Botas [24h]
+http://br.e-tv.xyz/GATODEBOTAS/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv Marco" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51055
 #EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv 2 Marco" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv 2 Marco
@@ -209,6 +211,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51089
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51104
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT Marco" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Filmes e Series",TNT Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51119
+#EXTINF:-1 tvg-id="TNT FULL" tvg-name="TNT Marco" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Filmes e Series",TNT FULL Marco
+http://br.e-tv.xyz/TNT_FULL_HD/video.m3u8?token=cw3bU4Gg63
 #EXTINF:-1 tvg-id="TNT Series Marco" tvg-name="TNT Series" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Series Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/51121
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS Marco" tvg-logo="" group-title="Canais | Esportes",BAND SPORTS MArco
