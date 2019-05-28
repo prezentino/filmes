@@ -46,22 +46,12 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]ELETRONICA[/B][/COLOR] - [COLOR red][B]NIL GAMES[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/UeljjC3.jpg</thumbnail>
-<fanart>https://i.imgur.com/Jrc0EMB.jpg</fanart>
+<name>[COLOR white][B]DVD teste[/B][/COLOR] - [COLOR red][B]NIL GAMES[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/lLvlOMW.jpg</thumbnail>
+<fanart>https://i.imgur.com/EtRwo84.jpg</fanart>
 <link>http://ignorar.com/</link>
-<externallink></externallink>
+<externallink>Plugin://plugin.video.youtube/playlist/PLFgquLnL59amgHJoypBNANk_038__LaXM/?page=0</externallink>
 <info>O MELHOR DA MUSICA VOCE ENCONTRA AQUI</info>
 </channel>
 </channels>
 
-<channels>
-<channel>
-<name>[COLOR white][B]BLACK TOTAL[/B][/COLOR] - [COLOR red][B]NIL GAMES[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/mdoQJlI.jpg</thumbnail>
-<fanart>https://i.imgur.com/y62VQA1.jpg</fanart>
-<link>http://ignorar.com/</link>
-<externallink></externallink>
-<info>O MELHOR DA MUSICA VOCE ENCONTRA AQUI</info>
-</channel>
-</channels> 
