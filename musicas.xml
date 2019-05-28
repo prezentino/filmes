@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
-<item>
-<title>[COLOR lime]??[/COLOR][COLOR red]By kuala[/COLOR][COLOR blue]SÓ AS TOP[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLFgquLnL59amgHJoypBNANk_038__LaXM/?page=0</jsonrpc>
-<thumbnail>http://www.mojoknights.com/images/music/new_dvd_moro_no_brasil.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
- 
-
-<item>
-<title>[COLOR lime]??[/COLOR][COLOR red]By kuala[/COLOR][COLOR blue]MUSICA BRASILEIRA[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLFgquLnL59amgHJoypBNANk_038__LaXM/?page=0</jsonrpc>
-<thumbnail>http://www.mojoknights.com/images/music/new_dvd_moro_no_brasil.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
+<channels>
+<channel>
+<name>[COLOR white][B]SERTANEJO TOP[/B][/COLOR] - [COLOR red][B]NIL GAMES[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/fcOYJNt.jpg</thumbnail>
+<fanart>https://i.imgur.com/jTagdKp.jpg</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/topssertaneja.xml</externallink>
+<info>O MELHOR DA MUSICA VOCE ENCONTRA AQUI</info>
+</channel>
+</channels>
 
 <channels>
 <channel>
