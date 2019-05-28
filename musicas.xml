@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?
-
-  <item>
-  <title>[COLOR white][B]MUSICAS MAI TOCADAS SERTANEJA[/B][/COLOR]</title>
-  <thumbnail>https://i.imgur.com/Ccxo1Lm.jpg</thumbnail>
-  <fanart>https://i.imgur.com/1vDjyTG.jpg</fanart>
-  <link>Plugin://plugin.video.youtube/playlist?list=PLFgquLnL59amgHJoypBNANk_038__LaXM/</link>
-  <info>Seleção das melhores musicas Tops do Momento.<info>
-  <genre>Ação, Terror</genre>
-  </item>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<item>
+<title>[COLOR lime]??[/COLOR][COLOR red]By kuala[/COLOR][COLOR blue]MUSICA BRASILEIRA[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLFgquLnL59amgHJoypBNANk_038__LaXM/?page=0</jsonrpc>
+<thumbnail>http://www.mojoknights.com/images/music/new_dvd_moro_no_brasil.jpg</thumbnail>
+<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+</item>
+ 
