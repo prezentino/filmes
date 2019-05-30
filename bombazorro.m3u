@@ -74,6 +74,8 @@ http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/175
 http://dns.clientetv.xyz:8000/Mario123/Mario123/1752
 #EXTINF:-1 tvg-id="Globo Marco" tvg-name="Globo Kuala" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo full Kuala
 http://dns.clientetv.xyz/8000/Mario123/Mario123/2161
+#EXTINF:-1 tvg-id="Globo Marco" tvg-name="Animal Planet" tvg-logo="http://printv.esy.es/server/Animal Planet.png" group-title="Canais | Abertos",Animal Planet
+http://dns.clientetv.xyz/8000/Mario123/Mario123/94
 #EXTINF:-1 tvg-id="Gloob Marco" tvg-name="Gloob Marco" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob Marco
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50773
 #EXTINF:-1 tvg-id="" tvg-name="GNT Marco" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT Marco
@@ -530,3 +532,4 @@ http://elitept.dynu.net:8080/pai/pai/29326
 http://elitept.dynu.net:8080/pai/pai/29328
 #EXTINF:-1 tvg-id="" tvg-name="==== BR MUSICA =====" tvg-logo="" group-title="BRAZIL",==== BR MUSICA =====
 http://elitept.dynu.net:8080/pai/pai/29327
+
