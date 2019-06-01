@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="TOPTV Sertaneja" tvg-logo="" group-title="Shows",TOPTV Sertaneja
 http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
 --TVS-------------------------------
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD *" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="REDE GLOBO",[COLOR  blue][B]FGA[COLOR  yellow][B]||[/B][/COLOR]  GLOBO SP FHD *
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD *" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="REDE GLOBO",[COLOR  blue][B]FGA[COLOR  yellow][B]||[/B][/COLOR]  irineu sou filho do aristeuGLOBO SP FHD *
 plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.998747838&streamtype=HLSRETRY&amp;url=http://pndxt01.dyndns.org:25461/live/cata/cata/5618.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD *" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="REDE GLOBO",[COLOR  blue][B]FGA[COLOR  yellow][B]||[/B][/COLOR]  GLOBO SP HD *
 plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.998747838&streamtype=HLSRETRY&amp;url=http://pndxt01.dyndns.org:25461/live/cata/cata/7952.m3u8
