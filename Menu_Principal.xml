@@ -4,8 +4,8 @@
 <channels>
 <channel>
 <name>[COLOR white][B]TV[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/gJAafIS.jpg</thumbnail>
-<fanart>https://i.imgur.com/89g94HU.jpg</fanart>
+<thumbnail>https://imgur.com/P3VGdtG.jpg</thumbnail>
+<fanart>https://imgur.com/P3VGdtG.jpg</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/menutv.xml</externallink>
 <info>A MELHOR SELECAO DE TVS PAGAS</info>
@@ -15,19 +15,19 @@
 <channels>
 <channel>
 <name>[COLOR white][B]DESENHOS[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/F3cCOqDb.jpg</thumbnail>
-<fanart>https://i.imgur.com/Z9QaMbGb.jpg</fanart>
+<thumbnail>https://i.imgur.com/49JrBIK.png</thumbnail>
+<fanart>https://i.imgur.com/49JrBIK.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/menudesenhos.xml</externallink>
-<info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
+<info>OS MELHORES DESENHOS VOCE ENCONTRA AQUI</info>
 </channel>
 </channels>
 
 <channels>
 <channel>
 <name>[COLOR white][B]FILMES[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/F3cCOqDb.jpg</thumbnail>
-<fanart>https://i.imgur.com/Z9QaMbGb.jpg</fanart>
+<thumbnail>https://i.imgur.com/w2aL9gS.png</thumbnail>
+<fanart>https://i.imgur.com/w2aL9gS.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/menufilmes.xml</externallink>
 <info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
@@ -37,8 +37,8 @@
 <channels>
 <channel>
 <name>[COLOR white][B]SERIES[/B][/COLOR] - [COLOR red][B]Marco Andrei[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/LgEJiMB.jpg</thumbnail>
-<fanart>https://i.imgur.com/89g94HU.jpg</fanart>
+<thumbnail>https://i.imgur.com/lTPRsCW.png</thumbnail>
+<fanart>https://i.imgur.com/lTPRsCW.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://pastebin.com/raw/1MEiH13U</externallink>
 <info>AS MELHORES SERIES VOCE ENCONTRA AQUI</info>
@@ -63,7 +63,7 @@
 <fanart>https://i.imgur.com/89g94HU.jpg</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/menuadulto</externallink>
-<info>O MELHOR DO IPTV VOCE ENCONTRA AQUI</info>
+<info>O MELHOR DO CONTEUDO ADULTO</info>
 </channel>
 </channels>
 
@@ -75,7 +75,19 @@
 <fanart>https://i.imgur.com/89g94HU.jpg</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://pastebin.com/raw/hssCyY0r</externallink>
-<info>O MELHOR DA MUSICA VOCE ENCONTRA AQUI</info>
+<info>O MELHOR DO KUALA</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]PLAYLIST[/B][/COLOR] - [COLOR yellow][B]PLAYLISTMarco Andrei[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/4cx9hSX.jpg</thumbnail>
+<fanart>https://i.imgur.com/89g94HU.jpg</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/Playlistcomedy.txt</externallink>
+<info>O MELHOR DO KUALA</info>
+</channel>
+</channels>
+
 

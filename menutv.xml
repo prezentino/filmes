@@ -14,11 +14,11 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]TV MARCO 3[/B][/COLOR]</name>
+<name>[COLOR red][B]TV MARCO FORMIGA[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
 <fanart>https://i.imgur.com/rXOHYDs.png</fanart>
 <link>http://ignorar.com/</link>
-<externallink>https://pastebin.com/raw/PKjjAC25</externallink>
+<externallink>https://pastebin.com/raw/k5EKBB1D</externallink>
 <info>Seleção de tv paga.</info>
 </channel>
 </channe>ls
@@ -31,6 +31,17 @@
 <link>http://ignorar.com/</link>
 <externallink>https://bitbucket.org/OnePlayHD/oneplayhd/raw/master/TV/Menu-Tv</externallink>
 <info>Seleção de One PalyHD.</info>
+</channel>
+</channe>ls
+
+<channels>
+<channel>
+<name>[COLOR yellow][B]CANAIS KUALA[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
+<fanart>https://i.imgur.com/rXOHYDs.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://pastebin.com/raw/hssCyY0r</externallink>
+<info>Seleção de Canais Kuala.</info>
 </channel>
 </channe>ls
 

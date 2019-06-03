@@ -1,0 +1,24 @@
+
+<item>
+<title>[COLOR lime]Xilindro (200) - (480p)[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLkZ0gSDx27CM-6JYbG0o-JGwDBdKLS4qv/?page=0</jsonrpc>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]failarmy[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLOWSbqDrrI5SvPqISAiOJ59JO0rn2okOq/?page=0</jsonrpc>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Sertanejos TOP[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLFgquLnL59amgHJoypBNANk_038__LaXM/?page=0</jsonrpc>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
+</item>
