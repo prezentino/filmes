@@ -225,40 +225,14 @@ plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOAD
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11662
 #EXTINF:-1,GATO FELIX
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12644
-#EXTINF:-1,GLOBO BH HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11657
-#EXTINF:-1,GLOBO BRASILIA SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11656
-#EXTINF:-1,GLOBO DF HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11655
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11652
-#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11654
-#EXTINF:-1,GLOBO EPTV SÃO CARLOS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11653
-#EXTINF:-1,GLOBO ES HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11514
-#EXTINF:-1,GLOBO FHD GAZETA SUL
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11191
 #EXTINF:-1,GLOBO FHD RJ
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11193
 #EXTINF:-1,GLOBO FHD SP
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11173
-#EXTINF:-1,GLOBO GAZETA SUL HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11190
 #EXTINF:-1,GLOBO HD
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11172
 #EXTINF:-1,GLOBO HD RJ
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11192
-#EXTINF:-1,GLOBO INTER TV CABUGI SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11651
-#EXTINF:-1,GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11512
-#EXTINF:-1,GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11511
-#EXTINF:-1,GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11650
 #EXTINF:-1,GLOBO NEWS HD
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11097
 #EXTINF:-1,GLOBO NEWS HD 
@@ -271,18 +245,10 @@ plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOAD
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11645
 #EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11644
-#EXTINF:-1,GLOBO REDE AMAZONICA HD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11643
-#EXTINF:-1,GLOBO REDE AMAZÔNICA MANAUS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11642
 #EXTINF:-1,GLOBO RIO SD 
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11641
 #EXTINF:-1,GLOBO RJ HD 
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11640
-#EXTINF:-1,GLOBO RPC TV CURITIBA SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11639
-#EXTINF:-1,GLOBO SJRP SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11638
 #EXTINF:-1,GLOBO SP FHD H265
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11661
 #EXTINF:-1,GLOBO SP HD
@@ -291,26 +257,6 @@ plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOAD
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11659
 #EXTINF:-1,GLOBO SP
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11658
-#EXTINF:-1,GLOBO TV  TRIBUNA SANTOS SD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11637
-#EXTINF:-1,GLOBO TV ANHANGUERA GOIÂNIA SD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11636
-#EXTINF:-1,GLOBO TV BAHIA SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11635
-#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIBÁ SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11634
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11547
-#EXTINF:-1,GLOBO TV TEM BAURU SD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11633
-#EXTINF:-1,GLOBO TV TEM SOROCABA
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11649
-#EXTINF:-1,GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11632
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11545
-#EXTINF:-1,GLOBO VERDES MARES HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11513
 #EXTINF:-1,GLOOB FHD
 plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12907
 #EXTINF:-1,GLOOB HD
