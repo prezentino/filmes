@@ -1,697 +1,758 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TOPTV Sertaneja" tvg-logo="" group-title="Shows",TOPTV Sertaneja
 http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
---TVS-------------------------------
-----------------------------------------------------
+#EXTINF:-1,-----------------------------------------------------------------------------------------------
 
 #EXTINF:-1,A&E SD
-http://srv01.iptvquantum.co:80/philips/philips/11730
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11730
 #EXTINF:-1,AMC SD
-http://srv01.iptvquantum.co:80/philips/philips/11729
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11729
 #EXTINF:-1,ANIMAL PLANET SD
-http://srv01.iptvquantum.co:80/philips/philips/11728
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11728
+#EXTINF:-1,APENAS UM SHOW
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12657
+#EXTINF:-1,ARMAÇÃO ILIMITADA
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12656
 #EXTINF:-1,ARTE 1 SD
-http://srv01.iptvquantum.co:80/philips/philips/11727
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11727
 #EXTINF:-1,AXN HD
-http://srv01.iptvquantum.co:80/philips/philips/11122
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11122
 #EXTINF:-1,AXN SD
-http://srv01.iptvquantum.co:80/philips/philips/11726
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11726
 #EXTINF:-1,BABY TV SD
-http://srv01.iptvquantum.co:80/philips/philips/11725
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11725
+#EXTINF:-1,BACKYARDIGANS
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12632
 #EXTINF:-1,Band FHD
-http://srv01.iptvquantum.co:80/philips/philips/12905
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12905
 #EXTINF:-1,BAND HD
-http://srv01.iptvquantum.co:80/philips/philips/11185
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11185
 #EXTINF:-1,BAND HD
-http://srv01.iptvquantum.co:80/philips/philips/11111
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11111
 #EXTINF:-1,Band News HD
-http://srv01.iptvquantum.co:80/philips/philips/11121
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11121
 #EXTINF:-1,BAND NEWS SD
-http://srv01.iptvquantum.co:80/philips/philips/11724
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11724
 #EXTINF:-1,BAND SP FHD H265
-http://srv01.iptvquantum.co:80/philips/philips/11723
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11723
+#EXTINF:-1,BAND SP SD.
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11721
 #EXTINF:-1,BAND SP SD
-http://srv01.iptvquantum.co:80/philips/philips/11721
-#EXTINF:-1,BAND SP SD
-http://srv01.iptvquantum.co:80/philips/philips/11722
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11722
 #EXTINF:-1,Band Sports FHD
-http://srv01.iptvquantum.co:80/philips/philips/11181
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11181
 #EXTINF:-1,BAND SPORTS HD
-http://srv01.iptvquantum.co:80/philips/philips/11136
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11136
 #EXTINF:-1,BAND SPORTS SD
-http://srv01.iptvquantum.co:80/philips/philips/11720
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11720
 #EXTINF:-1,BIS HD
-http://srv01.iptvquantum.co:80/philips/philips/11717
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11717
 #EXTINF:-1,BIS SD
-http://srv01.iptvquantum.co:80/philips/philips/11716
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11716
 #EXTINF:-1,BLOOMBERG HD
-http://srv01.iptvquantum.co:80/philips/philips/11510
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11510
 #EXTINF:-1,BOOMBERANG HD
-http://srv01.iptvquantum.co:80/philips/philips/12902
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12902
 #EXTINF:-1,BOOMERANG FHD
-http://srv01.iptvquantum.co:80/philips/philips/12909
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12909
 #EXTINF:-1,BOOMERANG SD
-http://srv01.iptvquantum.co:80/philips/philips/11715
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11715
 #EXTINF:-1,CANAL BRASIL HD
-http://srv01.iptvquantum.co:80/philips/philips/11713
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11713
 #EXTINF:-1,CANAL BRASIL SD
-http://srv01.iptvquantum.co:80/philips/philips/11712
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11712
 #EXTINF:-1,CANAL BRASIL
-http://srv01.iptvquantum.co:80/philips/philips/11098
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11098
 #EXTINF:-1,CANAL FUTURA HD
-http://srv01.iptvquantum.co:80/philips/philips/11711
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11711
 #EXTINF:-1,CANAL SONY SD
-http://srv01.iptvquantum.co:80/philips/philips/11710
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11710
+#EXTINF:-1,CAPITÃO PLANETA
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12654
 #EXTINF:-1,CARTOON NETWORK FHD
-http://srv01.iptvquantum.co:80/philips/philips/11714
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11714
 #EXTINF:-1,CARTOON NETWORK HD
-http://srv01.iptvquantum.co:80/philips/philips/11179
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11179
+#EXTINF:-1,CAVERNA DO DRAGÃO
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12647
 #EXTINF:-1,CBS NEWS HD
-http://srv01.iptvquantum.co:80/philips/philips/11507
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11507
+#EXTINF:-1,CHANGEMAN
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12653
+#EXTINF:-1,CHARLIE BROWN E SNOOPY
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12652
 #EXTINF:-1,CINEMAX SD 
-http://srv01.iptvquantum.co:80/philips/philips/11709
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11709
 #EXTINF:-1,COMBATE FHD
-http://srv01.iptvquantum.co:80/philips/philips/11135
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11135
 #EXTINF:-1,COMBATE HD
-http://srv01.iptvquantum.co:80/philips/philips/11706
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11706
 #EXTINF:-1,Combate HD
-http://srv01.iptvquantum.co:80/philips/philips/12889
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12889
 #EXTINF:-1,COMBATE SD
-http://srv01.iptvquantum.co:80/philips/philips/11705
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11705
 #EXTINF:-1,COMEDY CENTRAL HD
-http://srv01.iptvquantum.co:80/philips/philips/11698
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11698
 #EXTINF:-1,COMEDY CENTRAL FHD
-http://srv01.iptvquantum.co:80/philips/philips/11134
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11134
 #EXTINF:-1,COMEDY FHD
-http://srv01.iptvquantum.co:80/philips/philips/11110
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11110
 #EXTINF:-1,CURTA! SD
-http://srv01.iptvquantum.co:80/philips/philips/11697
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11697
 #EXTINF:-1,DISCOVERY CHANNEL FHD
-http://srv01.iptvquantum.co:80/philips/philips/11696
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11696
 #EXTINF:-1,DISCOVERY CHANNEL SD
-http://srv01.iptvquantum.co:80/philips/philips/11695
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11695
 #EXTINF:-1,DISCOVERY H&H SD
-http://srv01.iptvquantum.co:80/philips/philips/11694
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11694
 #EXTINF:-1,DISCOVERY KIDS HD
-http://srv01.iptvquantum.co:80/philips/philips/12908
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12908
 #EXTINF:-1,DISCOVERY KIDS SD
-http://srv01.iptvquantum.co:80/philips/philips/11693
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11693
 #EXTINF:-1,DISCOVERY TURBO FHD
-http://srv01.iptvquantum.co:80/philips/philips/11692
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11692
 #EXTINF:-1,DISCOVERY TURBO FHD
-http://srv01.iptvquantum.co:80/philips/philips/11180
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11180
 #EXTINF:-1,DISCOVERY TURBO HD
-http://srv01.iptvquantum.co:80/philips/philips/11138
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11138
 #EXTINF:-1,DISNEY CHANNEL FHD
-http://srv01.iptvquantum.co:80/philips/philips/11691
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11691
 #EXTINF:-1,DISNEY CHANNEL HD
-http://srv01.iptvquantum.co:80/philips/philips/11690
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11690
 #EXTINF:-1,DISNEY CHANNEL SD
-http://srv01.iptvquantum.co:80/philips/philips/11689
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11689
 #EXTINF:-1,DISNEY JUNIOR FHD
-http://srv01.iptvquantum.co:80/philips/philips/12906
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12906
 #EXTINF:-1,DISNEY JUNIOR FHD
-http://srv01.iptvquantum.co:80/philips/philips/11688
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11688
 #EXTINF:-1,DISNEY JUNIOR HD
-http://srv01.iptvquantum.co:80/philips/philips/11687
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11687
 #EXTINF:-1,DISNEY JUNIOR SD
-http://srv01.iptvquantum.co:80/philips/philips/11686
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11686
 #EXTINF:-1,DISNEY XD FHD
-http://srv01.iptvquantum.co:80/philips/philips/11685
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11685
 #EXTINF:-1,DISNEY XD HD
-http://srv01.iptvquantum.co:80/philips/philips/11684
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11684
 #EXTINF:-1,DISNEY XD SD
-http://srv01.iptvquantum.co:80/philips/philips/11683
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11683
+#EXTINF:-1,DOG TV FHD
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11505
 #EXTINF:-1,E! SD
-http://srv01.iptvquantum.co:80/philips/philips/11682
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11682
 #EXTINF:-1,EIPLUS HD
-http://srv01.iptvquantum.co:80/philips/philips/11680
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11680
 #EXTINF:-1,EIPLUS SD
-http://srv01.iptvquantum.co:80/philips/philips/11681
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11681
+#EXTINF:-1,ENERGY (ESP)
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11523
 #EXTINF:-1,ESPN  HD
-http://srv01.iptvquantum.co:80/philips/philips/11178
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11178
 #EXTINF:-1,ESPN 2 FHD 
-http://srv01.iptvquantum.co:80/philips/philips/11677
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11677
 #EXTINF:-1,ESPN 2 HD
-http://srv01.iptvquantum.co:80/philips/philips/12891
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12891
 #EXTINF:-1,ESPN 2 SD 
-http://srv01.iptvquantum.co:80/philips/philips/11676
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11676
 #EXTINF:-1,ESPN BRASIL 
-http://srv01.iptvquantum.co:80/philips/philips/11675
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11675
 #EXTINF:-1,ESPN BRASIL FHD 
-http://srv01.iptvquantum.co:80/philips/philips/11673
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11673
 #EXTINF:-1,ESPN BRASIL FHD
-http://srv01.iptvquantum.co:80/philips/philips/12915
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12915
 #EXTINF:-1,ESPN BRASIL HD 
-http://srv01.iptvquantum.co:80/philips/philips/11674
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11674
 #EXTINF:-1,ESPN BRASIL HD
-http://srv01.iptvquantum.co:80/philips/philips/12916
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12916
 #EXTINF:-1,ESPN EXTRA FHD 
-http://srv01.iptvquantum.co:80/philips/philips/11672
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11672
 #EXTINF:-1,ESPN EXTRA FHD 2
-http://srv01.iptvquantum.co:80/philips/philips/11189
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11189
 #EXTINF:-1,ESPN EXTRA HD
-http://srv01.iptvquantum.co:80/philips/philips/11506
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11506
 #EXTINF:-1,ESPN EXTRA SD 
-http://srv01.iptvquantum.co:80/philips/philips/11671
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11671
 #EXTINF:-1,ESPN EXTRA SD 2
-http://srv01.iptvquantum.co:80/philips/philips/11187
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11187
 #EXTINF:-1,Espn FHD 2
-http://srv01.iptvquantum.co:80/philips/philips/11182
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11182
 #EXTINF:-1,ESPN FHD
-http://srv01.iptvquantum.co:80/philips/philips/11678
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11678
 #EXTINF:-1,ESPN SD
-http://srv01.iptvquantum.co:80/philips/philips/11679
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11679
+#EXTINF:-1,FAMÍLIA DINOSSAURO
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12646
 #EXTINF:-1,FILM & ARTS SD
-http://srv01.iptvquantum.co:80/philips/philips/11670
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11670
 #EXTINF:-1,FISH TV SD
-http://srv01.iptvquantum.co:80/philips/philips/11669
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11669
+#EXTINF:-1,FLASHMAN
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12626
+#EXTINF:-1,FONTE TV
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11477
 #EXTINF:-1,FOOD NETWORK SD
-http://srv01.iptvquantum.co:80/philips/philips/11668
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11668
 #EXTINF:-1,FOX FHD
-http://srv01.iptvquantum.co:80/philips/philips/11667
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11667
 #EXTINF:-1,FOX HD
-http://srv01.iptvquantum.co:80/philips/philips/11119
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11119
 #EXTINF:-1,FOX LIFE FHD
-http://srv01.iptvquantum.co:80/philips/philips/11132
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11132
 #EXTINF:-1,FOX LIFE SD
-http://srv01.iptvquantum.co:80/philips/philips/11666
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11666
 #EXTINF:-1,FOX LIVE HD
-http://srv01.iptvquantum.co:80/philips/philips/11109
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11109
 #EXTINF:-1,Fox Premium 1 FHD
-http://srv01.iptvquantum.co:80/philips/philips/11133
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11133
 #EXTINF:-1,FOX PREMIUM 2 FHD
-http://srv01.iptvquantum.co:80/philips/philips/12892
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12892
 #EXTINF:-1,FOX PREMIUM 2 HD
-http://srv01.iptvquantum.co:80/philips/philips/12890
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12890
 #EXTINF:-1,FOX SD
-http://srv01.iptvquantum.co:80/philips/philips/11665
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11665
 #EXTINF:-1,Fox Sports 2 FHD
-http://srv01.iptvquantum.co:80/philips/philips/11175
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11175
 #EXTINF:-1,Fox Sports 2 HD (2)
-http://srv01.iptvquantum.co:80/philips/philips/11177
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11177
 #EXTINF:-1,FOX SPORTS 2 SD
-http://srv01.iptvquantum.co:80/philips/philips/11664
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11664
 #EXTINF:-1,Fox Sports FHD (2)
-http://srv01.iptvquantum.co:80/philips/philips/11176
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11176
 #EXTINF:-1,FOX SPORTS FHD 
-http://srv01.iptvquantum.co:80/philips/philips/11663
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11663
 #EXTINF:-1,Fox Sports HD
-http://srv01.iptvquantum.co:80/philips/philips/11174
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11174
 #EXTINF:-1,FOX SPORTS SD
-http://srv01.iptvquantum.co:80/philips/philips/11662
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11662
+#EXTINF:-1,GATO FELIX
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12644
 #EXTINF:-1,GLOBO BH HD
-http://srv01.iptvquantum.co:80/philips/philips/11657
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11657
 #EXTINF:-1,GLOBO BRASILIA SD
-http://srv01.iptvquantum.co:80/philips/philips/11656
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11656
 #EXTINF:-1,GLOBO DF HD
-http://srv01.iptvquantum.co:80/philips/philips/11655
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11655
 #EXTINF:-1,GLOBO EPTV CAMPINAS SD
-http://srv01.iptvquantum.co:80/philips/philips/11652
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11652
 #EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD
-http://srv01.iptvquantum.co:80/philips/philips/11654
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11654
 #EXTINF:-1,GLOBO EPTV SÃO CARLOS SD
-http://srv01.iptvquantum.co:80/philips/philips/11653
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11653
 #EXTINF:-1,GLOBO ES HD
-http://srv01.iptvquantum.co:80/philips/philips/11514
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11514
 #EXTINF:-1,GLOBO FHD GAZETA SUL
-http://srv01.iptvquantum.co:80/philips/philips/11191
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11191
 #EXTINF:-1,GLOBO FHD RJ
-http://srv01.iptvquantum.co:80/philips/philips/11193
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11193
 #EXTINF:-1,GLOBO FHD SP
-http://srv01.iptvquantum.co:80/philips/philips/11173
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11173
 #EXTINF:-1,GLOBO GAZETA SUL HD
-http://srv01.iptvquantum.co:80/philips/philips/11190
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11190
 #EXTINF:-1,GLOBO HD
-http://srv01.iptvquantum.co:80/philips/philips/11172
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11172
 #EXTINF:-1,GLOBO HD RJ
-http://srv01.iptvquantum.co:80/philips/philips/11192
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11192
 #EXTINF:-1,GLOBO INTER TV CABUGI SD
-http://srv01.iptvquantum.co:80/philips/philips/11651
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11651
 #EXTINF:-1,GLOBO MINAS HD
-http://srv01.iptvquantum.co:80/philips/philips/11512
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11512
 #EXTINF:-1,GLOBO MINAS SD
-http://srv01.iptvquantum.co:80/philips/philips/11511
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11511
 #EXTINF:-1,GLOBO MINAS SD
-http://srv01.iptvquantum.co:80/philips/philips/11650
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11650
 #EXTINF:-1,GLOBO NEWS HD
-http://srv01.iptvquantum.co:80/philips/philips/11097
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11097
 #EXTINF:-1,GLOBO NEWS HD 
-http://srv01.iptvquantum.co:80/philips/philips/11648
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11648
 #EXTINF:-1,GLOBO NEWS SD
-http://srv01.iptvquantum.co:80/philips/philips/11647
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11647
 #EXTINF:-1,GLOBO NORDESTE HD
-http://srv01.iptvquantum.co:80/philips/philips/11646
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11646
 #EXTINF:-1,GLOBO NORDESTE SD
-http://srv01.iptvquantum.co:80/philips/philips/11645
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11645
 #EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
-http://srv01.iptvquantum.co:80/philips/philips/11644
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11644
 #EXTINF:-1,GLOBO REDE AMAZONICA HD 
-http://srv01.iptvquantum.co:80/philips/philips/11643
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11643
 #EXTINF:-1,GLOBO REDE AMAZÔNICA MANAUS SD
-http://srv01.iptvquantum.co:80/philips/philips/11642
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11642
 #EXTINF:-1,GLOBO RIO SD 
-http://srv01.iptvquantum.co:80/philips/philips/11641
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11641
 #EXTINF:-1,GLOBO RJ HD 
-http://srv01.iptvquantum.co:80/philips/philips/11640
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11640
 #EXTINF:-1,GLOBO RPC TV CURITIBA SD
-http://srv01.iptvquantum.co:80/philips/philips/11639
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11639
 #EXTINF:-1,GLOBO SJRP SD
-http://srv01.iptvquantum.co:80/philips/philips/11638
-#EXTINF:-1,GLOBO SP FHD H265¹
-http://srv01.iptvquantum.co:80/philips/philips/11661
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11638
+#EXTINF:-1,GLOBO SP FHD H265
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11661
 #EXTINF:-1,GLOBO SP HD
-http://srv01.iptvquantum.co:80/philips/philips/11660
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11660
 #EXTINF:-1,GLOBO SP SD
-http://srv01.iptvquantum.co:80/philips/philips/11659
-#EXTINF:-1,GLOBO SP¹
-http://srv01.iptvquantum.co:80/philips/philips/11658
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11659
+#EXTINF:-1,GLOBO SP
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11658
 #EXTINF:-1,GLOBO TV  TRIBUNA SANTOS SD 
-http://srv01.iptvquantum.co:80/philips/philips/11637
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11637
 #EXTINF:-1,GLOBO TV ANHANGUERA GOIÂNIA SD 
-http://srv01.iptvquantum.co:80/philips/philips/11636
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11636
 #EXTINF:-1,GLOBO TV BAHIA SD
-http://srv01.iptvquantum.co:80/philips/philips/11635
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11635
 #EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIBÁ SD
-http://srv01.iptvquantum.co:80/philips/philips/11634
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11634
 #EXTINF:-1,GLOBO TV LIBERAL BELEM SD
-http://srv01.iptvquantum.co:80/philips/philips/11547
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11547
 #EXTINF:-1,GLOBO TV TEM BAURU SD 
-http://srv01.iptvquantum.co:80/philips/philips/11633
-#EXTINF:-1,GLOBO TV TEM SOROCABA¹
-http://srv01.iptvquantum.co:80/philips/philips/11649
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11633
+#EXTINF:-1,GLOBO TV TEM SOROCABA
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11649
 #EXTINF:-1,GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD
-http://srv01.iptvquantum.co:80/philips/philips/11632
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11632
 #EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
-http://srv01.iptvquantum.co:80/philips/philips/11545
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11545
 #EXTINF:-1,GLOBO VERDES MARES HD
-http://srv01.iptvquantum.co:80/philips/philips/11513
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11513
 #EXTINF:-1,GLOOB FHD
-http://srv01.iptvquantum.co:80/philips/philips/12907
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12907
 #EXTINF:-1,GLOOB HD
-http://srv01.iptvquantum.co:80/philips/philips/11631
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11631
 #EXTINF:-1,GLOOB SD
-http://srv01.iptvquantum.co:80/philips/philips/11630
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11630
 #EXTINF:-1,GLOOBINHO HD
-http://srv01.iptvquantum.co:80/philips/philips/11629
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11629
 #EXTINF:-1,GNT HD
-http://srv01.iptvquantum.co:80/philips/philips/11628
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11628
 #EXTINF:-1,GNT SD
-http://srv01.iptvquantum.co:80/philips/philips/11627
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11627
 #EXTINF:-1,HBO 2 FHD.
-http://srv01.iptvquantum.co:80/philips/philips/11170
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11170
 #EXTINF:-1,HBO 2 SD
-http://srv01.iptvquantum.co:80/philips/philips/11626
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11626
 #EXTINF:-1,HBO FAMILY SD
-http://srv01.iptvquantum.co:80/philips/philips/11625
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11625
 #EXTINF:-1,HBO FHD.
-http://srv01.iptvquantum.co:80/philips/philips/11168
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11168
 #EXTINF:-1,HBO HD.
-http://srv01.iptvquantum.co:80/philips/philips/11171
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11171
 #EXTINF:-1,HBO PLUS FHD
-http://srv01.iptvquantum.co:80/philips/philips/11123
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11123
 #EXTINF:-1,HBO PLUS SD
-http://srv01.iptvquantum.co:80/philips/philips/11624
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11624
 #EXTINF:-1,HBO PLUS SD
-http://srv01.iptvquantum.co:80/philips/philips/11108
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11108
 #EXTINF:-1,HBO SD
-http://srv01.iptvquantum.co:80/philips/philips/11623
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11623
 #EXTINF:-1,HBO SIGNATURE SD
-http://srv01.iptvquantum.co:80/philips/philips/11622
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11622
 #EXTINF:-1,HBO2 HD
-http://srv01.iptvquantum.co:80/philips/philips/11169
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11169
+#EXTINF:-1,HE-MAN
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12643
 #EXTINF:-1,H2 FHD
-http://srv01.iptvquantum.co:80/philips/philips/12899
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12899
 #EXTINF:-1,H2 HD
-http://srv01.iptvquantum.co:80/philips/philips/11127
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11127
 #EXTINF:-1,H2 SD
-http://srv01.iptvquantum.co:80/philips/philips/11621
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11621
 #EXTINF:-1,HISTORY FHD
-http://srv01.iptvquantum.co:80/philips/philips/12911
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12911
 #EXTINF:-1,HISTORY HD
-http://srv01.iptvquantum.co:80/philips/philips/12912
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12912
+#EXTINF:-1,HORA DE AVENTURA
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12631
 #EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY FHD
-http://srv01.iptvquantum.co:80/philips/philips/12898
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12898
 #EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD
-http://srv01.iptvquantum.co:80/philips/philips/11620
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11620
 #EXTINF:-1,ID-INVESTIGAÇÃO DISCOVERY HD
-http://srv01.iptvquantum.co:80/philips/philips/11118
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11118
+#EXTINF:-1,INTERNATIONAL CHAMPIONS CUP 
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11619
 #EXTINF:-1,LIFETIME SD
-http://srv01.iptvquantum.co:80/philips/philips/11618
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11618
+#EXTINF:-1,LIGA DA JUSTIÇA
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12642
 #EXTINF:-1,MAIS GLOBOSAT HD
-http://srv01.iptvquantum.co:80/philips/philips/11617
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11617
 #EXTINF:-1,MAIS GLOBOSAT SD
-http://srv01.iptvquantum.co:80/philips/philips/11616
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11616
 #EXTINF:-1,MAX FHD
-http://srv01.iptvquantum.co:80/philips/philips/11131
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11131
 #EXTINF:-1,MAX PRIME SD
-http://srv01.iptvquantum.co:80/philips/philips/11615
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11615
 #EXTINF:-1,MAX SD
-http://srv01.iptvquantum.co:80/philips/philips/11614
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11614
 #EXTINF:-1,MAX SD
-http://srv01.iptvquantum.co:80/philips/philips/11107
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11107
 #EXTINF:-1,MAX UP SD
-http://srv01.iptvquantum.co:80/philips/philips/11613
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11613
 #EXTINF:-1,MAXPRIME FHD
-http://srv01.iptvquantum.co:80/philips/philips/11112
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11112
 #EXTINF:-1,MAXPRIME HD
-http://srv01.iptvquantum.co:80/philips/philips/12897
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12897
 #EXTINF:-1,MAXPRIME SD
-http://srv01.iptvquantum.co:80/philips/philips/11106
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11106
 #EXTINF:-1,MEGAPIX FHD
-http://srv01.iptvquantum.co:80/philips/philips/11120
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11120
 #EXTINF:-1,MEGAPIX SD
-http://srv01.iptvquantum.co:80/philips/philips/11612
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11612
+#EXTINF:-1,MLB HD
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11508
 #EXTINF:-1,MTV LIVE FHD
-http://srv01.iptvquantum.co:80/philips/philips/11115
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11115
 #EXTINF:-1,MTV LIVE SD
-http://srv01.iptvquantum.co:80/philips/philips/11105
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11105
 #EXTINF:-1,MTV SD
-http://srv01.iptvquantum.co:80/philips/philips/11611
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11611
 #EXTINF:-1,MULTISHOW  HD
-http://srv01.iptvquantum.co:80/philips/philips/11113
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11113
 #EXTINF:-1,MULTISHOW HD
-http://srv01.iptvquantum.co:80/philips/philips/11610
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11610
 #EXTINF:-1,MULTISHOW SD
-http://srv01.iptvquantum.co:80/philips/philips/11609
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11609
 #EXTINF:-1,MUSIC BOX BRAZIL SD
-http://srv01.iptvquantum.co:80/philips/philips/11608
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11608
+#EXTINF:-1,MIAMI TV
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/13608
+#EXTINF:-1,MIAMI TV HD
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/13610
+#EXTINF:-1,MIAMI TV LATINO
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/13607
+#EXTINF:-1,MIAMI TV LATINO HD
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/13609
 #EXTINF:-1,NATGEO HD
-http://srv01.iptvquantum.co:80/philips/philips/11151
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11151
 #EXTINF:-1,NATGEO KIDS FHD
-http://srv01.iptvquantum.co:80/philips/philips/11116
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11116
 #EXTINF:-1,NATGEO KIDS SD
-http://srv01.iptvquantum.co:80/philips/philips/11607
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11607
 #EXTINF:-1,NATGEO WILD SD
-http://srv01.iptvquantum.co:80/philips/philips/11606
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11606
 #EXTINF:-1,NATGEO KIDS HD
-http://srv01.iptvquantum.co:80/philips/philips/12896
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12896
 #EXTINF:-1,NATGEOKIDS SD
-http://srv01.iptvquantum.co:80/philips/philips/11104
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11104
 #EXTINF:-1,NATIONAL GEOGRAPHIC SD
-http://srv01.iptvquantum.co:80/philips/philips/11605
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11605
 #EXTINF:-1,NBR TV
-http://srv01.iptvquantum.co:80/philips/philips/11481
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11481
 #EXTINF:-1,NHK WORLD HD
-http://srv01.iptvquantum.co:80/philips/philips/11124
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11124
 #EXTINF:-1,NICK JR FHD
-http://srv01.iptvquantum.co:80/philips/philips/12910
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12910
 #EXTINF:-1,Nick Jr HD
-http://srv01.iptvquantum.co:80/philips/philips/11150
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11150
 #EXTINF:-1,NICK JR SD
-http://srv01.iptvquantum.co:80/philips/philips/11604
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11604
 #EXTINF:-1,NICKELODEON SD
-http://srv01.iptvquantum.co:80/philips/philips/11603
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11603
+#EXTINF:-1,NINJA JIRAIYA
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12640
+#EXTINF:-1,NUESTRA TELE INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11412
+#EXTINF:-1,O FANTÁSTICO MUNDO DE BOBBY
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12639
 #EXTINF:-1,OFF HD
-http://srv01.iptvquantum.co:80/philips/philips/11602
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11602
 #EXTINF:-1,PFC 1 FHD
-http://srv01.iptvquantum.co:80/philips/philips/11147
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11147
 #EXTINF:-1,PFC 1 HD
-http://srv01.iptvquantum.co:80/philips/philips/11149
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11149
 #EXTINF:-1,PFC 2 FHD
-http://srv01.iptvquantum.co:80/philips/philips/11146
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11146
 #EXTINF:-1,PFC 2 HD
-http://srv01.iptvquantum.co:80/philips/philips/11143
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11143
 #EXTINF:-1,PFC 3 FHD
-http://srv01.iptvquantum.co:80/philips/philips/11145
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11145
 #EXTINF:-1,PFC 3 SD
-http://srv01.iptvquantum.co:80/philips/philips/11142
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11142
 #EXTINF:-1,PFC 4 FHD
-http://srv01.iptvquantum.co:80/philips/philips/11144
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11144
 #EXTINF:-1,PFC 4 HD
-http://srv01.iptvquantum.co:80/philips/philips/11148
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11148
 #EXTINF:-1,PFC 5 HD
-http://srv01.iptvquantum.co:80/philips/philips/12903
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12903
 #EXTINF:-1,PFC 6 HD
-http://srv01.iptvquantum.co:80/philips/philips/12904
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12904
 #EXTINF:-1,PLAY TV SD
-http://srv01.iptvquantum.co:80/philips/philips/11601
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11601
 #EXTINF:-1,PLAYBOY FHD.
-http://srv01.iptvquantum.co:80/philips/philips/11141
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11141
 #EXTINF:-1,PLAYBOY HD.
-http://srv01.iptvquantum.co:80/philips/philips/11184
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11184
 #EXTINF:-1,PLAYBOY HD
-http://srv01.iptvquantum.co:80/philips/philips/12913
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12913
 #EXTINF:-1,PLAYBOY SD
-http://srv01.iptvquantum.co:80/philips/philips/11600
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11600
+#EXTINF:-1,PLAYKIDS HD
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11599
 #EXTINF:-1,PREMIERE 2 SD
-http://srv01.iptvquantum.co:80/philips/philips/11598
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11598
 #EXTINF:-1,PREMIERE 3 SD
-http://srv01.iptvquantum.co:80/philips/philips/11597
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11597
 #EXTINF:-1,PREMIERE 4 SD
-http://srv01.iptvquantum.co:80/philips/philips/11596
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11596
 #EXTINF:-1,PREMIERE 5 FHD
-http://srv01.iptvquantum.co:80/philips/philips/11594
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11594
 #EXTINF:-1,PREMIERE 5 SD
-http://srv01.iptvquantum.co:80/philips/philips/11595
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11595
 #EXTINF:-1,PREMIERE 6 SD
-http://srv01.iptvquantum.co:80/philips/philips/11593
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11593
 #EXTINF:-1,PREMIERE 7 SD
-http://srv01.iptvquantum.co:80/philips/philips/11592
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11592
 #EXTINF:-1,PREMIERE 8 SD
-http://srv01.iptvquantum.co:80/philips/philips/11591
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11591
 #EXTINF:-1,PREMIERE CLUBES FHD
-http://srv01.iptvquantum.co:80/philips/philips/11590
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11590
 #EXTINF:-1,PREMIERE CLUBES HD
-http://srv01.iptvquantum.co:80/philips/philips/11589
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11589
 #EXTINF:-1,PREMIERE CLUBES SD
-http://srv01.iptvquantum.co:80/philips/philips/11588
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11588
 #EXTINF:-1,RECORD BRASILIA FHD
-http://srv01.iptvquantum.co:80/philips/philips/11587
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11587
 #EXTINF:-1,RECORD BRASILIA SD
-http://srv01.iptvquantum.co:80/philips/philips/11586
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11586
 #EXTINF:-1,RECORD FHD
-http://srv01.iptvquantum.co:80/philips/philips/11575
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11575
 #EXTINF:-1,RECORD FHD
-http://srv01.iptvquantum.co:80/philips/philips/11130
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11130
 #EXTINF:-1,RECORD HD
-http://srv01.iptvquantum.co:80/philips/philips/12895
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12895
 #EXTINF:-1,RECORD ITAPOAN FHD
-http://srv01.iptvquantum.co:80/philips/philips/11585
-#EXTINF:-1,RECORD ITAPOAN¹
-http://srv01.iptvquantum.co:80/philips/philips/11584
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11585
+#EXTINF:-1,RECORD ITAPOAN
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11584
 #EXTINF:-1,RECORD MINAS FHD
-http://srv01.iptvquantum.co:80/philips/philips/11583
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11583
 #EXTINF:-1,RECORD MINAS SD
-http://srv01.iptvquantum.co:80/philips/philips/11582
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11582
 #EXTINF:-1,RECORD NEWS FHD 
-http://srv01.iptvquantum.co:80/philips/philips/11581
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11581
 #EXTINF:-1,Record News FHD
-http://srv01.iptvquantum.co:80/philips/philips/12886
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12886
 #EXTINF:-1,RECORD NEWS SD 
-http://srv01.iptvquantum.co:80/philips/philips/11580
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11580
 #EXTINF:-1,RECORD RIO FHD
-http://srv01.iptvquantum.co:80/philips/philips/11579
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11579
 #EXTINF:-1,RECORD RIO SD
-http://srv01.iptvquantum.co:80/philips/philips/11578
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11578
 #EXTINF:-1,RECORD RS FHD
-http://srv01.iptvquantum.co:80/philips/philips/11577
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11577
 #EXTINF:-1,RECORD RS SD
-http://srv01.iptvquantum.co:80/philips/philips/11576
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11576
 #EXTINF:-1,RECORD SD
-http://srv01.iptvquantum.co:80/philips/philips/11574
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11574
 #EXTINF:-1,RECORD SD
-http://srv01.iptvquantum.co:80/philips/philips/11188
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11188
 #EXTINF:-1,RECORD SP FHD
-http://srv01.iptvquantum.co:80/philips/philips/12887
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12887
 #EXTINF:-1,RECORD SP HD
-http://srv01.iptvquantum.co:80/philips/philips/11573
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11573
+#EXTINF:-1,RED BULL TV  FHD
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11504
 #EXTINF:-1,REDE MINAS
-http://srv01.iptvquantum.co:80/philips/philips/11473
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11473
 #EXTINF:-1,REDE SUPER TV
-http://srv01.iptvquantum.co:80/philips/philips/11411
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11411
 #EXTINF:-1,REDE VIDA HD
-http://srv01.iptvquantum.co:80/philips/philips/11499
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11499
 #EXTINF:-1,REDE VIDA SD
-http://srv01.iptvquantum.co:80/philips/philips/11498
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11498
 #EXTINF:-1,SBT ALT
-http://srv01.iptvquantum.co:80/philips/philips/11465
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11465
 #EXTINF:-1,SBT FHD
-http://srv01.iptvquantum.co:80/philips/philips/11140
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11140
 #EXTINF:-1,SBT HD
-http://srv01.iptvquantum.co:80/philips/philips/11139
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11139
 #EXTINF:-1,Sbt HD
-http://srv01.iptvquantum.co:80/philips/philips/12888
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12888
+#EXTINF:-1,SCOOBY DOO
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12628
 #EXTINF:-1,SEXTREME SD
-http://srv01.iptvquantum.co:80/philips/philips/11572
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11572
 #EXTINF:-1,SEXY HOT FHD
-http://srv01.iptvquantum.co:80/philips/philips/11137
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11137
 #EXTINF:-1,SEXY HOT HD
-http://srv01.iptvquantum.co:80/philips/philips/11158
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11158
 #EXTINF:-1,SEXY HOT SD
-http://srv01.iptvquantum.co:80/philips/philips/11571
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11571
 #EXTINF:-1,SHOPTIME TV
-http://srv01.iptvquantum.co:80/philips/philips/11471
-#EXTINF:-1,SICTV
-http://srv01.iptvquantum.co:80/philips/philips/11466
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11471
 #EXTINF:-1,SPACE FHD
-http://srv01.iptvquantum.co:80/philips/philips/11117
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11117
 #EXTINF:-1,SPACE SD
-http://srv01.iptvquantum.co:80/philips/philips/11570
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11570
 #EXTINF:-1,Sportv 2 FHD
-http://srv01.iptvquantum.co:80/philips/philips/11156
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11156
 #EXTINF:-1,SPORTV 2 HD 
-http://srv01.iptvquantum.co:80/philips/philips/11569
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11569
 #EXTINF:-1,Sportv 2 HD
-http://srv01.iptvquantum.co:80/philips/philips/11153
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11153
 #EXTINF:-1,SPORTV 2 SD
-http://srv01.iptvquantum.co:80/philips/philips/11568
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11568
 #EXTINF:-1,Sportv 3 FHD
-http://srv01.iptvquantum.co:80/philips/philips/11155
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11155
 #EXTINF:-1,SPORTV 3 HD 
-http://srv01.iptvquantum.co:80/philips/philips/11567
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11567
 #EXTINF:-1,SPORTV 3 HD
-http://srv01.iptvquantum.co:80/philips/philips/11152
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11152
 #EXTINF:-1,SPORTV 3 SD 
-http://srv01.iptvquantum.co:80/philips/philips/11566
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11566
 #EXTINF:-1,SPORTV FHD
-http://srv01.iptvquantum.co:80/philips/philips/11157
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11157
 #EXTINF:-1,SPORTV FHD 
-http://srv01.iptvquantum.co:80/philips/philips/11565
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11565
 #EXTINF:-1,Sportv FHD
-http://srv01.iptvquantum.co:80/philips/philips/12914
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12914
 #EXTINF:-1,Sportv HD (2)
-http://srv01.iptvquantum.co:80/philips/philips/11154
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11154
 #EXTINF:-1,SPORTV HD 
-http://srv01.iptvquantum.co:80/philips/philips/11564
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11564
 #EXTINF:-1,SPORTV SD 
-http://srv01.iptvquantum.co:80/philips/philips/11563
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11563
 #EXTINF:-1,STUDIO UNIVERSAL SD
-http://srv01.iptvquantum.co:80/philips/philips/11562
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11562
+#EXTINF:-1,SUPER AMIGOS
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12620
+#EXTINF:-1,SUPER VICKY
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12619
 #EXTINF:-1,TBS FHD
-http://srv01.iptvquantum.co:80/philips/philips/12901
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12901
 #EXTINF:-1,TBS FHD H265
-http://srv01.iptvquantum.co:80/philips/philips/11129
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11129
 #EXTINF:-1,TBS HD
-http://srv01.iptvquantum.co:80/philips/philips/12894
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12894
 #EXTINF:-1,TBS SD
-http://srv01.iptvquantum.co:80/philips/philips/11103
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11103
 #EXTINF:-1,TBS SD
-http://srv01.iptvquantum.co:80/philips/philips/11561
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11561
 #EXTINF:-1,TCM SD
-http://srv01.iptvquantum.co:80/philips/philips/11560
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11560
 #EXTINF:-1,TELECINE ACTION HD
-http://srv01.iptvquantum.co:80/philips/philips/11183
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11183
 #EXTINF:-1,TELECINE ACTION HD
-http://srv01.iptvquantum.co:80/philips/philips/11167
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11167
 #EXTINF:-1,TELECINE ACTION SD
-http://srv01.iptvquantum.co:80/philips/philips/11559
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11559
 #EXTINF:-1,TELECINE CULT SD
-http://srv01.iptvquantum.co:80/philips/philips/11558
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11558
 #EXTINF:-1,TELECINE FUN FHD
-http://srv01.iptvquantum.co:80/philips/philips/11166
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11166
 #EXTINF:-1,TELECINE FUN HD
-http://srv01.iptvquantum.co:80/philips/philips/11165
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11165
 #EXTINF:-1,TELECINE FUN SD
-http://srv01.iptvquantum.co:80/philips/philips/11557
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11557
 #EXTINF:-1,TELECINE PIPOCA FHD
-http://srv01.iptvquantum.co:80/philips/philips/11164
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11164
 #EXTINF:-1,TELECINE PIPOCA HD
-http://srv01.iptvquantum.co:80/philips/philips/11163
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11163
 #EXTINF:-1,TELECINE PIPOCA SD
-http://srv01.iptvquantum.co:80/philips/philips/11556
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11556
 #EXTINF:-1,TELECINE PREMIUM FHD
-http://srv01.iptvquantum.co:80/philips/philips/11162
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11162
 #EXTINF:-1,TELECINE PREMIUM HD
-http://srv01.iptvquantum.co:80/philips/philips/11161
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11161
 #EXTINF:-1,TELECINE PREMIUM SD
-http://srv01.iptvquantum.co:80/philips/philips/11555
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11555
 #EXTINF:-1,TELECINE TOUCH FHD
-http://srv01.iptvquantum.co:80/philips/philips/11160
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11160
 #EXTINF:-1,TELECINE TOUCH HD
-http://srv01.iptvquantum.co:80/philips/philips/11159
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11159
 #EXTINF:-1,TELECINE TOUCH SD
-http://srv01.iptvquantum.co:80/philips/philips/11554
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11554
 #EXTINF:-1,HISTORY CHANNEL SD
-http://srv01.iptvquantum.co:80/philips/philips/11553
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11553
 #EXTINF:-1,TLC HD
-http://srv01.iptvquantum.co:80/philips/philips/11099
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11099
 #EXTINF:-1,TLC SD
-http://srv01.iptvquantum.co:80/philips/philips/11552
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11552
 #EXTINF:-1,TNT SD
-http://srv01.iptvquantum.co:80/philips/philips/11551
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11551
 #EXTINF:-1,TNT SERIES FHD
-http://srv01.iptvquantum.co:80/philips/philips/12900
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12900
 #EXTINF:-1,TNT SERIES FHD H265
-http://srv01.iptvquantum.co:80/philips/philips/11128
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11128
 #EXTINF:-1,TNT SERIES FHD
-http://srv01.iptvquantum.co:80/philips/philips/11550
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11550
 #EXTINF:-1,TNT SERIES HD
-http://srv01.iptvquantum.co:80/philips/philips/12893
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12893
 #EXTINF:-1,TNT SÉRIES SD
-http://srv01.iptvquantum.co:80/philips/philips/11549
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11549
 #EXTINF:-1,TNT SERIES SD
-http://srv01.iptvquantum.co:80/philips/philips/11102
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11102
 #EXTINF:-1,TOONCAST SD
-http://srv01.iptvquantum.co:80/philips/philips/11548
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11548
 #EXTINF:-1,TV ALTERNATIVA (GAZETA MA)
-http://srv01.iptvquantum.co:80/philips/philips/11475
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11475
 #EXTINF:-1,TV ARAPUAN
-http://srv01.iptvquantum.co:80/philips/philips/11472
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11472
 #EXTINF:-1,TV BRASIL DF
-http://srv01.iptvquantum.co:80/philips/philips/11482
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11482
 #EXTINF:-1,TV CARIOCA HD
-http://srv01.iptvquantum.co:80/philips/philips/11509
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11509
 #EXTINF:-1,TV CATVE (CULTURA PR)
-http://srv01.iptvquantum.co:80/philips/philips/11488
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11488
 #EXTINF:-1,TV CENTRAL
-http://srv01.iptvquantum.co:80/philips/philips/11489
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11489
 #EXTINF:-1,TV DIFUSORA SUL
-http://srv01.iptvquantum.co:80/philips/philips/11476
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11476
 #EXTINF:-1,TV MASTER
-http://srv01.iptvquantum.co:80/philips/philips/11470
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11470
 #EXTINF:-1,TV O POVO
-http://srv01.iptvquantum.co:80/philips/philips/11484
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11484
 #EXTINF:-1,TV PAMPA
-http://srv01.iptvquantum.co:80/philips/philips/11468
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11468
 #EXTINF:-1,TV PANTANAL MS
-http://srv01.iptvquantum.co:80/philips/philips/11474
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11474
 #EXTINF:-1,TV RA TIM BUM SD
-http://srv01.iptvquantum.co:80/philips/philips/11546
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11546
 #EXTINF:-1,TV SANTA CECÍLIA
-http://srv01.iptvquantum.co:80/philips/philips/12885
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12885
 #EXTINF:-1,TV SERRA DOURADA
-http://srv01.iptvquantum.co:80/philips/philips/11478
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11478
+#EXTINF:-1,TV SIM (RECORD NEWS ES)
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11479
 #EXTINF:-1,TV UNIAO NATAL
-http://srv01.iptvquantum.co:80/philips/philips/11469
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11469
 #EXTINF:-1,TV UNIAO
-http://srv01.iptvquantum.co:80/philips/philips/11485
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11485
 #EXTINF:-1,TV UNIVERSAL 1
-http://srv01.iptvquantum.co:80/philips/philips/11492
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11492
 #EXTINF:-1,TV UNIVERSAL 2 HD
-http://srv01.iptvquantum.co:80/philips/philips/11494
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11494
 #EXTINF:-1,TV UNIVERSAL 2 SD
-http://srv01.iptvquantum.co:80/philips/philips/11493
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11493
 #EXTINF:-1,TV VITORIA
-http://srv01.iptvquantum.co:80/philips/philips/11480
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11480
 #EXTINF:-1,TVCI
-http://srv01.iptvquantum.co:80/philips/philips/11487
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11487
 #EXTINF:-1,TVE (TV BRASIL BA)
-http://srv01.iptvquantum.co:80/philips/philips/11486
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11486
 #EXTINF:-1,TVE RS
-http://srv01.iptvquantum.co:80/philips/philips/11467
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11467
 #EXTINF:-1,UNIVERSAL CHANNEL HD
-http://srv01.iptvquantum.co:80/philips/philips/11186
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11186
 #EXTINF:-1,UNIVERSAL TV FHD
-http://srv01.iptvquantum.co:80/philips/philips/11544
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11544
 #EXTINF:-1,UNIVERSAL TV SD
-http://srv01.iptvquantum.co:80/philips/philips/11543
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11543
 #EXTINF:-1,VH1 MEGAHITS SD
-http://srv01.iptvquantum.co:80/philips/philips/11542
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11542
 #EXTINF:-1,VIVA HD
-http://srv01.iptvquantum.co:80/philips/philips/11541
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11541
 #EXTINF:-1,VIVA SD
-http://srv01.iptvquantum.co:80/philips/philips/11540
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11540
 #EXTINF:-1,WARNER CHANNEL FHD
-http://srv01.iptvquantum.co:80/philips/philips/11539
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11539
 #EXTINF:-1,WARNER CHANNEL HD
-http://srv01.iptvquantum.co:80/philips/philips/11125
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11125
 #EXTINF:-1,WARNER CHANNEL SD
-http://srv01.iptvquantum.co:80/philips/philips/11538
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11538
 #EXTINF:-1,WARNER SD
-http://srv01.iptvquantum.co:80/philips/philips/11100
+plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11100
 #EXTINF:-1,WOOHOO SD
-http://srv01.iptvquantum.co:80/philips/philips/11537
+
+
+
 ----------------- Desenho 24 h
 #EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://imgur.com/TIv2l6x.jpg" group-title=" 24Hrs Infantil",3 Palavrinhas
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12268.m3u8
