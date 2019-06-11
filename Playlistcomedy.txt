@@ -30,14 +30,3 @@
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
 <fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
 </item>
-
-<channels>
-<channel>
-<name>[COLOR red][B]TV MARCO FORMIGA[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
-<fanart>https://i.imgur.com/rXOHYDs.png</fanart>
-<link>http://ignorar.com/</link>
-<externallink>https://pastebin.com/raw/Ngp2BN78</externallink>
-<info>Seleção de tv paga.</info>
-</channel>
-</channe>ls
