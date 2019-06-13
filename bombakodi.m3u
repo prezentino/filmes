@@ -1,6 +1,10 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TOPTV Sertaneja" tvg-logo="" group-title="Shows",TOPTV Sertaneja
 http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
+#EXTINF:-1 tvg-id="" tvg-name="Larva Tuba [24h]" tvg-logo="https://img.youtube.com/vi/pBB9xzOSfrw/0.jpg" group-title="Canais | 24 Horas",Larva Tube [24h]
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Clarencio [24h]" tvg-logo="https://imgur.com/0tK8520.jpg" group-title="Canais | 24 Horas",Clarencio [24h]
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8
 #EXTINF:-1,-----------------------------------------------------------------------------------------------
 
 
