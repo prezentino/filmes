@@ -7,7 +7,7 @@
 		<datadir zip="true">https://raw.githubusercontent.com/bombazorro/filmes/master/repository/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Demonstration Addon</summary>
+		<summary>Tutairals Addon</summary>
 		<description>Addon Description</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
