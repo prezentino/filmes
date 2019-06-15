@@ -31,3 +31,10 @@
 <fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR lime]rasta[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fS2uBc8wGQc</link>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
+</item>
+
