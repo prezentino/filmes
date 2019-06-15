@@ -4,6 +4,8 @@ http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
 --TVS-------------------------------
 #EXTINF:-1,SBT SD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1,REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
 ----------------------------------------------------
 
 
