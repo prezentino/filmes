@@ -32,7 +32,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]rasta[/COLOR]</title>
+<title>[COLOR lime]rastafari[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=ZF4cN0_F9rs</link>
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
 <fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
