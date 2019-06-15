@@ -10,7 +10,7 @@
 <item>
 <title>[COLOR lime]failarmy[/COLOR]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLOWSbqDrrI5SvPqISAiOJ59JO0rn2okOq</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/LLPDis9pjXuqyI7RYLJ-TTSA/?page=0</jsonrpc>
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
 <fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
 </item>
@@ -30,11 +30,3 @@
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
 <fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
 </item>
-
-<item>
-<title>[COLOR lime]rastafari[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=ZF4cN0_F9rs</link>
-<thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
-<fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
-</item>
-
