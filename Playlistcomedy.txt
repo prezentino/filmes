@@ -18,7 +18,7 @@
 <item>
 <title>[COLOR lime]Larva TUBE[/COLOR]</title>
 <link>ignoreme</link>
-<jsonrpc>plugin://plugin.video.youtube/playlist/PLxrv_vTPuZ6S6r8nmbmy7lCiLHUWgYs1f</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLxrv_vTPuZ6S6r8nmbmy7lCiLHUWgYs1f/?page=0</jsonrpc>
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
 <fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
 </item>
