@@ -22,3 +22,13 @@
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
 <fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR lime]Larva TUBE[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/babe5a42-49ba-4ed2-8c31-d4104743865f</jsonrpc>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
+</item>
+
+
