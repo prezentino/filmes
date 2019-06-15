@@ -10,7 +10,7 @@
 <item>
 <title>[COLOR lime]failarmy[/COLOR]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLOWSbqDrrI5SvPqISAiOJ59JO0rn2okOq/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLOWSbqDrrI5SvPqISAiOJ59JO0rn2okOq</jsonrpc>
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
 <fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
 </item>
