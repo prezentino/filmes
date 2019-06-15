@@ -5,6 +5,8 @@ http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
 plugin://plugin.video.youtube/play/?video_id=ZF4cN0_F9rs
 #EXTINF:-1 tvg-id="" tvg-name="Clarencio [24h]" tvg-logo="https://imgur.com/0tK8520.jpg" group-title="Canais | 24 Horas",Clarencio [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8
+#EXTINF:-1,GLOBO AO VIVO
+plugin://plugin.video.youtube/play/?video_id=mt7NGpE3Lgw
 #EXTINF:-1,-----------------------------------------------------------------------------------------------
 
 
