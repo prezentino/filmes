@@ -6,6 +6,8 @@ http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1,REDE TV
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+#EXTINF:-1,tv gazeta
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 ----------------------------------------------------
 
 
