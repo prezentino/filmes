@@ -7,6 +7,8 @@ plugin://plugin.video.youtube/play/?video_id=boIS03Hc2hU
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8
 #EXTINF:-1,PICA-PAU
 plugin://plugin.video.youtube/play/?video_id=nmSXFYQ2V2M
+#EXTINF:-1,Masha e o Urso
+plugin://plugin.video.youtube/play/?video_id=zF3LZyRil9g
 #EXTINF:-1,-----------------------------------------------------------------------------------------------
 
 
