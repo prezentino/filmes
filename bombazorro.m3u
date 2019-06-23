@@ -934,7 +934,7 @@ https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
  
 #EXTINF:-1 tvg-id="Globo Teste" tvg-name="Globo Teste" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Teste
-http://elitept.dynu.net:8080/pai/pai/8300
+https://rocha.azureedge.net/hls1/cartoon.m3u8
 
 ------ Desenhos 24 hr
 #EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://imgur.com/TIv2l6x.jpg" group-title=" 24Hrs Infantil",3 Palavrinhas
