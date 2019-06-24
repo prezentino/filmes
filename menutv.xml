@@ -3,22 +3,23 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow][B]TV Marco[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
-<fanart>https://i.imgur.com/rXOHYDs.png</fanart>
-<link>http://ignorar.com/</link>
-<externallink>http://tinyurl.com/bombakodi</externallink>
-<info>Esta seleção foi feita e atualizada por mim.</info>
-</channel>
-</channe>ls
-
-<channels>
-<channel>
 <name>[COLOR yellow][B]TV CONEXAO TV[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
 <fanart>https://i.imgur.com/rXOHYDs.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://cld.pt/dl/download/695aa5d2-c107-46d6-ad55-c06a70992b66/home%20f4mtester.xml</externallink>
+<info>Esta seleção foi feita e atualizada por mim.</info>
+</channel>
+</channe>ls
+
+
+<channels>
+<channel>
+<name>[COLOR yellow][B]TV Marco[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
+<fanart>https://i.imgur.com/rXOHYDs.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>http://tinyurl.com/bombakodi</externallink>
 <info>Esta seleção foi feita e atualizada por mim.</info>
 </channel>
 </channe>ls
@@ -57,3 +58,13 @@
 </channel>
 </channe>ls
 
+<channels>
+<channel>
+<name>[COLOR yellow][B]TV FOGO[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<fanart>https://i.imgur.com/wTHwmDe.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/Fire-HD/Menu/master/Menu-Tv</externallink>
+<info>Esta seleção foi feita e atualizada por mim.</info>
+</channel>
+</channe>ls
