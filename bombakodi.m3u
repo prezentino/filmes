@@ -11,6 +11,69 @@ plugin://plugin.video.youtube/play/?video_id=nmSXFYQ2V2M
 plugin://plugin.video.youtube/play/?video_id=zF3LZyRil9g
 #EXTINF:-1,-----------------------------------------------------------------------------------------------
 
+<item>
+<title>[B][COLOR white]BAND[/COLOR][COLOR darkviolet]HD[/COLOR][/B]</title>
+<link>https://rocha.azureedge.net/hls1/band.m3u8|Referer=http://cometa.top/contadorcanais.php</link>
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/band.png</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]CANAL RICOS[/COLOR][COLOR darkviolet]HD[/COLOR][/B]</title>
+<link>http://stmv1.srvstm.com/canalricos548/canalricos548/playlist.m3u8</link>
+<thumbnail>https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg</thumbnail>
+<fanart>https://i.imgur.com/v0NRClD.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO NORDESTE[/COLOR][COLOR darkviolet]HD[/COLOR][/B]</title>
+<link>https://rocha.azureedge.net/hls1/bobonordeste.m3u8|Referer=http://cometa.top/contadorcanais.php</link>
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/globo.png</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO RJ[/COLOR][COLOR darkviolet]HD[/COLOR][/B]</title>
+<link>https://rocha.azureedge.net/hls1/boborj.m3u8|Referer=http://cometa.top/contadorcanais.php</link>
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/globo_rj.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO SP[/COLOR][COLOR darkviolet]HD[/COLOR][/B]</title>
+<link>https://rocha.azureedge.net/hls1/bobosp.m3u8|Referer=http://cometa.top/contadorcanais.php</link>
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/globo_sp.png</thumbnail>
+</item>
+https://rocha.azureedge.net/hls1/warner.m3u8?c2VydmVyX3RpbWU9NS8yOC8yMDE5IDEyOjI3OjQzIEFNJmhhc2hfdmFsdWU9eUZuMisycGVmQ0lYZ05RSmc1QTVDQT09JnZhbGlkbWludXRlcz0yMCZpZD01
+<item>
+<title>[B][COLOR white]SBT[/COLOR][COLOR darkviolet]HD[/COLOR][/B]</title>
+<link>https://rocha.azureedge.net/hls1/sbt.m3u8|Referer=http://cometa.top/contadorcanais.php</link>
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/sbt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]RECORD[/COLOR][COLOR darkviolet]HD[/COLOR][/B]</title>
+<link>https://rocha.azureedge.net/hls1/recordsp.m3u8|Referer=http://cometa.top/contadorcanais.php</link>
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/record.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]REDE MINAS[/COLOR][COLOR darkviolet]HD[/COLOR][/B]</title>
+<link>https://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368.m3u8?sts=st=1552617977~exp=1552624577~acl=/*~hmac=fdb2feddcaa6d97574c54256e2bc6e331723d8ac013d6c7fb0afa5a265913b95</link>
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/redeminas.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]REDE TV[/COLOR][COLOR darkviolet]HD[/COLOR][/B]</title>
+<link>https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1310205100.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/redetv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TV CANSÃO NOVA[/COLOR][COLOR darkviolet]HD[/COLOR][/B]</title>
+<link>https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_432_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/CNova.jpg</thumbnail>
+</item>
 
 
 
