@@ -12,6 +12,19 @@
 </channel>
 </channe>ls
 
+
+<channels>
+<channel>
+<name>[COLOR yellow][B]FILMES Milhano[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/GADKEkj.jpg</thumbnail>
+<fanart>https://i.imgur.com/GADKEkj.jpg</fanart>
+<link>http://ignorar.com/</link>
+<externallink>http://kodi.csadria.org/GREENaddon/TVlive/xxx.xml</externallink>
+<info>Links de canais adultos.</info>
+</channel>
+</channe>ls
+
+
 <channels>
 <channel>
 <name>[COLOR yellow][B]Filmes Adultos[/B][/COLOR]</name>
