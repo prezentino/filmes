@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow][B]TV CONEXAO TV[/B][/COLOR]</name>
+<name>[COLOR yellow][B]CONEXAO TV[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
 <fanart>https://i.imgur.com/rXOHYDs.png</fanart>
 <link>http://ignorar.com/</link>
@@ -12,22 +12,9 @@
 </channel>
 </channe>ls
 
-
 <channels>
 <channel>
-<name>[COLOR yellow][B]TV Marco[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
-<fanart>https://i.imgur.com/rXOHYDs.png</fanart>
-<link>http://ignorar.com/</link>
-<externallink>http://tinyurl.com/bombakodi</externallink>
-<info>Esta seleção foi feita e atualizada por mim.</info>
-</channel>
-</channe>ls
-
-
-<channels>
-<channel>
-<name>[COLOR yellow][B]TV MARCO FORMIGA[/B][/COLOR]</name>
+<name>[COLOR yellow][B]TV FORMIGA[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
 <fanart>https://i.imgur.com/rXOHYDs.png</fanart>
 <link>http://ignorar.com/</link>
