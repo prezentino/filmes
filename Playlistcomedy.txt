@@ -33,10 +33,3 @@
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
 <fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
 </item>
-
-
-<plugin>
-<title>TheAtlanticCraft - Channel</title>
-<link>plugin://plugin.video.youtube/user/MrBean/</link>
-<thumbnail></thumbnail>
-</plugin>
