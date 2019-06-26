@@ -38,7 +38,8 @@
 <item>
 <title>[COLOR lime]Mr Bean[/COLOR]</title>
 <link>ignoreme</link>
-<jsonrpc>https://pastebin.com/raw/j3td68Ft</jsonrpc>
+<jsonrpc></jsonrpc>
+<externallink>https://pastebin.com/raw/j3td68Ft</externallink>
 <thumbnail>http://www.istoesuperinteressante.com/wp-content/uploads/2016/12/3247.jpg</thumbnail>
 <fanart>https://orig00.deviantart.net/c2d6/f/2016/128/4/6/mr__bean_collection_folder_icon_by_dahlia069-da1rhxg.png</fanart>
 </item>
