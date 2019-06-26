@@ -38,8 +38,8 @@
 <item>
 <title>[COLOR lime]Mr Bean[/COLOR]</title>
 <link>ignoreme</link>
-<jsonrpc>plugin://plugin.video.youtube/user/MrBean/&quot</jsonrpc>
-<thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
-<fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
+<jsonrpc>plugin://plugin.video.youtube/user/MrBean/</jsonrpc>
+<thumbnail>http://www.istoesuperinteressante.com/wp-content/uploads/2016/12/3247.jpg</thumbnail>
+<fanart>http://www.istoesuperinteressante.com/wp-content/uploads/2016/12/3247.jpg</fanart>
 </item>
 
