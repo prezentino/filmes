@@ -38,7 +38,7 @@
 <item>
 <title>[COLOR lime]Mr Bean[/COLOR]</title>
 <link>ignoreme</link>
-<jsonrpc>plugin://plugin.video.youtube.com/user/MrBean</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/user/MrBean/&quot;,return</jsonrpc>
 <thumbnail>http://www.istoesuperinteressante.com/wp-content/uploads/2016/12/3247.jpg</thumbnail>
 <fanart>http://www.istoesuperinteressante.com/wp-content/uploads/2016/12/3247.jpg</fanart>
 </item>
