@@ -35,12 +35,13 @@
 </item>
 
 
-<item>
-<title>[COLOR lime]Mr Bean[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc></jsonrpc>
+<channels>
+<channel>
+<name>[COLOR yellow][B]TV FORMIGA[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/JZ0TIv8.jpg</thumbnail>
+<fanart>https://i.imgur.com/rXOHYDs.png</fanart>
+<link>http://ignorar.com/</link>
 <externallink>https://pastebin.com/raw/j3td68Ft</externallink>
-<thumbnail>http://www.istoesuperinteressante.com/wp-content/uploads/2016/12/3247.jpg</thumbnail>
-<fanart>https://orig00.deviantart.net/c2d6/f/2016/128/4/6/mr__bean_collection_folder_icon_by_dahlia069-da1rhxg.png</fanart>
-</item>
-
+<info>Seleção de tv paga.</info>
+</channel>
+</channe>ls
