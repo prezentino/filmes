@@ -7,6 +7,9 @@
 <fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
 </item>
 
+
+
+
 <item>
 <title>[COLOR lime]failarmy[/COLOR]</title>
 <link>ignoreme</link>
@@ -30,3 +33,13 @@
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
 <fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
 </item>
+
+
+<item>
+<title>[COLOR lime]Mr Bean[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/MrBean/&quot</jsonrpc>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
+</item>
+
