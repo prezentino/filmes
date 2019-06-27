@@ -1,6 +1,32 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="" group-title="Aberta",Globo
+http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="Esportes",ESPN Brasil
+http://placartv.futeboltv.com:8081/live/3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport" tvg-logo="" g0roup-title="Esportes",FOX Sport
+http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="" g0roup-title="Esportes",SPORTV
+http://placartv.futeboltv.com:8081/live/5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="" g0roup-title="Esportes",SPORTV 2
+http://placartv.futeboltv.com:8081/live/7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="" g0roup-title="Esportes",SPORTV 3
+http://placartv.futeboltv.com:8081/live/11/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="" group-title="Aberta",BAND
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="" group-title="Aberta",SBT
+https:/5a1c76baf08c0.streamlock.net/343-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOPTV Sertaneja" tvg-logo="" group-title="Shows",TOPTV Sertaneja
 http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
+#EXTINF:-1 tvg-id="" tvg-name="RECORD" tvg-logo="" group-title="Aberta",RECORD MT
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="" group-title="Aberta",REDETV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="FILMES E SERIES",Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/can%C3%A7aonova.png" group-title="CANAIS DE RELIGIAO", Cancao Nova 
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8??TvFogoHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg" group-title="CANAIS DE RELIGIAO",TV APARECIDA HD
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD
 --TVS-------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Larva Tuba [24h]" tvg-logo="https://img.youtube.com/vi/pBB9xzOSfrw/0.jpg" group-title="Canais | 24 Horas",Larva Tube [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
@@ -23,6 +49,7 @@ http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IPTVP
 http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50613
 #EXTINF:0, Combate
 http://tv.factoryiptv0.com:80/Tms5M8vNJ/phantomiptv/50673
+
 ----------------------------------------------------
 #EXTM3U
 
@@ -262,17 +289,8 @@ http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDEGOSPEL.png" group-title="BRASIL", GOSPEL (Copyright © 2019 - TeamBlue)
 http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVGIDEOES.png" group-title="BRASIL", TV GIDEOES (Copyright © 2019 - TeamBlue)
-http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NOVOTEMPO.png" group-title="BRASIL", TV NOVO TEMPO (Copyright © 2019 - TeamBlue)
 http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDEBRASIL.png" group-title="BRASIL", REDE BRASIL (Copyright © 2019 - TeamBlue)
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUTURA.png" group-title="BRASIL", FUTURA (Copyright © 2019 - TeamBlue)
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1MEGAHITS.png" group-title="BRASIL", VH1 MEGAHITS (Copyright © 2019 - TeamBlue)
 http://stream.1music.hu/stream/1music.m3u8
@@ -301,14 +319,8 @@ http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CLASSIQUE TV
 http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GOSPEL MOVIES
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GOSPEL MUSIC TELEVISION
-http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RETRO
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
@@ -372,12 +384,6 @@ http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=622585135
 
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/cz/RETRO.png" group-title="VARIEDADES", RETRO MUSIC
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="TV Aberta (leo)", TVE BRASIL
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="TV Aberta (leo)", TVE BA HD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO", REDE TV SP
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
