@@ -17,8 +17,8 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOPTV Sertaneja" tvg-logo="" group-title="Shows",TOPTV Sertaneja
 http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD RN
-http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD MT
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="" group-title="Aberta",REDETV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="FILMES E SERIES",Cine Sky
@@ -44,12 +44,6 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-logo=»https://i0.wp.com/i.imgur.com/IZKxzJ9.png» group-title=»RELIGIOSO», Novo Tempo RS
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IPTVPLENITUDE
-#EXTINF:0, Band Sport
-#EXTVLCOPT:network-caching=1000
-http://tv.factoryiptv.com:80/Tms5M8vNJ/phantomiptv/50613
-#EXTINF:0, Combate
-http://tv.factoryiptv0.com:80/Tms5M8vNJ/phantomiptv/50673
-
 ----------------------------------------------------
 #EXTM3U
 
@@ -58,15 +52,6 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/ssN6sj?" group-title="TV Aberta (leo)", RECORD
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="TV Aberta (leo)", TVE BRASIL
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="TV Aberta (leo)", TVE BA HD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aV1cIAf.png?1" group-title="TV Aberta (leo)", REDE BRASIL®
-http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png group-title=" group-title="group-title=", REDE TV SP
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
@@ -80,62 +65,23 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO", REDE TV RJ
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO", REDE TV! - RONDÔNIA
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO", RECORD TV ÁGUA BOA
-http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?LISTASGLAU
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PE SD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PE HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="Canais", TV CULTURA PA
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBkPRxBNPdNGtFf53p2aP-luRBYX1Bqnw3aviAULH1GEHev6m5" group-title="CANAIS", ALL SPORTS- Canal FutucAndroiD
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" group-title="CANAIS", GOSPEL MOVIES TELEVISION- Canal FutucAndroiD
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="CANAIS", TVE BA HD- Canal FutucAndroiD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
-
 #EXTINF:-1 tvg-logo="https://goo.gl/Dxnuge" group-title="CANAIS", CINE ANTONIO FILMES 24HS- Canal FutucAndroiD
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" group-title="CANAIS INTERNACIONAIS", HBO2 HD- Canal FutucAndroiD
-http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?INGLESNALDYNHO
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png" group-title="CANAIS", HISTORY LAB- Canal FutucAndroiD
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvacarati.jpg" group-title="FILMES", Tv Aracati (CE)
-http://wse7.player.tv.br:1935/tvaracati/tvaracati/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SoizuC9.png?1" group-title="Sem Categoria", REDE NEWS HD
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?ISAQUE
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClkvlmW.png?1" group-title="FILMES E SÉRIES", 24 HORAS
 http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uhujdoE.jpg?1" group-title="FILMES E SÉRIES", TV DIGITAL BIRIGUI
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="FILMES E SÉRIES", CINE SKY
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES E SÉRIES", TV ARACATI
-https://v7.ciclano.io:1443/tvaracati/_definst_/tvaracati/chunklist_w1604080643.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES E SÉRIES", TV ARACATI
-http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SZoI0eV.png" group-title="FILMES E SÉRIES", CINE FILMES 2
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
@@ -143,38 +89,8 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="FILMES E SÉRIES", CLASSIQUE TV
 http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aq5mOpF.png?1" group-title="FILMES E SÉRIES", GOSPEL TV - FILMES
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gCyDgxN.png?1" group-title="FILMES E SÉRIES", SÓ FILMES
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="CANAIS", TV Ticavision Costa Rica
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="CANAIS", TV  Wow El Salvador
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="CANAIS", TV  Galicia Europa
-http://europa-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="CANAIS", TV  Cachipum TV
-http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="SERIES", TV JAPI
-http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cachipum.tv/img/logo.png" group-title="Sem Categoria", Cachipum | SD | Chile
-http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1056888968.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="DESENHOS", Tv.Destak
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="DESENHOS", Animes
-http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="CANAIS", M20Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="FILMES", Carioca
 http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
