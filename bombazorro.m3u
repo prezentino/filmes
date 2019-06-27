@@ -13,12 +13,12 @@ http://placartv.futeboltv.com:8081/live/7/playlist.m3u8
 http://placartv.futeboltv.com:8081/live/11/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="" group-title="Aberta",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="" group-title="Aberta",SBT
-https:/5a1c76baf08c0.streamlock.net/343-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT SP Interior
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOPTV Sertaneja" tvg-logo="" group-title="Shows",TOPTV Sertaneja
 http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
-#EXTINF:-1 tvg-id="" tvg-name="RECORD" tvg-logo="" group-title="Aberta",RECORD MT
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD RN
+http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="" group-title="Aberta",REDETV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="FILMES E SERIES",Cine Sky
