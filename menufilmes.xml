@@ -159,6 +159,24 @@
 </channel>
 </channels>
 
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR white][B]FILMES mizifi[/B][/COLOR] - [COLOR YELLOW][B]Marco[/B][/COLOR]</name>
+<thumbnail>http://cdn-fund.fundacaotelefonica.org.br/wp-content/uploads/2015/08/thumbnail-21.png</thumbnail>
+<fanart>http://cdn-fund.fundacaotelefonica.org.br/wp-content/uploads/2015/08/thumbnail-21.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/teste.xml</externallink>
+<info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
+</channel>
+</channels>
+
+
+
+
 <channel>
 <name>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]GDRIVE[/B][/COLOR] [COLOR red]LANÇAMENTOS[/COLOR] [COLOR lime]Créditos Uploads[/COLOR] [COLOR blue](cinedrivehdyt.tk)[/COLOR] [COLOR yellow]+[/COLOR] [COLOR red](downloadlivre.net)[/COLOR]</name>
 <externallink>https://dl-web.meocloud.pt/dlweb/CJhqzE_znXbbb_cDdLvdDg/download/Mister/Filmes%20TvchannelHD%202019/Filmes%20Lancamentos%202019%20Gdrive.xml?public=c9a596e9-56b2-45d7-ae0b-bdc3655a8630</externallink>
