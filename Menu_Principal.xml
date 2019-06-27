@@ -3,17 +3,8 @@
 
 
 
-<channels>
-<channel>
-<name>[COLOR white][B] T V [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/P3VGdtG.jpg</thumbnail>
-<fanart>https://imgur.com/P3VGdtG.jpg</fanart>
-<link>http://ignorar.com/</link>
-<externallink>plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/adilsongloria/3191788148/21619</externallink>
-<info>A MELHOR SELECAO DE TVS PAGAS</info>
-</channel>
-</channels>
-
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/adilsongloria/3191788148/21619
 
 <channels>
 <channel>
