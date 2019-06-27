@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layoutype>list</layoutype>
 
-
-
-#EXTINF:-1,Globo NSC TV Florianopolis HD
-plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/adilsongloria/3191788148/21619
-
 <channels>
 <channel>
 <name>[COLOR white][B] T V [/B][/COLOR]</name>
@@ -19,7 +14,7 @@ plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=ht
 
 <channels>
 <channel>
-<name>[COLOR blue][B]DESENHOS[/B][/COLOR]</name>
+<name>[COLOR blue][B]D E S E N H O S[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/49JrBIK.png</thumbnail>
 <fanart>https://i.imgur.com/49JrBIK.png</fanart>
 <link>http://ignorar.com/</link>
@@ -30,7 +25,7 @@ plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=ht
 
 <channels>
 <channel>
-<name>[COLOR yellow][B]FILMES[/B][/COLOR]</name>
+<name>[COLOR yellow][B]F I L M E S[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/w2aL9gS.png</thumbnail>
 <fanart>https://i.imgur.com/w2aL9gS.png</fanart>
 <link>http://ignorar.com/</link>
@@ -41,7 +36,7 @@ plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=ht
 
 <channels>
 <channel>
-<name>[COLOR white][B]SERIES[/B][/COLOR]</name>
+<name>[COLOR white][B]S E R I E S[/B][/COLOR]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVONRfn7c6gPymtsjl-nZ7InbVmTsjvaVvk8y-l7TxhfKZOKxYQ</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVONRfn7c6gPymtsjl-nZ7InbVmTsjvaVvk8y-l7TxhfKZOKxYQ</fanart>
 <link>http://ignorar.com/</link>
