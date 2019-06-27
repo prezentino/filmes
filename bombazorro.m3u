@@ -1,6 +1,18 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="" group-title="Aberta",Globo
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
+#EXTINF:-1,SBT SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1,REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+#EXTINF:-1,tv gazeta
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1,TV Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
+#EXTINF:-1,Canção Nova HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1 tvg-logo=»https://i0.wp.com/i.imgur.com/IZKxzJ9.png» group-title=»RELIGIOSO», Novo Tempo RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IPTVPLENITUDE
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="Esportes",ESPN Brasil
 http://placartv.futeboltv.com:8081/live/3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sport" tvg-logo="" g0roup-title="Esportes",FOX Sport
@@ -32,21 +44,7 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clarencio [24h]" tvg-logo="https://imgur.com/0tK8520.jpg" group-title="Canais | 24 Horas",Clarencio [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8
-#EXTINF:-1,SBT SD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1,REDE TV
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
-#EXTINF:-1,tv gazeta
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
-#EXTINF:-1,TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
-#EXTINF:-1,Canção Nova HD
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-#EXTINF:-1 tvg-logo=»https://i0.wp.com/i.imgur.com/IZKxzJ9.png» group-title=»RELIGIOSO», Novo Tempo RS
-http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IPTVPLENITUDE
 ----------------------------------------------------
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="TV Aberta (leo)", BAND
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
 
