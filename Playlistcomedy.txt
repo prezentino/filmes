@@ -7,13 +7,11 @@
 <fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
 </item>
 
-
 <item>
-<title>[COLOR lime]failarmy[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/LLPDis9pjXuqyI7RYLJ-TTSA/?page=0</jsonrpc>
-<thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
-<fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
+<title>[COLOR yellow]*[B]F a i l   A r m y[/B] [/COLOR][COLOR red][/COLOR]</title>
+<utube>FailArmy Best Fails of the Week</utube>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbE7b_RF1wBDXo8BLSf-iQfQsTXqgfHoTwd32yJS3tZJ8KlyF</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbE7b_RF1wBDXo8BLSf-iQfQsTXqgfHoTwd32yJS3tZJ8KlyF</fanart>
 </item>
 
 <item>
