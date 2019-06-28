@@ -16,6 +16,13 @@
 <fanart>https://i.ytimg.com/vi/0aF5hYNnUQI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAc3IfUjbZ-gVTPBAjsV70wpJVFRQ</fanart>
 </item>
 
+name="COMO USAR O WIZARD P/ BUILDS"
+section="no"
+url="https://youtu.be/XeYYGkSjPVM"
+icon="http://i68.tinypic.com/nyin4l.jpg"
+fanart="http://i66.tinypic.com/2u9phti.jpg"
+description="VIP BUILD TONYWARLLEY"
+
 
 
 <item>
