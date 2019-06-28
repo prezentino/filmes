@@ -33,3 +33,10 @@
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuyXBs7_f6i_O5tjIgIEP_ztGNRZSz0ffuVLMXD4azZSWgy5M</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuyXBs7_f6i_O5tjIgIEP_ztGNRZSz0ffuVLMXD4azZSWgy5M</fanart>
 </item>
+
+<item>
+<title>[COLOR white]*[B]S T A N D   U P[/B][/COLOR]</title>
+<utube>stand up 2019 br</utube>
+<thumbnail>https://orig00.deviantart.net/1858/f/2015/290/0/c/stand_up_comedy__png__by_alexwarn3-d9de5mc.png</thumbnail>
+<fanart>https://orig00.deviantart.net/1858/f/2015/290/0/c/stand_up_comedy__png__by_alexwarn3-d9de5mc.png</fanart>
+</item>
