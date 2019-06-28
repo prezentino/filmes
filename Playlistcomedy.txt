@@ -1,17 +1,8 @@
-
-<item>
-<title>[COLOR lime]Xilindro (200) - (480p)[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLkZ0gSDx27CM-6JYbG0o-JGwDBdKLS4qv/?page=0</jsonrpc>
-<thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
-<fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
-</item>
-
 <item>
 <title>[COLOR yellow]*[B]F a i l   A r m y[/B] [/COLOR][COLOR red][/COLOR]</title>
 <utube>FailArmy Best Fails of the Week</utube>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbE7b_RF1wBDXo8BLSf-iQfQsTXqgfHoTwd32yJS3tZJ8KlyF</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbE7b_RF1wBDXo8BLSf-iQfQsTXqgfHoTwd32yJS3tZJ8KlyF</fanart>
+<thumbnail>https://i.ytimg.com/vi/oHSpDsMudcE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oHSpDsMudcE/maxresdefault.jpg</fanart>
 </item>
 
 <item>
