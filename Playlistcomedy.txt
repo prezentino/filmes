@@ -17,11 +17,10 @@
 </item>
 
 <item>
-<title>[COLOR lime]Larva TUBE[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL013bNy5tlPEVc6Nr3iYkR0JNMPWNb7cz/?page=0</jsonrpc>
-<thumbnail>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</thumbnail>
-<fanart>http://sergiogracas.com/emular/kodi/imagens/xilindromulti.jpg</fanart>
+<title>[COLOR white]*[B]L  A R V A   T U B A[/B] [/COLOR][COLOR red][/COLOR]</title>
+<utube>Larva2011ani</utube>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbE7b_RF1wBDXo8BLSf-iQfQsTXqgfHoTwd32yJS3tZJ8KlyF</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbE7b_RF1wBDXo8BLSf-iQfQsTXqgfHoTwd32yJS3tZJ8KlyF</fanart>
 </item>
 
 <item>
@@ -38,7 +37,6 @@
 <thumbnail>https://orig00.deviantart.net/c2d6/f/2016/128/4/6/mr__bean_collection_folder_icon_by_dahlia069-da1rhxg.png</thumbnail>
 <fanart>http://www.istoesuperinteressante.com/wp-content/uploads/2016/12/3247.jpg</fanart>
 </item>
-
 
 <item>
 <title>[COLOR white]*[B]L E O N[/B] [/COLOR][COLOR red][/COLOR][COLOR red][B]Canal[/B] [/COLOR]</title>
