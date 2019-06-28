@@ -43,6 +43,6 @@
 <item>
 <title>[COLOR white]*[B]L E O N[/B] [/COLOR][COLOR red][/COLOR][COLOR red][B]Canal[/B] [/COLOR]</title>
 <utube>leon error of the savannah full</utube>
-<thumbnail>https://orig00.deviantart.net/c2d6/f/2016/128/4/6/mr__bean_collection_folder_icon_by_dahlia069-da1rhxg.png</thumbnail>
-<fanart>http://www.istoesuperinteressante.com/wp-content/uploads/2016/12/3247.jpg</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuyXBs7_f6i_O5tjIgIEP_ztGNRZSz0ffuVLMXD4azZSWgy5M</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuyXBs7_f6i_O5tjIgIEP_ztGNRZSz0ffuVLMXD4azZSWgy5M</fanart>
 </item>
