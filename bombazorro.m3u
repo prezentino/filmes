@@ -39,6 +39,10 @@ http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8??TvFogoHD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg" group-title="CANAIS DE RELIGIAO",TV APARECIDA HD
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD
+#EXTINF:-1 tvg-id="" tvg-name="ZORRA TOTAL 24h" tvg-logo="" g0roup-title="comedia",ZORRA TOTAL 24h
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APENAS UM SHOW 24h" tvg-logo="" g0roup-title="comedia",APENAS UM SHOW
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13098.m3u8
 --TVS-------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Larva Tuba [24h]" tvg-logo="https://img.youtube.com/vi/pBB9xzOSfrw/0.jpg" group-title="Canais | 24 Horas",Larva Tube [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
