@@ -9,23 +9,6 @@
 
 
 <item>
-<title>[COLOR lime]L E O N[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCUo1L4webfVzWK3FmTodSfA/videos/?page=0</jsonrpc>
-<thumbnail>https://i.ytimg.com/vi/0aF5hYNnUQI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAc3IfUjbZ-gVTPBAjsV70wpJVFRQ</thumbnail>
-<fanart>https://i.ytimg.com/vi/0aF5hYNnUQI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAc3IfUjbZ-gVTPBAjsV70wpJVFRQ</fanart>
-</item>
-
-name="COMO USAR O WIZARD P/ BUILDS"
-section="no"
-url="https://youtu.be/XeYYGkSjPVM"
-icon="http://i68.tinypic.com/nyin4l.jpg"
-fanart="http://i66.tinypic.com/2u9phti.jpg"
-description="VIP BUILD TONYWARLLEY"
-
-
-
-<item>
 <title>[COLOR lime]failarmy[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/LLPDis9pjXuqyI7RYLJ-TTSA/?page=0</jsonrpc>
@@ -52,6 +35,14 @@ description="VIP BUILD TONYWARLLEY"
 <item>
 <title>[COLOR white]*[B]Mr. Bean[/B] [/COLOR][COLOR red][/COLOR][COLOR red][B]Canal[/B] [/COLOR]  [COLOR lime][B]Oficial[/B] [/COLOR]   [COLOR yellow][B]Youtube[/B] [/COLOR]</title>
 <utube>MrBean</utube>
+<thumbnail>https://orig00.deviantart.net/c2d6/f/2016/128/4/6/mr__bean_collection_folder_icon_by_dahlia069-da1rhxg.png</thumbnail>
+<fanart>http://www.istoesuperinteressante.com/wp-content/uploads/2016/12/3247.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white]*[B]L E O N[/B] [/COLOR][COLOR red][/COLOR][COLOR red][B]Canal[/B] [/COLOR]</title>
+<utube>LEON CARTOON</utube>
 <thumbnail>https://orig00.deviantart.net/c2d6/f/2016/128/4/6/mr__bean_collection_folder_icon_by_dahlia069-da1rhxg.png</thumbnail>
 <fanart>http://www.istoesuperinteressante.com/wp-content/uploads/2016/12/3247.jpg</fanart>
 </item>
