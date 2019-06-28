@@ -8,6 +8,14 @@
 </item>
 
 
+<item>
+<title>[COLOR lime]L E O N[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/UCUo1L4webfVzWK3FmTodSfA/?page=0</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/0aF5hYNnUQI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAc3IfUjbZ-gVTPBAjsV70wpJVFRQ</thumbnail>
+<fanart>https://i.ytimg.com/vi/0aF5hYNnUQI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAc3IfUjbZ-gVTPBAjsV70wpJVFRQ</fanart>
+</item>
+
 
 
 <item>
