@@ -72,17 +72,8 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/ssN6sj?" group-title="TV Aberta (leo)", RECORD
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png group-title=" group-title="group-title=", REDE TV SP
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO", REDE TV SP
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO", REDE TV SP
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO", REDE TV RJ
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PE SD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
@@ -104,9 +95,6 @@ http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SZoI0eV.png" group-title="FILMES E SÉRIES", CINE FILMES 2
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="FILMES E SÉRIES", CLASSIQUE TV
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gCyDgxN.png?1" group-title="FILMES E SÉRIES", SÓ FILMES
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
