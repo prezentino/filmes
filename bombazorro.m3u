@@ -12,6 +12,8 @@ https://d3cvkf3y9y8fv3.cloudfront.net/hls1/comedycentral.m3u8
 https://d3cvkf3y9y8fv3.cloudfront.net/hls1/bobonordeste.m3u8
 #EXTINF:-1,Discovery Home Health
 https://d3cvkf3y9y8fv3.cloudfront.net/hls1/discoveryhomeihealth.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
 #EXTINF:-1,REDE RECORD
 https://d3cvkf3y9y8fv3.cloudfront.net/hls1/recordsp.m3u8
 #EXTINF:-1,SBT SD
