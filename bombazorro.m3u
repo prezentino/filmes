@@ -16,6 +16,8 @@ https://d3cvkf3y9y8fv3.cloudfront.net/hls1/discoveryhomeihealth.m3u8
 http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
 #EXTINF:-1,REDE RECORD
 https://d3cvkf3y9y8fv3.cloudfront.net/hls1/recordsp.m3u8
+#EXTINF:-1,COMBATE
+http://192.119.9.66/live/j0awpv1b2rzrv2w36ervr13ruaoc9jn4.ts
 #EXTINF:-1,SBT SD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1,REDE TV
