@@ -4,12 +4,6 @@
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blobo" tvg-logo="" group-title="Aberta",Blobo
 http://192.119.9.66/live/f8fca31a11ed6b5b0a57847c830b59ef.ts
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Aberta",ANIMAQL PLANET
-https://d3cvkf3y9y8fv3.cloudfront.net/hls1/animalplanet.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="Aberta",Comedy Central
-https://d3cvkf3y9y8fv3.cloudfront.net/hls1/comedycentral.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="" group-title="Aberta",Globo Nordeste
-https://d3cvkf3y9y8fv3.cloudfront.net/hls1/bobonordeste.m3u8
 #EXTINF:-1,Discovery Home Health
 https://d3cvkf3y9y8fv3.cloudfront.net/hls1/discoveryhomeihealth.m3u8
 #EXTINF:-1,CARTOON NETWORK
