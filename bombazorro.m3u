@@ -6,6 +6,8 @@ http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
 http://192.119.9.66/live/f8fca31a11ed6b5b0a57847c830b59ef.ts
 #EXTINF:-1,Discovery Home Health
 https://d3cvkf3y9y8fv3.cloudfront.net/hls1/discoveryhomeihealth.m3u8
+#EXTINF:-1,A & E
+https://d3d61bik6e6yw1.cloudfront.net/hls1/aie.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
 #EXTINF:-1,REDE RECORD
