@@ -1,17 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layoutype>list</layoutype>
 
-<channels>
-<channel>
-<name>[COLOR white][B]FILMES CONEXÃO PLAY[/B][/COLOR] - [COLOR YELLOW][B]Marco[/B][/COLOR]</name>
-<thumbnail>https://imgur.com/JVDPsZ2.jpg</thumbnail>
-<fanart>https://imgur.com/JVDPsZ2.jpg</fanart>
-<link>http://ignorar.com/</link>
-<externallink>https://cld.pt/dl/download/e666d612-650c-47ba-92a8-fe01dd949a74/Home%20Filmes.xml</externallink>
-<info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
-</channel>
-</channels>
-
 channels>
 <channel>
 <name>[COLOR white][B]FILMES NORDESTE[/B][/COLOR]</name>
@@ -156,20 +145,4 @@ channels>
 <info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
 </channel>
 </channels>
-
-<channels>
-<channel>
-<name>[COLOR blue][B]T E S T E[/B][/COLOR]</name>
-<thumbnail>http://cdn-fund.fundacaotelefonica.org.br/wp-content/uploads/2015/08/thumbnail-21.png</thumbnail>
-<fanart>http://cdn-fund.fundacaotelefonica.org.br/wp-content/uploads/2015/08/thumbnail-21.png</fanart>
-<link>http://ignorar.com/</link>
-<externallink>http://bluerayplay.com/kodi/img/Pasta%20dos%20Filmes/Filmes2019.xml</externallink>
-<info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
-</channel>
-</channels>
-
-
-
-
-
 
