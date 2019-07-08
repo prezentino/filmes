@@ -1,9 +1,9 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="RBS-RS teste" tvg-logo="" group-title="Aberta",RBS-RS
+#EXTINF:-1 tvg-id="" tvg-name="RBS-RS teste" tvg-logo="" group-title="CANAIS ABERTOS",RBS-RS
 http://playertv.ddns.net:25461/pauloRobertoSoares/nJSlD8zMCl/66101
-#EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="" group-title="Aberta",Globo
+#EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="" group-title="CANAIS ABERTOS",Globo
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Blobo" tvg-logo="" group-title="Aberta",Blobo
+#EXTINF:-1 tvg-id="" tvg-name="Blobo" tvg-logo="" group-title="CANAIS ABERTOS",Blobo
 http://192.119.9.66/live/f8fca31a11ed6b5b0a57847c830b59ef.ts
 #EXTINF:-1,CARTOON NETWORK
 http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
@@ -33,15 +33,15 @@ http://placartv.futeboltv.com:8081/live/5/playlist.m3u8
 http://placartv.futeboltv.com:8081/live/7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="" g0roup-title="Esportes",SPORTV 3
 http://placartv.futeboltv.com:8081/live/11/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="" group-title="Aberta",BAND
+#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT SP Interior
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT SP Interior
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOPTV Sertaneja" tvg-logo="" group-title="Shows",TOPTV Sertaneja
 http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD MT
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",RECORD MT
 http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="" group-title="Aberta",REDETV
+#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="" group-title="CANAIS ABERTOS",REDETV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="FILMES E SERIES",Cine Sky
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
