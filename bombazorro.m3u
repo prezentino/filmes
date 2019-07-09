@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="RBS-RS teste" tvg-logo="" group-title="CANAIS ABERTOS",RBS-RS
 http://playertv.ddns.net:25461/pauloRobertoSoares/nJSlD8zMCl/66101
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS" , GLOBO RS
+http://192.119.9.66/live/cyp-26AD03DA528647C7863b7F66CBDC.ts
 #EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="" group-title="CANAIS ABERTOS",Globo
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blobo" tvg-logo="" group-title="CANAIS ABERTOS",Blobo
