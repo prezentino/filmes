@@ -9,6 +9,8 @@ http://192.119.9.66/live/f8fca31a11ed6b5b0a57847c830b59ef.ts
 http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
 #EXTINF:-1,INVESTIGAÇÃO DISCOVERY
 https://dfzch99lxuky8.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDE5IDU6Mjg6MTAgUE0maGFzaF92YWx1ZT0yQVE1ak96cGpnQm41Z1ByWU5DZWh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,COMEDY CENTRAL
+https://dfzch99lxuky8.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDE5IDU6MzY6NTQgUE0maGFzaF92YWx1ZT1rTWo0a29YSjg5V08rdDY3azVJUVZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,REDE RECORD
 https://d3d61bik6e6yw.cloudfront.net/hls1/recordsp.m3u8
 #EXTINF:-1,COMBATE
@@ -17,6 +19,7 @@ http://192.119.9.66/live/j0awpv1b2rzrv2w36ervr13ruaoc9jn4.ts
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1,REDE TV
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+
 #EXTINF:-1,tv gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1,TV Aparecida
