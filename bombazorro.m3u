@@ -11,6 +11,8 @@ http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
 https://dfzch99lxuky8.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDE5IDU6Mjg6MTAgUE0maGFzaF92YWx1ZT0yQVE1ak96cGpnQm41Z1ByWU5DZWh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,COMEDY CENTRAL
 https://dfzch99lxuky8.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDE5IDU6MzY6NTQgUE0maGFzaF92YWx1ZT1rTWo0a29YSjg5V08rdDY3azVJUVZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY CHANNEL
+https://dfzch99lxuky8.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDE5IDU6Mzk6NDQgUE0maGFzaF92YWx1ZT1GVy9Mb3ZweTMyMzZYbjdMMmF0RDFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,REDE RECORD
 https://d3d61bik6e6yw.cloudfront.net/hls1/recordsp.m3u8
 #EXTINF:-1,COMBATE
