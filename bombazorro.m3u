@@ -33,7 +33,7 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-logo=»https://i0.wp.com/i.imgur.com/IZKxzJ9.png» group-title=»RELIGIOSO», Novo Tempo RS
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IPTVPLENITUDE
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="Esportes",ESPN Brasil
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="ESPORTES",ESPN Brasil
 http://placartv.futeboltv.com:8081/live/3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sport" tvg-logo="" g0roup-title="Esportes",FOX Sport
 http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
