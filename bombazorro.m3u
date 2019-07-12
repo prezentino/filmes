@@ -23,7 +23,8 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
 #EXTINF:-1,FILME ALITA
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/ALITANGDCMBT.mp4?attachment=true
-
+#EXTINF:-1,FILME SHAZAM
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/SHRZM.mp4?attachment=true
 #EXTINF:-1,tv gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1,TV Aparecida
