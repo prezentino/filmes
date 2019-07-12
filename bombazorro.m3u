@@ -21,6 +21,8 @@ http://192.119.9.66/live/j0awpv1b2rzrv2w36ervr13ruaoc9jn4.ts
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1,REDE TV
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+#EXTINF:-1,FILME ALITA
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/ALITANGDCMBT.mp4?attachment=true
 
 #EXTINF:-1,tv gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
