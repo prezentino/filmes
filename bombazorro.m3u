@@ -7,6 +7,8 @@ http://lista.digitalgroup.me:80/live/cassio123/cassio123/968.m3u8
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/46940.m3u8
 #EXTINF:-1,BAND
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1108.m3u8
+#EXTINF:-1,RECORD
+http://lista.digitalgroup.me:80/live/cassio123/cassio123/1710.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
 #EXTINF:-1,INVESTIGAÇÃO DISCOVERY
