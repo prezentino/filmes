@@ -24,17 +24,13 @@ http://lista.digitalgroup.me:80/live/cassio123/cassio123/1084.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL HD
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/2410.m3u8
 #EXTINF:-1,REDE RECORD
-https://d3d61bik6e6yw.cloudfront.net/hls1/recordsp.m3u8
+http://b.greenplanet.top:8080/br-8069Record/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTINF:-1,COMBATE
-http://lista.digitalgroup.me:80/live/cassio123/cassio123/22439.m3u8
+http://lista.digitalgroup.me:80/live/cassio123/cassio123/1089.m3u8
 #EXTINF:-1,SBT SD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1,REDE TV
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
-#EXTINF:-1,FILME ALITA
-http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/ALITANGDCMBT.mp4?attachment=true
-#EXTINF:-1,FILME SHAZAM
-http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/SHRZM.mp4?attachment=true
 #EXTINF:-1,tv gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1,TV Aparecida
