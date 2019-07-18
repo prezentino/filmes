@@ -11,16 +11,22 @@ http://lista.digitalgroup.me:80/live/cassio123/cassio123/1108.m3u8
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1710.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
-#EXTINF:-1,INVESTIGAÇÃO DISCOVERY
-https://dfzch99lxuky8.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDE5IDU6Mjg6MTAgUE0maGFzaF92YWx1ZT0yQVE1ak96cGpnQm41Z1ByWU5DZWh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,INVESTIGACAO DISCOVERY
+http://lista.digitalgroup.me:80/live/cassio123/cassio123/1011.m3u8
+#EXTINF:-1,INVESTIGACAO DISCOVERY HD
+http://lista.digitalgroup.me:80/live/cassio123/cassio123/2469.m3u8
 #EXTINF:-1,COMEDY CENTRAL
-https://dfzch99lxuky8.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDE5IDU6MzY6NTQgUE0maGFzaF92YWx1ZT1rTWo0a29YSjg5V08rdDY3azVJUVZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://lista.digitalgroup.me:80/live/cassio123/cassio123/2484.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://lista.digitalgroup.me:80/live/cassio123/cassio123/16004.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
-https://dfzch99lxuky8.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDE5IDU6Mzk6NDQgUE0maGFzaF92YWx1ZT1GVy9Mb3ZweTMyMzZYbjdMMmF0RDFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://lista.digitalgroup.me:80/live/cassio123/cassio123/1084.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://lista.digitalgroup.me:80/live/cassio123/cassio123/2410.m3u8
 #EXTINF:-1,REDE RECORD
 https://d3d61bik6e6yw.cloudfront.net/hls1/recordsp.m3u8
 #EXTINF:-1,COMBATE
-http://192.119.9.66/live/j0awpv1b2rzrv2w36ervr13ruaoc9jn4.ts
+http://lista.digitalgroup.me:80/live/cassio123/cassio123/22439.m3u8
 #EXTINF:-1,SBT SD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1,REDE TV
