@@ -3,8 +3,8 @@
 http://192.119.9.66/live/cyp-26AD03DA528647C7863b7F66CBDC.ts
 #EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="" group-title="CANAIS ABERTOS",Globo
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Blobo" tvg-logo="" group-title="CANAIS ABERTOS",Blobo
-http://192.119.9.66/live/f8fca31a11ed6b5b0a57847c830b59ef.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SC" tvg-logo="" group-title="CANAIS ABERTOS",GLOBO SC
+http://lista.digitalgroup.me:80/live/cassio123/cassio123/46940.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
 #EXTINF:-1,INVESTIGAÇÃO DISCOVERY
