@@ -1,13 +1,13 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS" , GLOBO RS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO RS
 http://192.119.9.66/live/cyp-26AD03DA528647C7863b7F66CBDC.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="" group-title="CANAIS ABERTOS",Globo
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" tvg-name="Globo" tvg-logo="" group-title="CANAIS ABERTOS",Globo
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SC" tvg-logo="" group-title="CANAIS ABERTOS",GLOBO SC
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" tvg-name="GLOBO SC" tvg-logo="" group-title="CANAIS ABERTOS",GLOBO SC
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/46940.m3u8
-#EXTINF:-1,BAND
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1108.m3u8
-#EXTINF:-1,RECORD
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",RECORD MT
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1710.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
@@ -147,13 +147,6 @@ http://192.119.9.66/live/A89AB93D-F7EE-421B-92ab-684C48F218DD.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg" group-title="CANAIS ABERTOS",TV APARECIDA
 http://192.119.9.66/live/cyp-38256037D6124DBCbd57DED7B058.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cultura.jpg" group-title="CANAIS ABERTOS",TV CULTURA
-http://192.119.9.66/live/4861F8C2-0DB8-4268-9815-D28C928CE4F7.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS ABERTOS",VIVA
-http://192.119.9.66/live/5BB0A0AE-00B9-426E-8cad-2372A6A24C08.ts
-
 
 ################################################################################# DOCUMENTÁRIOS
 
