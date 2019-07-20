@@ -1,6 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layoutype>list</layoutype>
 
+<channels>
+<channel>
+<name>[COLOR white][B]BRAZUCA PLAY LANÇAMENTOS[/B][/COLOR] - [COLOR red][B]Filmes Atualizados[/B][/COLOR]</name>
+<thumbnail>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</thumbnail>
+<fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/Lan%C3%A7amentos%202019</externallink>
+<info>OS MELHORES DESENHOS VOCE ENCONTRA AQUI</info>
+</channel>
+</channels>
+
+
 
 <channels>
 <channel>
