@@ -170,4 +170,13 @@
 </channel>
 </channels>
 
-
+<channels>
+<channel>
+<name>[COLOR white][B]TESTE[/B][/COLOR] - [COLOR red][B]Filmes Atualizados[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/Z9QaMbG.jpg</thumbnail>
+<fanart>https://i.imgur.com/iHLvn98.jpg</fanart>
+<link>http://ignorar.com/</link>
+<externallink>http://www.mmfilmes.tv/series/</externallink>
+<info>OS MELHORES DESENHOS VOCE ENCONTRA AQUI</info>
+</channel>
+</channels>
