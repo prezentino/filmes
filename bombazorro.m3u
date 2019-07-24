@@ -13,6 +13,8 @@ http://lista.digitalgroup.me:80/live/cassio123/cassio123/1108.m3u8
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1710.m3u8
 #EXTINF:-1,FILME NOS
 http://ghs1.azureedge.net/movies/nos-dub-720p.mp4
+#EXTINF:-1,FILME Pokémon: Detetive Pikachu
+http://d1zhyfew7auj5s.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/PKMNDTCTVPKCH.mp4?attachment=true
 #EXTINF:-1,FILME TUDO ACABE EM FESTA
 http://ghs1.azureedge.net/movies/tudoacabaemfesta-dub-720p.mp4
 #EXTINF:-1,FILME UMA SAIDA DE MESTRE
