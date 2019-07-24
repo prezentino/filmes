@@ -1,12 +1,10 @@
 <item>    
-<title>[COLOR lime][B]REPO MILHANO [/COLOR][COLOR yellow]http://milhano.com.pt/repositorio.milhano [/COLOR][/B]</title>
-<link>http://pastebin.com</link>
-<jsonrpc></jsonrpc>
-<thumbnail>https://cld.pt/dl/download/44b380b3-caa4-41ea-a0e8-2fd02a6378c7/repo%20milhano%202.jpg</thumbnail>
-<fanart>https://cld.pt/dl/download/d5b78bff-54f0-4c74-9896-feb416fec5e5/repo%20milhano.jpg</fanart>
-<info>Para este addon instalar correctamente, é necessário adicionar o repo Milhano, quem já tem, convém desinstalar e voltar a instalar para actualizar.</info>  
+<title>[COLOR green][B]ADDON [/COLOR][COLOR yellow] FORMIGAtv[/COLOR][/B]</title>
+<link>http://pastebin.com/raw/xgTbv3tb</link> AsCHThpj
+<jsonrpc>plugin://plugin.video.FORMIGAtv</jsonrpc>
+<thumbnail>https://cld.pt/dl/download/287350e0-99fb-465c-a172-392862cc897e/FORMIGA%20TV%203.jpg</thumbnail>
+<fanart>https://cld.pt/dl/download/287350e0-99fb-465c-a172-392862cc897e/FORMIGA%20TV%203.jpg</fanart>
 </item>
- 
  
 <item>    
 <title>[COLOR green][B]ADDON [/COLOR][COLOR yellow] KeltecMP IPTV [/COLOR][/B]</title>
@@ -14,4 +12,13 @@
 <jsonrpc>plugin://plugin.video.KeltecMPIPTV</jsonrpc>
 <thumbnail>https://cld.pt/dl/download/b23322b8-960d-4cb4-9c30-ee87e27693c2/KELTEC.jpg</thumbnail>
 <fanart>https://cld.pt/dl/download/b23322b8-960d-4cb4-9c30-ee87e27693c2/KELTEC.jpg</fanart>
+</item>
+
+<item>    
+<title>[COLOR green][B]ADDON [/COLOR][COLOR yellow] LIVE.TV[/COLOR][/B]</title>
+<link>http://pastebin.com/raw/nnzBTZ3k</link>
+<jsonrpc>plugin://plugin.video.Live.Tv</jsonrpc>
+<thumbnail>https://cld.pt/dl/download/95b69f85-aa7d-4230-9474-74cb44935d38/LIVE.TV.jpg</thumbnail>
+<fanart>https://cld.pt/dl/download/95b69f85-aa7d-4230-9474-74cb44935d38/LIVE.TV.jpg</fanart>
+<info>Para este addon instalar correctamente, é necessário adicionar o repo Milhano, quem já tem, convém desinstalar e voltar a instalar para actualizar.</info>  
 </item>
