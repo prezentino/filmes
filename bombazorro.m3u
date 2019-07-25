@@ -1,8 +1,10 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO RS
 http://192.119.9.66/live/cyp-26AD03DA528647C7863b7F66CBDC.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO TEMP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO RS
 http://b.greenplanet.top:8080/br-18075GloRbsHD/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT SP
+http://lista.digitalgroup.me:80/live/cassio123/cassio123/955.m3u8
 #EXTINF:-1 tvg-id="globo" tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS",Globo
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/968.m3u8
 #EXTINF:-1 tvg-id="globo sc" tvg-name="GLOBO SC" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS",GLOBO SC
