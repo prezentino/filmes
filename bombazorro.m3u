@@ -56,11 +56,7 @@ http://lista.digitalgroup.me:80/live/cassio123/cassio123/2410.m3u8
 http://b.greenplanet.top:8080/br-8069Record/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTINF:-1,COMBATE
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1089.m3u8
-#EXTINF:-1,SBT SD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
-#EXTINF:-1,tv gazeta
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1,TV Aparecida
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
 #EXTINF:-1,Canção Nova HD
