@@ -9,7 +9,7 @@
 <fanart>https://i.imgur.com/wTHwmDe.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://raw.githubusercontent.com/Fire-HD/Menu/master/Servidor_1/play1</externallink>
-<info>Esta seleção foi feita e atualizada por mim.</info>
+<info>Esta seleção foi feita por TV FOGO.</info>
 </channel>
 </channe>ls
 
@@ -19,7 +19,7 @@
 <fanart>https://i.imgur.com/wTHwmDe.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://gist.githubusercontent.com/eltoniptv/c4fe093ebeec805aa5bf75ceadfbd5e0/raw/2b42d9618dafc79646c8fc3af51d4490708f34c9/lista%2520top%2520PHAT.m3u</externallink>
-<info>Esta seleção foi feita e atualizada por mim.</info>
+<info>Esta seleção foi feita por Eliton.</info>
 </channel>
 </channe>ls
 
@@ -31,7 +31,7 @@
 <fanart>https://i.imgur.com/rXOHYDs.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://pastebin.com/raw/DAZbyQqn</externallink>
-<info>Esta seleção foi feita e atualizada por mim.</info>
+<info>Esta seleção foi retirado do Link Conexão TV.</info>
 </channel>
 </channe>ls
 
@@ -42,7 +42,7 @@
 <fanart>https://i.imgur.com/rXOHYDs.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://pastebin.com/raw/GAFNX2kY</externallink>
-<info>Seleção de tv paga.</info>
+<info>Seleção de tv paga Formiga.</info>
 </channel>
 </channe>ls
 
@@ -64,7 +64,7 @@
 <fanart>https://i.imgur.com/rXOHYDs.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/channels</externallink>
-<info>Seleção de Canais Kuala.</info>
+<info>Seleção de Canais Tony Warlley.</info>
 </channel>
 </channe>ls
 
@@ -75,7 +75,7 @@
 <fanart>https://i.imgur.com/rXOHYDs.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://raw.githubusercontent.com/eliel733/brlive733/master/corpo</externallink>
-<info>Seleção de Canais Kuala.</info>
+<info>Seleção de Canais BR Live.</info>
 </channel>
 </channe>ls
 
@@ -86,7 +86,7 @@
 <fanart>https://i.imgur.com/rXOHYDs.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://gitlab.com/snippets/1862934/raw</externallink>
-<info>Seleção de Canais Kuala.</info>
+<info>Seleção de Canais Deivison.</info>
 </channel>
 </channe>ls
 
@@ -97,10 +97,20 @@
 <fanart>https://i.imgur.com/wTHwmDe.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://raw.githubusercontent.com/Fire-HD/Menu/master/Menu-Tv</externallink>
-<info>Esta seleção foi feita e atualizada por mim.</info>
+<info>Esta seleção foi retirada no link TVFOGO.</info>
 </channel>
 </channe>ls
 
+<channels>
+<channel>
+<name>[COLOR yellow][B]T V   M A R C O[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<fanart>https://i.imgur.com/wTHwmDe.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/bombazorro.m3u</externallink>
+<info>Esta seleção foi feita e atualizada por mim.</info>
+</channel>
+</channe>ls
 
 
 
