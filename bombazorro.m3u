@@ -7,12 +7,18 @@ http://lista.digitalgroup.me:80/live/cassio123/cassio123/46940.m3u8
 http://b.greenplanet.top:8080/br-18075GloRbsHD/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1108.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/955.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",RECORD
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1710.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",REDE TV
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/963.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",REDE TV web
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="" group-title="CANAIS ABERTOS",REDETV web2
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1095.m3u8
 
@@ -50,8 +56,7 @@ http://b.greenplanet.top:8080/br-8069Record/mpegts?token=planet_190521YttIo238HH
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1089.m3u8
 #EXTINF:-1,SBT SD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1,REDE TV
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+
 #EXTINF:-1,tv gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1,TV Aparecida
@@ -70,16 +75,12 @@ http://placartv.futeboltv.com:8081/live/5/playlist.m3u8
 http://placartv.futeboltv.com:8081/live/7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="" g0roup-title="Esportes",SPORTV 3
 http://placartv.futeboltv.com:8081/live/11/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND
-http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT SP Interior
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOPTV Sertaneja" tvg-logo="" group-title="Shows",TOPTV Sertaneja
 http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",RECORD MT
 http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="" group-title="CANAIS ABERTOS",REDETV
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="FILMES E SERIES",Cine Sky
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/can%C3%A7aonova.png" group-title="CANAIS DE RELIGIAO", Cancao Nova 
