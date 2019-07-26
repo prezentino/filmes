@@ -2,17 +2,6 @@
 <layoutype>list</layoutype>
 
 
-<channels>
-<channel>
-<name>[COLOR yellow][B]T V   F O G O[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
-<fanart>https://i.imgur.com/wTHwmDe.png</fanart>
-<link>http://ignorar.com/</link>
-<externallink>https://raw.githubusercontent.com/Fire-HD/Menu/master/Servidor_1/play1</externallink>
-<info>Esta seleção foi feita por TV FOGO.</info>
-</channel>
-</channe>ls
-
 <channel>
 <name>[COLOR white][B]E L I T O N   I P T V[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
@@ -23,6 +12,16 @@
 </channel>
 </channe>ls
 
+<channels>
+<channel>
+<name>[COLOR yellow][B]T V   F O G O[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<fanart>https://i.imgur.com/wTHwmDe.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/Fire-HD/Menu/master/Servidor_1/play1</externallink>
+<info>Esta seleção foi feita por TV FOGO.</info>
+</channel>
+</channe>ls
 
 <channels>
 <channel>
