@@ -3,6 +3,14 @@
 http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1 group-title="+18",Russian HD 720 (18+)
 http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:0,Venus (18+) AR
+http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15895.m3u8
+#EXTINF:0,Dusk TV (18+) NL
+http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15878.m3u8
+#EXTINF:0,HOT TV (18+) PT
+http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15894.m3u8
+#EXTINF:0,Reality Kings TV (18+) US
+http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15899.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="[COLOR red][B]BRAZZERS[/B][/COLOR]" tvg-logo="http://www.10fakta.se/wp-content/uploads/2016/10/brazzersnfokus.jpg" group-title="Adult",[COLOR red][B]BRAZZERS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://gorilladick4.us:2086/live/hhouse/hhouse/1936.m3u8&amp;name=[COLOR deepskyblue][B]kuala Channel[/B][/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="[COLOR red][B]PLAYBOY[/B][/COLOR]" tvg-logo="http://i.ebayimg.com/images/g/E5EAAOSwc-tY3z4k/s-l300.png" group-title="Adult",[COLOR red][B]PLAYBOY[/B][/COLOR]
