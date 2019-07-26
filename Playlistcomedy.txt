@@ -42,7 +42,7 @@
 </item>
 
 <item>
-<title>[COLOR white]*[B]S T A N D   U P[/B][/COLOR]</title>
+<title>[COLOR white]*[B]A PRACA E NOSSA[/B][/COLOR]</title>
 <utube>A PRAÇA É NOSSA 2019</utube>
 <thumbnail>https://orig00.deviantart.net/1858/f/2015/290/0/c/stand_up_comedy__png__by_alexwarn3-d9de5mc.png</thumbnail>
 <fanart>https://orig00.deviantart.net/1858/f/2015/290/0/c/stand_up_comedy__png__by_alexwarn3-d9de5mc.png</fanart>
