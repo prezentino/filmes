@@ -179,9 +179,6 @@ http://192.119.9.66/live/cyp-38256037D6124DBCbd57DED7B058.ts
 
 ################################################################################# DOCUMENTÁRIOS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mV8ckcy.png" group-title="DOCUMENTÁRIOS",[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]
-http://0.0.0.0
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
 http://192.119.9.66/live/022AC19C-0EC3-4C7D-b0fb-D889A5FC9B64.ts
 
@@ -225,9 +222,6 @@ http://192.119.9.66/live/EFB5A924-D3FD-4288-9493-DF88E50AEFF6.ts
 http://192.119.9.66/live/5D6C34CE-6824-407D-9d03-97EA487BB30D.ts
 
 ################################################################################# ESPORTES
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yTvUrIr.png" group-title="ESPORTES",[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]
-http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/allsports.png" group-title="ESPORTES",ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
@@ -299,10 +293,6 @@ http://192.119.9.66/live/cyp-644e34a6889c49bfbfab58e44471.ts
 http://192.119.9.66/live/95CA6681-41E8-440A-aa5e-C1DA574669E9.ts
 
 ################################################################################# FILMES & SÉRIES
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i0LklQw.png" group-title="FILMES & SÉRIES",[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]
-http://0.0.0.0
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png" group-title="FILMES & SÉRIES",AMC
 http://192.119.9.66/live/CB9A2D16-F165-4B16-b69f-21FA119082D2.ts
@@ -411,9 +401,6 @@ http://192.119.9.66/live/5BB0A0AE-00B9-426E-8cad-2372A6A24C08.ts
 
 ################################################################################# INFANTIL
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yrq6JQp.png" group-title="INFANTIL",[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]
-http://0.0.0.0
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK
 http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
 
@@ -449,10 +436,6 @@ http://192.119.9.66/live/99DE8F02-450F-4A9A-a27c-5A7B104F4047.ts
 
 ################################################################################# MÚSICAS & VARIEDADES
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J5WhofI.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]
-http://0.0.0.0
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png" group-title="MÚSICAS & VARIEDADES",MTV
 http://192.119.9.66/live/B2B33ABE-FAD3-466C-bd77-E80E6ECFD235.ts
 
@@ -481,9 +464,6 @@ http://192.119.9.66/live/D2CC6786-2684-4BF6-83d1-14B961FE2AB4.ts
 http://192.119.9.66/live/6A9FCCB4-7148-4F7B-9c9b-0A773989DE95.ts
 
 ################################################################################# NOTÍCIAS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qrOmPHN.png" group-title="NOTÍCIAS",[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]
-http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band_news.png" group-title="NOTÍCIAS",BAND NEWS
 http://192.119.9.66/live/A92D0C31-58A1-41D7-bdd0-1F60F3C78153.ts
