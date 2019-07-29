@@ -107,7 +107,7 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8
 ----------------------------------------------------
 
-################################################################################# DDESENHOS 24 hr
+################################################################################# DESENHOS 24 hr
 #EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://imgur.com/TIv2l6x.jpg" group-title=" 24Hrs Infantil",3 Palavrinhas
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12268.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="https://imgur.com/mpiy6HX.jpg" group-title=" 24Hrs Infantil",Bob Zoom
@@ -153,8 +153,6 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/21247.m3u8
 
 ################################################################################# CANAIS ABERTOS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LwtXftR.png" group-title="CANAIS ABERTOS",[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
-http://0.0.0.0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND
 http://192.119.9.66/live/9376F5C2-08FC-44AA-87e4-9D7E2B6C337E.ts
 
