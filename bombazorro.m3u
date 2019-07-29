@@ -27,6 +27,8 @@ http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1627.m3u8
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1710.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",RECORD web2
 http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1634.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="ESPORTES",COMBATE milhano
+http://b.greenplanet.top:8080/br-sdCombate/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV **" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",Record web
 https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8?sts=st=1560978199~exp=1560984799~acl=/*~hmac=e94f4eb9e032adbd4f751e207c593e6e89b2db93770b64077854f7374e5938e3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",REDE TV
