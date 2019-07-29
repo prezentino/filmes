@@ -116,8 +116,10 @@ http://tv.factoryiptv.com:80/1/2/39576
 http://tv.factoryiptv.com:80/1/2/40786
 #EXTINF:-1 tvg-id="" tvg-name="O incrivel Mundo de Gumbal"" group-title=" 24Hrs Infantil",O Incrivel Mundo de Gumball [24h]
 http://tv.factoryiptv.com:80/1/2/39774
-#EXTINF:-1 tvg-id="" tvg-name="A Turma da Monica" tvg-logo="" group-title=" 24Hrs Infantil",O Incrivel Mundo de Gumball [24h]
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DA MONICA" tvg-logo="" group-title=" 24Hrs Infantil",A TURMA DA MONICA [24h]
 http://tv.factoryiptv.com:80/1/2/39571
+#EXTINF:-1 tvg-id="" tvg-name="PICA-PAU" tvg-logo="" group-title=" 24Hrs Infantil",PICA-PAU [24h]
+http://tv.factoryiptv.com:80/1/2/53025
 #EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://imgur.com/TIv2l6x.jpg" group-title=" 24Hrs Infantil",3 Palavrinhas
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12268.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="https://imgur.com/mpiy6HX.jpg" group-title=" 24Hrs Infantil",Bob Zoom
