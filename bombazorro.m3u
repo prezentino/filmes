@@ -15,13 +15,17 @@ http://192.119.9.66/live/cyp-26AD03DA528647C7863b7F66CBDC.ts
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1108.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web2
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1462.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/955.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT web
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT web2
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1627.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",RECORD
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1710.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",RECORD
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",RECORD web2
 http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1634.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV **" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",Record web
 https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8?sts=st=1560978199~exp=1560984799~acl=/*~hmac=e94f4eb9e032adbd4f751e207c593e6e89b2db93770b64077854f7374e5938e3
@@ -31,6 +35,8 @@ http://lista.digitalgroup.me:80/live/cassio123/cassio123/963.m3u8
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="" group-title="CANAIS ABERTOS",REDETV web2
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="" group-title="CANAIS ABERTOS",REDETV web3
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1630.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1095.m3u8
 #EXTINF:-1,FILME UMA FESTA NO AR
