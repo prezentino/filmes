@@ -33,14 +33,12 @@ https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/963.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",REDE TV web
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="" group-title="CANAIS ABERTOS",REDETV web2
+#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",REDETV web2
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="" group-title="CANAIS ABERTOS",REDETV web3
+#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",REDETV web3
 http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1630.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1095.m3u8
-#EXTINF:-1,FILME UMA FESTA NO AR
-http://ghs1.azureedge.net/movies/umafestanoar-dub-720p.mp4
 #EXTINF:-1,FILME NOS
 http://d17ej0dsny35du.cloudfront.net//movies/nos-dub-720p.mp4
 #EXTINF:-1,FILME TUDO ACABE EM FESTA
