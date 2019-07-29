@@ -110,6 +110,14 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8
 ----------------------------------------------------
 
 ################################################################################# DESENHOS 24 hr
+#EXTINF:-1 tvg-id="" tvg-name="A pantera cor de Rosa" tvg-logo="" group-title=" 24Hrs Infantil",A Pantera Cor de Rosa
+http://tv.factoryiptv.com:80/1/2/39576
+#EXTINF:-1 tvg-id="" tvg-name="Amigaozao" tvg-logo="" 24Hrs Infantil",AMIGÃOZAO [24h]
+http://tv.factoryiptv.com:80/1/2/40786
+#EXTINF:-1 tvg-id="" tvg-name="O incrivel Mundo de Gumbal"" group-title=" 24Hrs Infantil",O Incrivel Mundo de Gumball [24h]
+http://tv.factoryiptv.com:80/1/2/39774
+#EXTINF:-1 tvg-id="" tvg-name="A Turma da Monica" tvg-logo="" group-title=" 24Hrs Infantil",O Incrivel Mundo de Gumball [24h]
+http://tv.factoryiptv.com:80/1/2/39571
 #EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://imgur.com/TIv2l6x.jpg" group-title=" 24Hrs Infantil",3 Palavrinhas
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12268.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="https://imgur.com/mpiy6HX.jpg" group-title=" 24Hrs Infantil",Bob Zoom
