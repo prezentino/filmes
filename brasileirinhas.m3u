@@ -15,6 +15,8 @@ http://live.redtraffic.xyz/pov.m3u8
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:0,Venus (18+) AR
 plugin://plugin.video.f4mTester/?url=http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15895.m3u8&streamtype=TSDOWNLOADER
+#EXTINF:0,Venus (18+) 2222
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15895.m3u8
 #EXTINF:0,Venus (18+) BR
 http://tv.factoryiptv.com:80/1/2/37026
 #EXTINF:0,Playboy TV (18+) BR
