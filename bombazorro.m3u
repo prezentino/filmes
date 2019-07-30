@@ -16,7 +16,7 @@ http://lista.digitalgroup.me:80/live/cassio123/cassio123/1108.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web2
-http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1462.m3u8
+http://tv.factoryiptv.com:80/1/2/36990
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/955.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT web
@@ -100,24 +100,20 @@ http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8??TvFogoHD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg" group-title="CANAIS DE RELIGIAO",TV APARECIDA HD
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD
-#EXTINF:-1 tvg-id="" tvg-name="ZORRA TOTAL 24h" tvg-logo="" g0roup-title="comedia",ZORRA TOTAL 24h
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="APENAS UM SHOW 24h" tvg-logo="" g0roup-title="comedia",APENAS UM SHOW
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA 24h" tvg-logo="" g0roup-title="comedia",A PANTERA COR DE ROSA
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13152.m3u8
 
 ################################################################################# DESENHOS 24 hr
 #EXTINF:-1 tvg-id="" tvg-name="Larva Tuba [24h]" tvg-logo="https://img.youtube.com/vi/pBB9xzOSfrw/0.jpg" group-title="24Hrs Infantil",Larva Tube [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Clarencio [24h]" tvg-logo="https://imgur.com/0tK8520.jpg" group-title="24Hrs Infantil",Clarencio [24h]
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA 24h" tvg-logo="" group-title="24Hrs Infantil",A PANTERA COR DE ROSA
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13152.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A pantera cor de Rosa" tvg-logo="" group-title="24Hrs Infantil",A Pantera Cor de Rosa
 http://tv.factoryiptv.com:80/1/2/39576
+#EXTINF:-1 tvg-id="" tvg-name="APENAS UM SHOW 24h" tvg-logo="" group-title="24Hrs Infantil",APENAS UM SHOW
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Clarencio [24h]" tvg-logo="https://imgur.com/0tK8520.jpg" group-title="24Hrs Infantil",Clarencio [24h]
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amigaozao" tvg-logo=""24Hrs Infantil",AMIGÃOZAO [24h]
 http://tv.factoryiptv.com:80/1/2/40786
-#EXTINF:-1 tvg-id="" tvg-name="O incrivel Mundo de Gumbal"" group-title="24Hrs Infantil",O Incrivel Mundo de Gumball [24h]
-http://tv.factoryiptv.com:80/1/2/39774
 #EXTINF:-1 tvg-id="" tvg-name="A TURMA DA MONICA" tvg-logo="" group-title="24Hrs Infantil",A TURMA DA MONICA [24h]
 http://tv.factoryiptv.com:80/1/2/39571
 #EXTINF:-1 tvg-id="" tvg-name="PICA-PAU" tvg-logo="" group-title="24Hrs Infantil",PICA-PAU [24h]
@@ -148,6 +144,8 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12505.m3u8
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12437.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Masha e o Urso" tvg-logo="https://imgur.com/tgmBvoy.jpg" group-title="24Hrs Infantil",Masha e o Urso
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/11991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O incrivel Mundo de Gumbal"" group-title="24Hrs Infantil",O Incrivel Mundo de Gumball [24h]
+http://tv.factoryiptv.com:80/1/2/39774
 #EXTINF:-1 tvg-id="" tvg-name="O Show Da Luna" tvg-logo="https://imgur.com/PMFTsEq.jpg" group-title="24Hrs Infantil",O Show Da Luna
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/11988.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canções Infantis" tvg-logo="https://imgur.com/ShcunPs.jpg" group-title="24Hrs Infantil",Canções Infantis
@@ -164,6 +162,9 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/11990.m3u8
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13444.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Casa do Mickey T1 T2 T3" tvg-logo="https://imgur.com/D1p67OG.jpg" group-title="24Hrs Infantil",A Casa do Mickey T1 T2 T3
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/21247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZORRA TOTAL 24h" tvg-logo="" group-title="24Hrs Infantil",ZORRA TOTAL 24h
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13042.m3u8
+
 
 ################################################################################# CANAIS ABERTOS
 
