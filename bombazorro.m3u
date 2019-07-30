@@ -120,8 +120,6 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8
 http://tv.factoryiptv.com:80/1/2/40786
 #EXTINF:-1 tvg-id="" tvg-name="A TURMA DA MONICA" tvg-logo="" group-title="24Hrs Infantil",A TURMA DA MONICA [24h]
 http://tv.factoryiptv.com:80/1/2/39571
-#EXTINF:-1 tvg-id="" tvg-name="PICA-PAU" tvg-logo="" group-title="24Hrs Infantil",PICA-PAU [24h]
-http://tv.factoryiptv.com:80/1/2/53025
 #EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://imgur.com/TIv2l6x.jpg" group-title="24Hrs Infantil",3 Palavrinhas
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12268.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="https://imgur.com/mpiy6HX.jpg" group-title="24Hrs Infantil",Bob Zoom
@@ -136,6 +134,8 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/15374.m3u8
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12502.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Daniel Tigre" tvg-logo="https://imgur.com/hwB35Oi.jpg" group-title="24Hrs Infantil",Daniel Tigre
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PICA-PAU" tvg-logo="" group-title="24Hrs Infantil",PICA-PAU [24h]
+http://tv.factoryiptv.com:80/1/2/53025
 #EXTINF:-1 tvg-id="" tvg-name="Pocoyo 1º temporada" tvg-logo="https://imgur.com/9By3rAE.jpg" group-title="24Hrs Infantil",Pocoyo 1º temporada
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12270.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pocoyo 2º temporada" tvg-logo="https://imgur.com/9By3rAE.jpg" group-title="24Hrs Infantil",Pocoyo 2º temporada
@@ -795,3 +795,5 @@ http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1593.m3u8
 http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1666.m3u8
 #EXTINF:-1,WOOHOO HD
 http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1665.m3u8
+#EXTINF:-1,boiboiboi
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
