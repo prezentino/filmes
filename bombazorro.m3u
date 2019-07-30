@@ -497,357 +497,299 @@ http://192.119.9.66/live/A8B8E44D-982E-4315-9817-BB3468F4D7CC.ts
 
 ################################################################################# OPCIONAL
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  A&E FHD
-http://b.greenplanet.top:8080/br-8077ae/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC HD
-http://b.greenplanet.top:8080/br-8043amc/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC FHD 
-http://b.greenplanet.top:8080/br-8043amc/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANIMAL PLANET FHD
-http://b.greenplanet.top:8080/br-8071Aplanet/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , APARECIDA HD
-http://b.greenplanet.top:8080/br-sdAparecida/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  AXN FHD 
-http://b.greenplanet.top:8080/br-8026Axn/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND FHD
-http://b.greenplanet.top:8080/br-8083Band/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  BAND NEWS FHD
-http://b.greenplanet.top:8080/br-8016Bnews/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  BAND SPORT FHD 
-http://b.greenplanet.top:8080/br-8020Bsports/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  BIS FHD 
-http://b.greenplanet.top:8080/br-8056Bis/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BOOMERANG HD 
-http://b.greenplanet.top:8080/br-sdBoomerang/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  BOOMERANG FHD
-http://b.greenplanet.top:8080/br-8060Boome/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  BRASILEIRÃO PREMIER 01 FHD 
-http://b.greenplanet.top:8080/br-8001-Pfc638/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,   BRASILEIRÃO PREMIER 02 FHD 
-http://b.greenplanet.top:8080/br-8019Pfc637/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  BRASILEIRÃO PREMIER 03 FHD
-http://b.greenplanet.top:8080/br-8017Pfc636/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  BRASILEIRÃO PREMIER 04 FHD
-http://b.greenplanet.top:8080/br-8013Pfc635/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  CANAL RURAL HD
-http://b.greenplanet.top:8080/br-sdCanalRur/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CARTOON NET WORK HD 
-http://b.greenplanet.top:8080/br-sdCartoon/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CARTOON NET WORK FHD
-http://b.greenplanet.top:8080/br-8029Cart/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CINEMAX HD 
-http://b.greenplanet.top:8080/br-18079CinHD/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CINEMAX FHD 
-http://b.greenplanet.top:8080/br-8044Cinemax/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMBATE HD 
-http://b.greenplanet.top:8080/br-sdCombate/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  COMBATE FHD 
-http://b.greenplanet.top:8080/br-8021Combate/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMEDY CENTRAL FHD
-http://b.greenplanet.top:8080/br-8074ComedyCentral/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY CIVILIZATION HD
-http://b.greenplanet.top:8080/br-8055DiscCivi/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY H&H FHD
-http://b.greenplanet.top:8080/br-8087dishh/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  DISCOVERY KIDS HD
-http://b.greenplanet.top:8080/br-18094DiscKi/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  DISCOVERY KIDS FHD
-http://b.greenplanet.top:8080/br-8042DisKids/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  DISCOVERY SCIENCE FHD 
-http://b.greenplanet.top:8080/br-8054DiscScien/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  DISCOVERY THEATHER FHD
-http://b.greenplanet.top:8080/br-8041DisThe/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY TURBO FHD 
-http://b.greenplanet.top:8080/br-8002DiscTurbo/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY WORLD FHD 
-http://b.greenplanet.top:8080/br-8046DisWorld/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  DISCOVERY FHD 
-http://b.greenplanet.top:8080/br-8025Disc/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY JUNIOR FHD 
-http://b.greenplanet.top:8080/br-8038DisneyJR/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN BRASIL HD
-http://b.greenplanet.top:8080/br-18092EspBr/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN BRASIL FHD
-http://b.greenplanet.top:8080/br-8070Espbr/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN EXTRA FHD 
-http://b.greenplanet.top:8080/br-18072EspExtHD/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN FHD 
-http://b.greenplanet.top:8080/br-8050Espn/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  ESPN 2 FHD
-http://b.greenplanet.top:8080/br-8053Espn2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FILM&ARTS - HD
-http://b.greenplanet.top:8080/br-sdFilmarts/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOOD FHD
-http://b.greenplanet.top:8080/br-8061Foodnet/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX CHANNEL FHD
-http://b.greenplanet.top:8080/br-8018Fox/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX LIFE HD
-http://b.greenplanet.top:8080/br-sdFoxLife/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX LIFE FHD
-http://b.greenplanet.top:8080/br-8079FoxLif/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX PREMIUM 1 FHD
-http://b.greenplanet.top:8080/br-18117FoxP1/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX PREMIUM 2 FHD
-http://b.greenplanet.top:8080/br-18113FoxP2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX ESPORTS HD
-http://b.greenplanet.top:8080/br-18089FoxS1/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX ESPORTS FHD
-http://b.greenplanet.top:8080/br-8024FoxSp1/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX ESPORTS 02 HD
-http://b.greenplanet.top:8080/br-18090FoxS2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FX FHD
-http://b.greenplanet.top:8080/br-8047Fx/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  GLOBO BAHIA FHD
-http://b.greenplanet.top:8080/br-18100GloBa/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  GLOBO NORDESTE HD
-http://b.greenplanet.top:8080/br-18107GloNo/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  GLOBO  OPÇÃO 01 HD 
-http://b.greenplanet.top:8080/br-18075GloRbsHD/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  GLOBO OPÇÃO 2
-http://b.greenplanet.top:8080/br-18074GloRjHD/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  GLOBO OPÇÃO 3 
-http://b.greenplanet.top:8080/br-18109RpcF/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO SP HD 
-http://b.greenplanet.top:8080/br-18112GloSp/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  GLOBO OPÇÃO 4 
-http://b.greenplanet.top:8080/br-18103GloCa/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO OPÇÃO 5
-http://b.greenplanet.top:8080/br-18102GloLiB/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  GLOBO OPÇÃO 6 
-http://b.greenplanet.top:8080/br-18114GloTvTsrp/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO OPÇÃO 7 
-http://b.greenplanet.top:8080/br-18118TvTS/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO NEWS HD 
-http://b.greenplanet.top/br-19071GloN/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO NEWS FHD 
-http://b.greenplanet.top:8080:8080/br-8075GloNews/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBINHO FHD 
-http://b.greenplanet.top:8080/br-8086Gloobinho/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GNT FHD
-http://b.greenplanet.top:8080/br-18098Gnt/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , H2 FHD
-http://b.greenplanet.top:8080/br-8006H2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  HBO FAMILY HD
-http://b.greenplanet.top:8080/br-18087HboF/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO FAMILY FHD
-http://b.greenplanet.top:8080/br-8033Hbof/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  HBO HD
-http://b.greenplanet.top:8080/br-18084Hbo/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  HBO FHD
-http://b.greenplanet.top:8080/br-8034Hbo/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  HBO + HD
-http://b.greenplanet.top:8080/br-18086HboP/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  HBO + FHD
-http://b.greenplanet.top:8080/br-8036HboPl/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO SIGNATURE HD
-http://b.greenplanet.top:8080/br-18080HboS/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO SIGNATURE FHD
-http://b.greenplanet.top:8080/br-8039HboSi/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  HBO 2 HD
-http://b.greenplanet.top:8080/br-18085Hbo2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO 2 FHD
-http://b.greenplanet.top:8080/br-8035Hbo2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HISTORY FHD
-http://b.greenplanet.top:8080/br-8022His/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  ID FHD
-http://b.greenplanet.top:8080/br-8078id/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  LIFE TIME FHD
-http://b.greenplanet.top:8080/br-8065LifeT/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  MAX FHD 
-http://b.greenplanet.top:8080/br-8040Max/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  MAX PRIME FHD
-http://b.greenplanet.top:8080/br-8081MaxPrime/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MAX UP FHD
-http://b.greenplanet.top:8080/br-8076Maxup/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MEGA PIX HD
-http://b.greenplanet.top:8080/br-18088Megx/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MEGA PIX FHD
-http://b.greenplanet.top:8080/br-8045Megapix/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MTV HD 
-http://b.greenplanet.top:8080/br-8064Mtv/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MULTI SHOW HD
-http://b.greenplanet.top:8080/br-8052Multshow/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO HD 
-http://b.greenplanet.top:8080/br-18082NatG/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  NAT GEO FHD
-http://b.greenplanet.top:8080/br-8058NatGeo/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO KIDS FHD 
-http://b.greenplanet.top:8080/br-8085NatGeoK/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  NAT GEO WILD FHD 
-http://b.greenplanet.top:8080/br-8012Wild/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NICK JUNIOR FHD 
-http://b.greenplanet.top:8080/br-8082NickJr/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  NICK HD 
-http://b.greenplanet.top:8080/br-18095Nick/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NICK FHD
-http://b.greenplanet.top:8080/br-8059Nick/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PARAMOUNT  CHANNEL FHD
-http://b.greenplanet.top:8080/br-8066Para/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER CLUBES FHD
-http://b.greenplanet.top:8080/br-8003PfcClubes/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RECORD FHD
-http://b.greenplanet.top:8080/br-8069Record/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE TV -HD
-http://b.greenplanet.top:8080/br-sdRedeTv/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV FHD
-http://b.greenplanet.top:8080/br-8023Spor1/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SPORTV 2 FHD
-http://b.greenplanet.top:8080/br-8028Spor2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPACE FHD
-http://b.greenplanet.top:8080/br-8048Space/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SPORTV 3 FHD
-http://b.greenplanet.top:8080/br-8057Spor3/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , STUDIO UNIVERSAL FHD
-http://b.greenplanet.top:8080/br-8080Stu/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SYFY FHD
-http://b.greenplanet.top:8080/br-8062Syfy/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE ACTION FHD
-http://b.greenplanet.top:8080/br-8005TcAction/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE CULT FHD
-http://b.greenplanet.top:8080/br-8009TcCult/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE FUN FHD
-http://b.greenplanet.top:8080/br-8007Tcfun/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE PIPOCA FHD
-http://b.greenplanet.top:8080/br-8008Tcpipoca/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE PREMIUM FHD
-http://b.greenplanet.top:8080/br-8015TcPremium/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE TOUCH FHD
-http://b.greenplanet.top:8080/br-8084TcTouch/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TCL FHD
-http://b.greenplanet.top:8080/br-18078Tlc/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TNT FHD
-http://b.greenplanet.top:8080/br-8010TntSeries/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TOON CAST SD
-http://b.greenplanet.top:8080/br-sdTooncast/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TC BRASIL -HD
-http://b.greenplanet.top:8080/br-sdTvBrasil/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV EVANGELIZAR -HD
-http://b.greenplanet.top:8080/br-sdTvEvangelizar/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , UNIVERSAL FHD 
-http://b.greenplanet.top:8080/br-8067Univ/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  VIVA FHD
-http://b.greenplanet.top:8080/br-18097Viva/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , WARNNER BROS FHD
-http://b.greenplanet.top:8080/br-18069War/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , WARNNER BROS OPÇÃO 2 FHD
-http://b.greenplanet.top:8080/br-8068warner/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  WOOHOO -HD
-http://b.greenplanet.top:8080/br-sdWooHoo/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:-1,A&E HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1469.m3u8
+#EXTINF:-1,AGRO CANAL HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1468.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1466.m3u8
+#EXTINF:-1,ARTE 1 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1465.m3u8
+#EXTINF:-1,AXN HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1464.m3u8
+#EXTINF:-1,BAND HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1462.m3u8
+#EXTINF:-1,BANDNEWS HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1461.m3u8
+#EXTINF:-1,BANDSPORTS HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1460.m3u8
+#EXTINF:-1,BIS HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1456.m3u8
+#EXTINF:-1,BLOOMBERG HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1455.m3u8
+#EXTINF:-1,BOOMERANG
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1454.m3u8
+#EXTINF:-1,CANAL BRASIL HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1453.m3u8
+#EXTINF:-1,CANAL DO BOI HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1452.m3u8
+#EXTINF:-1,CANAL RURAL HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1451.m3u8
+#EXTINF:-1,CANAL SONY HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1450.m3u8
+#EXTINF:-1,CANÇÃO NOVA HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1449.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1448.m3u8
+#EXTINF:-1,CHEF TV HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1447.m3u8
+#EXTINF:-1,CINE + HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1446.m3u8
+#EXTINF:-1,CINEMAX HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1445.m3u8
+#EXTINF:-1,CLIMATEMPO HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1444.m3u8
+#EXTINF:-1,COMBATE HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1443.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1442.m3u8
+#EXTINF:-1,CURTA! HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1441.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1440.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1439.m3u8
+#EXTINF:-1,DISCOVERY HOME&HEALT HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1438.m3u8
+#EXTINF:-1,DISCOVERY ID HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1437.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1436.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1435.m3u8
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1434.m3u8
+#EXTINF:-1,DISCOVERY TURBO HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1433.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1432.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1431.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1430.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1429.m3u8
+#EXTINF:-1,E! HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1428.m3u8
+#EXTINF:-1,EPTV CAMPINAS HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1409.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1670.m3u8
+#EXTINF:-1,ESPN BRASIL HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1426.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1425.m3u8
+#EXTINF:-1,ESPN HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1427.m3u8
+#EXTINF:-1,FASHION TV HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1424.m3u8
+#EXTINF:-1,FISH TV HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1423.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1584.m3u8
+#EXTINF:-1,FOX HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1421.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1420.m3u8
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1419.m3u8
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1418.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1416.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1417.m3u8
+#EXTINF:-1,FUTURA HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1415.m3u8
+#EXTINF:-1,FX HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1414.m3u8
+#EXTINF:-1,GAZETA DIGITAL HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1413.m3u8
+#EXTINF:-1,GLOBO BAHIA HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1412.m3u8
+#EXTINF:-1,GLOBO DF HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1410.m3u8
+#EXTINF:-1,GLOBO MATO GROSSO HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1408.m3u8
+#EXTINF:-1,GLOBO MINAS HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1407.m3u8
+#EXTINF:-1,GLOBO NEWS HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1406.m3u8
+#EXTINF:-1,GLOBO NORDESTE HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1405.m3u8
+#EXTINF:-1,GLOBO PARÁ HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1404.m3u8
+#EXTINF:-1,GLOBO PERNAMBUCO HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1403.m3u8
+#EXTINF:-1,GLOBO RJ HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1401.m3u8
+#EXTINF:-1,GLOBO SANTA CATARINA HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1399.m3u8
+#EXTINF:-1,GLOBO SP HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1398.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1592.m3u8
+#EXTINF:-1,GLOOB HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1591.m3u8
+#EXTINF:-1,GLOOBINHO HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1590.m3u8
+#EXTINF:-1,GNT HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1589.m3u8
+#EXTINF:-1,HBO 2 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1587.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1586.m3u8
+#EXTINF:-1,HBO HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1588.m3u8
+#EXTINF:-1,HBO PLUS HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1585.m3u8
+#EXTINF:-1,HBO SIGNATURE HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1583.m3u8
+#EXTINF:-1,HISTORY 2 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1581.m3u8
+#EXTINF:-1,HISTORY HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1582.m3u8
+#EXTINF:-1,IDEAL TV HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1580/live.m3u8
+#EXTINF:-1,LIFETIME HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1579.m3u8
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1578.m3u8
+#EXTINF:-1,MAX HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1577.m3u8
+#EXTINF:-1,MAX PRIME FHD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/3148.m3u8
+#EXTINF:-1,MAX PRIME HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1576.m3u8
+#EXTINF:-1,MAX UP HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1575.m3u8
+#EXTINF:-1,MEGAPIX HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1574.m3u8
+#EXTINF:-1,MTV HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1573.m3u8
+#EXTINF:-1,MULTISHOW HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1572.m3u8
+#EXTINF:-1,NAT GEO KIDS HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1570.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1569.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1568.m3u8
+#EXTINF:-1,NBR HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1567.m3u8
+#EXTINF:-1,NICK JR HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1566.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1565.m3u8
+#EXTINF:-1,OFF HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1564.m3u8
+#EXTINF:-1,PARAMOUNT HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1563.m3u8
+#EXTINF:-1,PLAY TV HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1562.m3u8
+#EXTINF:-1,PREMIERE 1 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1561.m3u8
+#EXTINF:-1,PREMIERE 2 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1560.m3u8
+#EXTINF:-1,PREMIERE 3 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1559.m3u8
+#EXTINF:-1,PREMIERE 4 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1558.m3u8
+#EXTINF:-1,PREMIERE 5 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1557.m3u8
+#EXTINF:-1,PREMIERE 6 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1556.m3u8
+#EXTINF:-1,PREMIERE 7 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1640.m3u8
+#EXTINF:-1,PREMIERE 8 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1639.m3u8
+#EXTINF:-1,PREMIERE CLUBE HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1638.m3u8
+#EXTINF:-1,PRIME BOX BRASIL HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1637.m3u8
+#EXTINF:-1,RBI HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1636.m3u8
+#EXTINF:-1,RBS PORTO ALEGRE HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1402.m3u8
+#EXTINF:-1,RCI HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1635.m3u8
+#EXTINF:-1,RECORD HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1634.m3u8
+#EXTINF:-1,RECORD NEWS HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1633.m3u8
+#EXTINF:-1,REDE BRASIL HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1632.m3u8
+#EXTINF:-1,REDE CNT HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1631.m3u8
+#EXTINF:-1,REDE TV HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1630.m3u8
+#EXTINF:-1,REDE VIDA HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1629.m3u8
+#EXTINF:-1,RIT HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1628.m3u8
+#EXTINF:-1,RPC TV PARANAENSE HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1400.m3u8
+#EXTINF:-1,SBT HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1627.m3u8
+#EXTINF:-1,SPACE HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1626.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1624.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1623.m3u8
+#EXTINF:-1,SPORTV HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1625.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1622.m3u8
+#EXTINF:-1,SYFY HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1621.m3u8
+#EXTINF:-1,TBS HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1620.m3u8
+#EXTINF:-1,TCM HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1619.m3u8
+#EXTINF:-1,TELECINE ACTION HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1618.m3u8
+#EXTINF:-1,TELECINE CULT HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1617.m3u8
+#EXTINF:-1,TELECINE FUN HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1616.m3u8
+#EXTINF:-1,TELECINE PIPOCA HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1615.m3u8
+#EXTINF:-1,TELECINE PREMIUM HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1614.m3u8
+#EXTINF:-1,TELECINE TOUCH HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1613.m3u8
+#EXTINF:-1,TLC HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1612.m3u8
+#EXTINF:-1,TNT HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1611.m3u8
+#EXTINF:-1,TNT SERIES HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1610.m3u8
+#EXTINF:-1,TOONCAST HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1609.m3u8
+#EXTINF:-1,TRAVEL BOX HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1608.m3u8
+#EXTINF:-1,TRU TV HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1607.m3u8
+#EXTINF:-1,TV APARECIDA HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1606.m3u8
+#EXTINF:-1,TV ESCOLA HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1602.m3u8
+#EXTINF:-1,TV GAZETA HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1601.m3u8
+#EXTINF:-1,TV JUSTIÇA HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1600.m3u8
+#EXTINF:-1,TV NOVO TEMPO HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1599.m3u8
+#EXTINF:-1,TV RÁ TIM BUM HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1598.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1595.m3u8
+#EXTINF:-1,VH1 MEGA HITS HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1594.m3u8
+#EXTINF:-1,VIVA HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1593.m3u8
+#EXTINF:-1,WARNER HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1666.m3u8
+#EXTINF:-1,WOOHOO HD
+http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1665.m3u8
