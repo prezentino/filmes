@@ -94,6 +94,8 @@ http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
 http://tv.factoryiptv.com:80/1/2/39772
 #EXTINF:-1 tvg-id="" tvg-name="CABARE EDUARDO COSTA & LEONARDO" tvg-logo="" group-title="Shows",CABARE EDUARDO COSTA & LEONARDO
 http://tv.factoryiptv.com:80/1/2/39768
+#EXTINF:-1 tvg-id="" tvg-name="DAVID GUETTA" tvg-logo="" group-title="Shows",DAVID GUETTA
+http://tv.factoryiptv.com:80/1/2/39785
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="FILMES E SERIES",Cine Sky
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/can%C3%A7aonova.png" group-title="CANAIS DE RELIGIAO", Cancao Nova 
@@ -164,9 +166,10 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/11990.m3u8
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13444.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Casa do Mickey T1 T2 T3" tvg-logo="https://imgur.com/D1p67OG.jpg" group-title="24Hrs Infantil",A Casa do Mickey T1 T2 T3
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/21247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZE BUSCAPE 24h" tvg-logo="" group-title="24Hrs Infantil",ZE BUSCAPE 24h
+Zé Buscapé 24h:http://tv.factoryiptv.com:80/1/2/58944
 #EXTINF:-1 tvg-id="" tvg-name="ZORRA TOTAL 24h" tvg-logo="" group-title="24Hrs Infantil",ZORRA TOTAL 24h
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13042.m3u8
-
 
 ################################################################################# CANAIS ABERTOS
 
