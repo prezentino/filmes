@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1,[XX] Playboy TV HD
 http://tv.factoryiptv.com:80/1/2/40749
 #EXTINF:-1,[XX] Playboy TV
@@ -14,7 +14,7 @@ http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1 group-title="+18",Russian HD 720 (18+)
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:0,Venus (18+) AR
-http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15895.m3u8
+plugin://plugin.video.f4mTester/?url=http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15895.m3u8&streamtype=TSDOWNLOADER
 #EXTINF:0,Venus (18+) BR
 http://tv.factoryiptv.com:80/1/2/37026
 #EXTINF:0,Playboy TV (18+) BR
@@ -26,7 +26,7 @@ http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15912.m3u8
 #EXTINF:0,Hustler HD (18+) US
 http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15879.m3u8
 #EXTINF:0,Hustler TV (18+) US
-http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15897.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15897.m3u8
 #EXTINF:0,Dusk TV (18+) NL
 http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15878.m3u8
 #EXTINF:0,HOT TV (18+) PT
