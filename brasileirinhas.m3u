@@ -39,8 +39,8 @@ http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15891.m3u8
 http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15882.m3u8
 #EXTINF:0,Hustler HD (18+) US
 http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15879.m3u8
-#EXTINF:0,ADULTO 1
-plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv.factoryiptv.com:80/1/2/52276
+#EXTINF:0,ADULTO 1111111111111111111111111111111
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv.factoryiptv.com:80/1/2/52276.m3u8
 #EXTINF:0,ADULTO 10
 http://tv.factoryiptv.com:80/1/2/52285
 plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=#EXTINF:0,ADULTO 2
