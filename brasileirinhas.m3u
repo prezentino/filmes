@@ -24,7 +24,7 @@ http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15911.m3u8
 #EXTINF:0,Playboy TV HD (18+) ES
 http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15912.m3u8
 #EXTINF:0,Hustler HD (18+) US
-http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15879.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15879.m3u8
 #EXTINF:0,Hustler TV (18+) US
 plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15897.m3u8
 #EXTINF:0,Dusk TV (18+) NL
@@ -38,15 +38,15 @@ http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15891.m3u8
 #EXTINF:0,Redlight HD (18+) IT
 http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15882.m3u8
 #EXTINF:0,Hustler HD (18+) US
-http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15879.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://cloudcdn.tk:80/live/5EqCrgIbyR/PFOFd7mhaa/15879.m3u8
 #EXTINF:0,ADULTO 1
 http://tv.factoryiptv.com:80/1/2/52276
 #EXTINF:0,ADULTO 10
 http://tv.factoryiptv.com:80/1/2/52285
 #EXTINF:0,ADULTO 2 este tem
-plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv.factoryiptv.com:80/1/2/52277
+http://tv.factoryiptv.com:80/1/2/52277
 #EXTINF:0,ADULTO 3 este tem
-plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv.factoryiptv.com:80/1/2/52278
+http://tv.factoryiptv.com:80/1/2/52278
 #EXTINF:0,ADULTO 4 este nao
 http://tv.factoryiptv.com:80/1/2/52279
 #EXTINF:0,ADULTO 5
