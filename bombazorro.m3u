@@ -90,6 +90,8 @@ http://placartv.futeboltv.com:8081/live/7/playlist.m3u8
 http://placartv.futeboltv.com:8081/live/11/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOPTV Sertaneja" tvg-logo="" group-title="Shows",TOPTV Sertaneja
 http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
+#EXTINF:-1 tvg-id="" tvg-name="FESTIVAL SERTANEJO" tvg-logo="" group-title="Shows",FESTIVAL SERTANEJO
+http://tv.factoryiptv.com:80/1/2/39772
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="FILMES E SERIES",Cine Sky
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/can%C3%A7aonova.png" group-title="CANAIS DE RELIGIAO", Cancao Nova 
