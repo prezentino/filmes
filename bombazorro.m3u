@@ -32,6 +32,13 @@ http://playback.imirun.net:8080/CartoonNetwork-HD/index.m3u8
 #EXTINF:-1,REDE RECORD
 http://b.greenplanet.top:8080/br-8069Record/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
+#EXTINF:-1,FILMES - Vingadores: Ultimato
+https://tinyurl.com/y5lu6lgm
+
+
+
+
+
 #EXTINF:-1,TV Aparecida
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
 #EXTINF:-1,Canção Nova HD
