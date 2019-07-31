@@ -47,3 +47,10 @@
 <thumbnail>https://3.bp.blogspot.com/-rdt9Lmw6f9w/UStcAJMH6fI/AAAAAAAAEfI/ZWCewXHW3yw/s1600/apracaenossa.jpg</thumbnail>
 <fanart>https://cdn.massanews.com/uploads/noticias/20150327101404-lg-df0850eb.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]The Noite[/B][/COLOR][COLOR yellow]Danilo Gentili[/COLOR] [COLOR lime](YOUTUBE)[/COLOR] [COLOR white]TV[/COLOR][COLOR red]CHANNEL[/COLOR][COLOR yellow]HD[/COLOR]</title>
+<utube>UCEWOoncsrmirqnFqxer9lmA</utube>
+<thumbnail>https://bancodeseries.com.br/images/posters/8073.jpg</thumbnail>
+<fanart>https://i0.wp.com/comfortclub.com.br/wp-content/uploads/the-noite.jpg</fanart>
+</item>
