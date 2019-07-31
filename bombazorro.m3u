@@ -146,3 +146,571 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/21247.m3u8
 Zé Buscapé 24h:http://tv.factoryiptv.com:80/1/2/58944
 #EXTINF:-1 tvg-id="" tvg-name="ZORRA TOTAL 24h" tvg-logo="" group-title="24Hrs Infantil",ZORRA TOTAL 24h
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13042.m3u8
+EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&E @ 
+http://hvod.imirun.net:8080/A&E-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&E ♣
+http://backup.greenplanet.top:8080/br-8077ae/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO WILD ♣
+http://b.greenplanet.top:8080/br-8012Wild/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO WILD
+http://208.81.204.23:8082/TV1476
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AXN @
+http://hvod.imirun.net:8080/AXN-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC @
+http://hvod.imirun.net:8080/AMC-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC ♣
+http://backup.greenplanet.top:8080/br-8043amc/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANIMAL PLANET 01 ?
+http://mcny.allmedia4.tv/AJ2G0tKt/AzApromo/1466
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANIMAL PLANET 02
+http://178.132.6.61:8082/TV3878
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS @
+http://hvod.imirun.net:8080/Band-News-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS *
+http://177.54.158.18:8082/TV3211
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS 02
+http://178.132.6.61:8082/TV3211
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND SPORT *
+http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND SPORT *
+http://177.54.158.18:8082/TV3133
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BIS ♣
+http://backup.greenplanet.top:8080/br-8056Bis/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BOOMERANG @ 
+http://playback.imirun.net:8080/Boomerang-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BOOMERANG 
+http://178.132.6.61:8082/TV3858
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CANÇAO NOVA
+http://178.132.6.61:8082/TV2354
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CANAL BRASIL 01
+http://178.132.6.61:8082/TV3170
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CANAL BRASIL *
+http://177.54.158.18:8082/TV3170
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CHEF TV ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1447
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CINEMAX ♣
+http://backup.greenplanet.top:8080/br-8044Cinemax/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CARTON NETWORK @ 
+http://playback.imirun.net:8080/CartoonNetwork-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CARTON NETWORK ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1448
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMBATE @
+http://hvod.imirun.net:8080/Combate-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMBATE ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1443
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMEDY CENTRAL ♣
+http://backup.greenplanet.top:8080/br-8074ComedyCentral/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMEDY CENTRAL *
+http://177.54.158.18:8082/TV3182
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CURTA   
+http://177.54.158.18:8082/TV3207 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DICOVERY CIVILIZATION ♣
+http://backup.greenplanet.top:8080/br-8055DiscCivi/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY CHANNEL  
+http://178.132.6.61:8082/TV3872
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY  H&H
+http://178.132.6.61:8082/TV3875
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY KIDS ♣
+http://backup.greenplanet.top:8080/br-18094DiscKi/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY KIDS 02
+http://178.132.6.61:8082/TV3874
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY XD ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1429
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY JR ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1430
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY CHANNEL 
+http://178.132.6.61:8082/TV1469 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY CHANNEL *
+http://177.54.158.18:8082/TV3140  
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,DISCOVERY WORLD *
+http://177.54.158.18:8082/TV3168
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,DISCOVERY WORLD 02
+http://178.132.6.61:8082/TV3168
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY TURBO
+http://178.132.6.61:8082/TV3873
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY THEATHER ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1473
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY SCIENCE
+http://177.54.158.18:8082/TV3122 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN EXTRA ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1425 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN BRASIL @
+http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN BRASIL 01
+http://178.132.6.61:8082/TV3233 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN BRASIL*
+http://177.54.158.18:8082/TV3233
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN 2       
+http://177.54.158.18:8082/TV3205
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN 01  
+http://178.132.6.61:8082/TV3141
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN * 
+http://177.54.158.18:8082/TV3233
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN 02 
+http://178.132.6.61:8082/TV3233
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , E!
+http://177.54.158.18:8082/TV3176
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FASHION TV
+http://178.132.6.61:8082/TV3769
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX PREMIUM 02  
+http://178.132.6.61:8082/TV3750
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX PREMIUM 1
+http://178.132.6.61:8082/TV3749
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX LIFE @
+http://hvod.imirun.net:8080/Lifetime-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX LIFE ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1420
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX @
+http://hvod.imirun.net:8080/FOX-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX *
+http://177.54.158.18:8082/TV3150
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX 01
+http://178.132.6.61:8082/TV3150
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOOD ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1584
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FILM & ART
+http://177.54.158.18:8082/TV3117
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FISH TV ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1423
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FX @
+http://hvod.imirun.net:8080/FX-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FX
+http://178.132.6.61:8082/TV3879
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX ESPORT @
+http://hvod.imirun.net:8080/Fox-Sports-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX ESPORT 01
+http://178.132.6.61:8082/TV3149
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX ESPORT *
+http://177.54.158.18:8082/TV3149
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX CHANNEL @
+http://hvod.imirun.net:8080/FOX-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX CHANNEL 01
+http://178.132.6.61:8082/TV3750
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX CHANNEL *
+http://177.54.158.18:8082/TV3150
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FUTURA *
+http://177.54.158.18:8082/TV3121
+#EXTM3
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FUTURA 02
+http://178.132.6.61:8082/TV3121
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO NEWS 01
+http://178.132.6.61:8082/TV3196
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO NEWS @
+http://playback.imirun.net:8080/Globo-News-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO NEWS *
+http://177.54.158.18:8082/TV3196
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GNT ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1589
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBINHO ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1590
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOOB @
+http://hvod.imirun.net:8080/Gloob-HD/index.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOOB
+http://38.91.107.64:8080/TV1484   
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HISTORY 
+http://178.132.6.61:8082/TV1474 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO SIGNATURE * 
+http://177.54.158.18:8082/TV3109
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO SIGNATURE 01
+http://178.132.6.61:8082/TV3109
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO PLUS ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1585
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  HBO FAMILY ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1586
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO @
+http://hvod.imirun.net:8080/HBO-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO 01
+http://178.132.6.61:8082/TV3126
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO * 
+http://177.54.158.18:8082/TV3126
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , H2 *
+http://177.54.158.18:8082/TV3171
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , History  01
+http://178.132.6.61:8082/TV3171
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MAX PRIME ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/3148
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MAX ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1577
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , LIFE TIME *
+http://177.54.158.18:8082/TV3178
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , LIFE TIME 02
+http://178.132.6.61:8082/TV3178
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ID 
+http://178.132.6.61:8082/TV3877
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,NAT GEO KIDS ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1570
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  NAT GEO 
+http://178.132.6.61:8082/TV1475 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MULTI SHOW 01
+http://178.132.6.61:8082/TV3134
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MULTI SHOW *
+http://177.54.158.18:8082/TV3134
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MTV
+http://177.54.158.18:8082/TV3160
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MEGA PIX ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1574
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NICKELODEON ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1565
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NICK JR
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1566
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  OFF
+http://177.54.158.18:8082/TV3131
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER CLUBE @
+http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 2 @
+http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 3 @
+http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 4 @
+http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 5 @
+http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 6 @
+http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 
+http://178.132.6.61:8082/TV3105
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 05 * 
+http://177.54.158.18:8082/TV3105
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 05 
+http://178.132.6.61:8082/TV3105
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 01 ? 
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1561 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 03 ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1560
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER CLUBES ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1638
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 9 ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1558
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 7 ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1556
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 6 ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1640
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 8 ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1639
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PARAMOUNT 01
+http://178.132.6.61:8082/TV3130
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PARAMOUNT *
+http://177.54.158.18:8082/TV3130
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE VIDA 01
+http://178.132.6.61:8082/TV3217
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE VIDA *
+http://177.54.158.18:8082/TV3217
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE TV *
+http://177.54.158.18:8082/TV3217
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE TV 01
+http://178.132.6.61:8082/TV3217
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE BRASIL ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1469
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PRIME BOX BRASIL
+http://178.132.6.61:8082/TV3767
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RATIBUM
+http://178.132.6.61:8082/TV3175
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RECORD NEWS ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1633
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , RECORD *
+http://177.54.158.18:8082/TV3160
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , RECORD 02
+http://178.132.6.61:8082/TV3110
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RIT
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1628
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV 3 ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1623
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SPORTV *
+http://177.54.158.18:8082/TV3102
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SPORTV 2
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1624
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPACE *
+http://177.54.158.18:8082/TV3174
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPACE 02
+http://178.132.6.61:8082/TV3174
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SONY 01
+http://178.132.6.61:8082/TV3303
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SONY *
+http://177.54.158.18:8082/TV3303
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SBT * 
+http://177.54.158.18:8082/TV3125
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SBT 02
+http://178.132.6.61:8082/TV3125
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SYFY 01
+http://178.132.6.61:8082/TV3173
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SYFY * 
+http://177.54.158.18:8082/TV3173
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  STUDIO UNIVERSAL ? 
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1622
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TCM
+http://178.132.6.61:8082/TV3856
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE CUT *
+http://177.54.158.18:8082/TV3203
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE CUT 01 
+http://178.132.6.61:8082/TV3203
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE FUN *
+http://177.54.158.18:8082/TV3161
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE FUN 02
+http://178.132.6.61:8082/TV3161
+#EXTM3U 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TOON CAST ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1609
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TNT SERIES  JÁ
+http://178.132.6.61:8082/TV3859
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT @
+http://hvod.imirun.net:8080/TNT-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT *
+http://177.54.158.18:8082/TV3167
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT 02 
+http://178.132.6.61:8082/TV1477
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT 03
+http://178.132.6.61:8082/TV3167
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TCL 
+http://178.132.6.61:8082/TV3876
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE TOUCH *
+http://177.54.158.18:8082/TV3100
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE TOUCH 01
+http://178.132.6.61:8082/TV3100
+#EXTM3U 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE PREMIUM *
+http://177.54.158.18:8082/TV3101
+#EXTM3U 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE PREMIUM 01
+http://178.132.6.61:8082/TV3101
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE PIPOCA *
+http://177.54.158.18:8082/TV3206
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE PIPOCA 02
+http://178.132.6.61:8082/TV3206
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE ACTION 02
+http://178.132.6.61:8082/TV3151
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE ACTION *
+http://177.54.158.18:8082/TV3151
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TRAVEL BOX BRASIL
+http://178.132.6.61:8082/TV3770
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TRUE TV ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1607
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TV JUSTIÇA 
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1600
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV ESCOLA ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1602
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TV CULTURA ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1604
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV CAMERA
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1603
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV BRASIL 01 
+http://178.132.6.61:8082/TV3170
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV BRASIL * 
+http://177.54.158.18:8082/TV3170
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV APARECIDA ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1606
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , VH1  ?
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1694
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  UNIVESP SÃO PAULO
+http://178.132.6.61:8082/TV3776
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  UNIVERSAL @
+http://hvod.imirun.net:8080/UniversalChannelHD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  UNIVERSAL * 
+http://177.54.158.18:8082/TV3204
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  UNIVERSAL 02 
+http://178.132.6.61:8082/TV3204
+#EXTM3U 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV SENADO ? 
+http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1697
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  WOOHOO *
+http://177.54.158.18:8082/TV3123
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  WOOHOO 02
+http://178.132.6.61:8082/TV3123
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , VIVA 01 
+http://178.132.6.61:8082/TV3107
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , VIVA * 
+http://177.54.158.18:8082/TV3107
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , WANNER CHANNEL * 
+http://177.54.158.18:8082/TV3132
+EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , WANNER CHANNEL 02
+http://178.132.6.61:8082/TV3132
+EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ZOOMOO *
+http://177.54.158.18:8082/TV3163
+EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ZOOMOO 02
+http://178.132.6.61:8082/TV3163
