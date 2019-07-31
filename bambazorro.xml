@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+<channels>
+<channel>
+<name>[COLOR beige][B]»»[/B][/COLOR][COLOR blue][B]ABERTOS[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/K8bQXjHq/Abertos.png</thumbnail>
+<externallink>https://cld.pt/dl/download/89065ee9-1cbb-4250-a9dc-0fbdcfd4b599/Tv%20Aberta2.xml</externallink>
+<fanart>http://otvfoco.com.br/wp-content/uploads/2016/05/emissoras-brasileiras.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR beige][B]»»[/B][/COLOR][COLOR red][B]DOCUMETÁRIOS[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/4nk79K9r/Documentarios.png</thumbnail>
+<externallink>https://cld.pt/dl/download/941c4fe4-e5b1-4f6b-b0d9-dc18812b9ce9/Docomentarios.xml</externallink>
+<fanart>http://mundodecinema.com/wp-content/uploads/2016/01/documentario.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR beige][B]»»[/B][/COLOR][COLOR turquoise][B]ESPORTES[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/ryvQJQCL/Esportes.png</thumbnail>
+<externallink>https://cld.pt/dl/download/7c349854-6e0c-4b45-bd13-02922cf73120/Esportes.xml</externallink>
+<fanart>https://img.youtube.com/vi/Ps_b28yc7fQ/mqdefault.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR beige][B]»»[/B][/COLOR][COLOR purple][B]FILMES & SERIES[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/rw9jqc68/Filmes-Series.png</thumbnail>
+<externallink>https://cld.pt/dl/download/7d3e514e-460e-48d3-b9d3-182e6edfe0b2/Filmes%20e%20series.xml</externallink>
+<fanart>http://melhortvsky.com.br/wp-content/uploads/2016/02/04-CANAIS-DE-FILMES-E-S%C3%89RIES-COMBO-MASTER-HBO-HD-TV-SKY.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR beige][B]»»[/B][/COLOR][COLOR yellow][B]INFANTIL[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/3Jm9bmn0/Infantil.png</thumbnail>
+<externallink>https://cld.pt/dl/download/59b7399a-fdad-43ed-83d9-15f4cef44aa6/infnatil.xml</externallink>
+<fanart>http://3.bp.blogspot.com/-clngXmB3HpM/VpO4JrrTn-I/AAAAAAAAAM8/rWMqvmp27Yg/s640/canais%2Binfantiss%2Bsem%2Blogo.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR beige][B]»»[/B][/COLOR][COLOR orangered][B]MÚSICA[/B][/COLOR]</name>
+<thumbnail>https://s26.postimg.org/uk5bo3qgp/musica.png</thumbnail>
+<externallink></externallink>
+<fanart>https://i.ytimg.com/vi/dMQdyXvei0U/maxresdefault.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR beige][B]»»[/B][/COLOR][COLOR salmon][B]NOTÍCIAS[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/Kjg3j7RP/noticias.png</thumbnail>
+<externallink>https://cld.pt/dl/download/7e2a9742-d855-45c2-875b-7387bbb4cc2e/Noticias.xml</externallink>
+<fanart>http://www.lifeboard.in/images/news-banner.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR beige][B]»»[/B][/COLOR][COLOR pink][B]RELIGIOSOS[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/nVs3B6mk/religiosos.png</thumbnail>
+<externallink>https://cld.pt/dl/download/d4e63cc1-ae6d-405a-bb7d-4650fb25a825/Religiosos.xml</externallink>
+<fanart>http://4.bp.blogspot.com/-xc69Oh358zY/UeWhtQrP_eI/AAAAAAAAB38/MJLVhNVzsD4/s1600/luzsolar.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR beige][B]»»[/B][/COLOR][COLOR chartreuse][B]VARIEDADES[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/63PGBb56/variedades.png</thumbnail>
+<externallink>https://cld.pt/dl/download/f94b26f8-c7a4-41f9-8e07-b357d064035e/variedades.xml</externallink>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAJ8IsSFWUEi9IxNylHTtUeLxZOupxBO-uQ04rHCkqaCsfWCiG</fanart>
+<info></info>
+</channel>
+
+
+
+
