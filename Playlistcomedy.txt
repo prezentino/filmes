@@ -54,3 +54,11 @@
 <thumbnail>https://bancodeseries.com.br/images/posters/8073.jpg</thumbnail>
 <fanart>https://i0.wp.com/comfortclub.com.br/wp-content/uploads/the-noite.jpg</fanart>
 </item>
+
+<item> 
+<title>[COLOR aqua][B]ULTRA GUIA[COLOR  yellow]Creditos:[COLOR beige] Gabriel Silva[B][/B][/COLOR]</title> 
+<link>Iku</link>
+<jsonrpc>plugin://plugin.video.ultraguia?action=http://www.mmfilmes.tv/ultimos/</jsonrpc>
+<thumbnail>https://i.postimg.cc/nLBXnbp4/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/0QvbQWyL/fanart.jpg</fanart>
+</item>
