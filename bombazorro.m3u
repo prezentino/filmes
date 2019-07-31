@@ -45,20 +45,6 @@ http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1630.m3u8
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1095.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK2
 http://playback.imirun.net:8080/CartoonNetwork-HD/index.m3u8
-#EXTINF:-1,FILME NOS
-http://d17ej0dsny35du.cloudfront.net//movies/nos-dub-720p.mp4
-#EXTINF:-1,FILME TUDO ACABE EM FESTA
-http://d17ej0dsny35du.cloudfront.net/movies/tudoacabaemfesta-dub-720p.mp4
-#EXTINF:-1,FILME UMA SAIDA DE MESTRE
-http://ghs1.azureedge.net/movies/umasaidademestre-dub-720p.mp4
-#EXTINF:-1,FILME TOTALMENTE SEM RUMO
-http://d17ej0dsny35du.cloudfront.net/movies/totalmentesemrumo-dub-720p.mp4
-#EXTINF:-1,FILME CEMITERIO MALDITO
-http://d17ej0dsny35du.cloudfront.net/movies/petsematary1989-dub-720p.mp4
-#EXTINF:-1,FILME TAXI 3
-http://d17ej0dsny35du.cloudfront.net/movies/taxi3-dub-720p.mp4
-#EXTINF:-1,FILME CAPITA MARVEL
-http://d17ej0dsny35du.cloudfront.net/movies/capitamarvel-dub-720p.mp4
 #EXTINF:-1,INVESTIGACAO DISCOVERY
 http://lista.digitalgroup.me:80/live/cassio123/cassio123/1011.m3u8
 #EXTINF:-1,INVESTIGACAO DISCOVERY HD
