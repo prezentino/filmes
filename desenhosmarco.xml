@@ -1,14 +1,6 @@
 ﻿<item>
 
 <item>
-<title>COMO TREINAR SEU DRAGAO 3</title>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Como%20Treinar%20o%20Seu%20Drag%C3%A3o%203.jpg</fanart>
-<link>http://roda8081.azureedge.net/RCFServer2/ondemand/CMTRNRDRG3.mp4?attachment=true</link>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Como%20Treinar%20o%20Seu%20Drag%C3%A3o%203.jpg</thumbnail>
-<item>
-
-
-<item>
 <title>A BELA E A FERA</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B1IiJgHSBjQ9cm9LaWN5VXRpcmc</link>
 <thumbnail>https://image.tmdb.org/t/p/w1280/xAgYMfxVTQZvLahThvdfX3olk4C.jpg</thumbnail>
@@ -88,7 +80,7 @@
   <title>[COLOR white][B]CLARENCIO [/B][/COLOR]</title>
   <thumbnail>https://i.imgur.com/Qli0sBO.jpg</thumbnail>
   <fanart>https://i.imgur.com/82UKNXw.jpg</fanart>
-  <link>http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8</link>
+  <link>plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8</link>
   <info> Num futuro distante e devastado, o mundo tornou-se um conglomerado de ilhas de vários formatos e tamanhos. Os habitantes são vagabundos e marginais que seguem duas regras: comer e não ser comidos. Além deles há também estranhas criaturas. Nesse universo estão dois caçadores de dragões chamados Gwizdo e Lian-Chu. Mas há muito tempo eles estão longe de serem os melhores. Adaptação da série de TV animada produzida na França. <info>
   <genre>Ação / Animação / Aventura / Comédia / Família / Fantasia</genre>
 <item>
@@ -98,10 +90,11 @@
   <title>[COLOR white][B]COMO TREINAR O SEU DRAGÃO 3[/B][/COLOR]</title>
   <thumbnail>https://i.imgur.com/9pvKGS4.jpg</thumbnail>
   <fanart>https://i.imgur.com/6eyyYRt.jpg</fanart>
-  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1uw8Ybp_58-2YyNuZOgOv76ilV67WuWJN</link>
+  <link>http://roda8081.azureedge.net/RCFServer2/ondemand/CMTRNRDRG3.mp4?attachment=true</link>
   <info> Como Treinar o Seu Dragão 3  O que começou como uma improvável amizade entre um viking adolescente e um terrível dragão Fúria da Noite tornou-se uma trilogia épica que abrange as suas vidas. Neste próximo capítulo, Soluço e Banguela finalmente descobrirão seus verdadeiros destinos: o chefe da aldeia como governante de Berk ao lado de Astrid e o dragão como líder de sua própria espécie. À medida que os dois ascendem, a ameaça mais sombria que enfrentaram  bem como a aparência de uma Fúria da Noite  testará os laços de seu relacionamento como nunca antes.<info>
   <genre>Animação, Fantasia, Aventura</genre>
 <item>
+
 
   <item>
   <title>[COLOR white][B]LIGA DA JUSTIÇA VS. OS CINCO FATAIS[/B][/COLOR]</title>
