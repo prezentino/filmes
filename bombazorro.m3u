@@ -33,6 +33,8 @@ http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1630.m3u8
 http://playback.imirun.net:8080/CartoonNetwork-HD/index.m3u8
 #EXTINF:-1,REDE RECORD
 http://b.greenplanet.top:8080/br-8069Record/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:-1,COMEDY CENTRAL
+https://roda1.azureedge.net/hls1/comedycentral.m3u8
 
 #EXTINF:-1,FILMES - Vingadores: Ultimato
 https://tinyurl.com/y5lu6lgm
