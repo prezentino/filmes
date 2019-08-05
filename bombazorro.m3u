@@ -39,10 +39,11 @@ https://roda1.azureedge.net/hls1/comedycentral.m3u8
 #EXTINF:-1,FILMES - Vingadores: Ultimato
 https://tinyurl.com/y5lu6lgm
 #EXTINF:-1,FILMES - Vingadores: Ultimato
-http://roda8081.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4?attachment=true
+http://d2ykf810vdli43.cloudfront.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4?attachment=true
 #EXTINF:-1,Batman: Silêncio (Dublado)
-http://roda8081.azureedge.net/RCFServer1/ondemand/BTMNSLNCIO.mp4?attachment=true
-
+http://d2ykf810vdli43.cloudfront.net/RCFServer1/ondemand/BTMNSLNCIO.mp4?attachment=true
+#EXTINF:-1,O Homem de Ferro 3 (Dublado)
+http://d2ykf810vdli43.cloudfront.net/RCFServer1/ondemand/HMNDEFRO03.mp4?attachment=true
 
 
 
