@@ -1,6 +1,6 @@
 ﻿#EXTM3U8
 #EXTINF:-1 tvg-id="globo sc" tvg-name="GLOBO SC" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS",GLOBO SC
-https://roda1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgNToyNDoyMiBQTSZoYXNoX3ZhbHVlPUpUUFRNQXo2VVJ4OXpJTFNhWjVuS0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://roda1.azureedge.net/hls1/bobosp.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO RS1
 http://b.greenplanet.top:8080/br-18075GloRbsHD/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO RS
