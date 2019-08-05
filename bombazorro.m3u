@@ -17,6 +17,8 @@ http://tv.factoryiptv.com:80/1/2/36990
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT web2
 http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1627.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT web3
+http://dns.clientetv.xyz:8000/live/manoelsarzedo/31989351328/373.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",RECORD web2
 http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1634.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="ESPORTES",COMBATE milhano
