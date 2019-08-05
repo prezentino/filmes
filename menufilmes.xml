@@ -3,6 +3,17 @@
 
 <channels>
 <channel>
+<name>[COLOR white][B]FILMES FOGO[/B][/COLOR] - [COLOR YELLOW][B]Marco[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<fanart>https://i.imgur.com/wTHwmDe.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/Fire-HD/Filmes/master/Menu-Filmes</externallink>
+<info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR white][B]BRAZUCA PLAY LANÇAMENTOS[/B][/COLOR] - [COLOR red][B]Filmes Atualizados[/B][/COLOR]</name>
 <thumbnail>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
@@ -76,17 +87,6 @@
 <fanart>https://imgur.com/JVDPsZ2.jpg</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://pastebin.com/raw/WCQ9aqLj</externallink>
-<info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR white][B]FILMES FOGO[/B][/COLOR] - [COLOR YELLOW][B]Marco[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
-<fanart>https://i.imgur.com/wTHwmDe.png</fanart>
-<link>http://ignorar.com/</link>
-<externallink>https://raw.githubusercontent.com/Fire-HD/Filmes/master/Menu-Filmes</externallink>
 <info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
 </channel>
 </channels>
