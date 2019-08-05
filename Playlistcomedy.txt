@@ -7,7 +7,7 @@
 
 <item>
 <title>[COLOR white]*[B]L  A R V A   T U B A[/B] [/COLOR][COLOR red][/COLOR]</title>
-<utube>Larva2011ani</utube>
+<utube>UCPDis9pjXuqyI7RYLJ-TTSA</utube>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbE7b_RF1wBDXo8BLSf-iQfQsTXqgfHoTwd32yJS3tZJ8KlyF</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbE7b_RF1wBDXo8BLSf-iQfQsTXqgfHoTwd32yJS3tZJ8KlyF</fanart>
 </item>
@@ -55,10 +55,3 @@
 <fanart>https://i0.wp.com/comfortclub.com.br/wp-content/uploads/the-noite.jpg</fanart>
 </item>
 
-<item> 
-<title>[COLOR aqua][B]ULTRA GUIA[COLOR  yellow]Creditos:[COLOR beige] Gabriel Silva[B][/B][/COLOR]</title> 
-<link>Iku</link>
-<jsonrpc>plugin://plugin.video.ultraguia?action=http://www.mmfilmes.tv/ultimos/</jsonrpc>
-<thumbnail>https://i.postimg.cc/nLBXnbp4/icon.png</thumbnail>
-<fanart>https://i.postimg.cc/0QvbQWyL/fanart.jpg</fanart>
-</item>
