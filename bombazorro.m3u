@@ -1,13 +1,13 @@
 ﻿#EXTM3U8
 #EXTINF:-1 tvg-id="globo sc" tvg-name="GLOBO SC" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS",GLOBO SC
-https://roda1.azureedge.net/hls1/bobosp.m3u8
+https://d2ykf810vdli43.cloudfront.net/hls1/bobosp.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO RS1
 http://b.greenplanet.top:8080/br-18075GloRbsHD/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO RS
 http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1402.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO RS2
 http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13480.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO CAXIAS DO SIL TCHE RS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO CAXIAS DO SUL TCHE RS
 http://tv.factoryiptv.com:80/1/2/52568
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
