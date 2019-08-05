@@ -21,6 +21,8 @@ http://dns.clientetv.xyz:8000/live/manoelsarzedo/31989351328/373.m3u8
 http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1634.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="ESPORTES",COMBATE milhano
 http://b.greenplanet.top:8080/br-sdCombate/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="ESPORTES",COMBATE 2
+http://195.181.163.117:25461/live/manoelsarzedo/31989351328/110.m3u8?token=ShFaVEdbFQ1DAlZWAANVAVIFUFYHCwZYBlJTU1ZRBlNQCgVWDFYBAQUTTkEWERFXAlg+CFYQWFAGABwSEBYGRG5aVhcOEQEOVAJVWkdJQUYKWARDCAJOQ0dZVBJfR1ADBgUBBRYfFVIZRQcRCwQPbQdQFwhRV0BbWUVcXElHDFhuV1dYVV1TFVsTUkFJRwpBExdbQ3tcFgRFXFlXBEUwWV1GUVpRQBdjBFIMDAkKBFsAVBJBfkYGABcdEH0gR08UU1pGR1VHUhVbE1NSUFxBHkFWDhRcRhAYFQoScjdHTxRUS0ZQWkBeWA8TWEEIVhYKQRlDCEFtEAREREJVBAgGRBMJEAUWHxVaAEk9AAoLDVcAQQgOXEFAWxUBEhxHCAxYWEddR2tDXlNDC0BSU1xRA1EXHA==
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV **" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",Record web
 https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8?sts=st=1560978199~exp=1560984799~acl=/*~hmac=e94f4eb9e032adbd4f751e207c593e6e89b2db93770b64077854f7374e5938e3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",REDE TV web
