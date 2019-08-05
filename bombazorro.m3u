@@ -144,49 +144,36 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13444.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Casa do Mickey T1 T2 T3" tvg-logo="https://imgur.com/D1p67OG.jpg" group-title="24Hrs Infantil",A Casa do Mickey T1 T2 T3
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/21247.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZE BUSCAPE 24h" tvg-logo="" group-title="24Hrs Infantil",ZE BUSCAPE 24h
-Zé Buscapé 24h:http://tv.factoryiptv.com:80/1/2/58944
+http://tv.factoryiptv.com:80/1/2/58944
 #EXTINF:-1 tvg-id="" tvg-name="ZORRA TOTAL 24h" tvg-logo="" group-title="24Hrs Infantil",ZORRA TOTAL 24h
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13042.m3u8
-EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&E @ 
 http://hvod.imirun.net:8080/A&E-HD/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&E ♣
 http://backup.greenplanet.top:8080/br-8077ae/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO WILD ♣
 http://b.greenplanet.top:8080/br-8012Wild/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO WILD
 http://208.81.204.23:8082/TV1476
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , AXN @
 http://hvod.imirun.net:8080/AXN-HD/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC @
 http://hvod.imirun.net:8080/AMC-HD/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC ♣
 http://backup.greenplanet.top:8080/br-8043amc/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANIMAL PLANET 01 ?
 http://mcny.allmedia4.tv/AJ2G0tKt/AzApromo/1466
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANIMAL PLANET 02
 http://178.132.6.61:8082/TV3878
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS @
 http://hvod.imirun.net:8080/Band-News-HD/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS *
 http://177.54.158.18:8082/TV3211
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS 02
 http://178.132.6.61:8082/TV3211
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND SPORT *
 http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND SPORT *
 http://177.54.158.18:8082/TV3133
 #EXTM3U
