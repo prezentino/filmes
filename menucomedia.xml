@@ -34,9 +34,13 @@
 </channel>
 </channels>
 
-<item>
-<title>[COLOR white]*[B]S T A N D   U P[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white][B]S T A N D  U P[/B][/COLOR]</name>
 <utube>UCOWBwQTtv4ZbLzt4gZHXaiw</utube>
-<thumbnail>https://orig00.deviantart.net/1858/f/2015/290/0/c/stand_up_comedy__png__by_alexwarn3-d9de5mc.png</thumbnail>
 <fanart>https://orig00.deviantart.net/1858/f/2015/290/0/c/stand_up_comedy__png__by_alexwarn3-d9de5mc.png</fanart>
-</item>
+<link>http://ignorar.com/</link>
+<externallink>https://dl-web.meocloud.pt/dlweb/CJhqzE_znXbbb_cDdLvdDg/download/Mister/CentralTube/Stand_Up_Tvchannel_Youtube.xml?public=857d9a55-4544-4db7-979a-e2bddebafda3</externallink>
+<info>O MELHOR DO STANDUP RAFAEL PORTUGAL</info>
+</channel>
+</channels>
