@@ -1,6 +1,6 @@
 ﻿<item>
 <title>[COLOR yellow]*[B]F a i l   A r m y[/B] [/COLOR][COLOR red][/COLOR]</title>
-<utube>FailArmy Best Fails of the Week</utube>
+<utube>UCPDis9pjXuqyI7RYLJ-TTSA</utube>
 <thumbnail>https://i.ytimg.com/vi/oHSpDsMudcE/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/oHSpDsMudcE/maxresdefault.jpg</fanart>
 </item>
