@@ -1,14 +1,16 @@
 ﻿#EXTM3U
-#EXTINF:-1,[XX] Playboy TV HD
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] Playboy TV HD
 http://tv.factoryiptv.com:80/1/2/40749
-#EXTINF:-1,[XX] Playboy TV
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] Playboy TV
 http://tv.factoryiptv.com:80/1/2/37061
-#EXTINF:-1,[XX] Playboy TV  FHD
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] Playboy TV  FHD
 http://tv.factoryiptv.com:80/1/2/41513
-#EXTINF:-1,[XX] Sextreme
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] Sextreme
 http://tv.factoryiptv.com:80/1/2/37047
-#EXTINF:-1,[XX] Sexy Hot
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] Sexy Hot
 http://tv.factoryiptv.com:80/1/2/37009
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] Venus
+http://tv.factoryiptv.com:80/1/2/37026
 #EXTINF:-1 group-title="+18" tvg-logo="http://plannersweb.com/wp-content/uploads/2003/07/Xxx-Adult-Rubber-Stamp-square.jpg", ××× RedTraffic POV
 http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1 group-title="+18",Russian HD 720 (18+)
