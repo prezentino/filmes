@@ -76,10 +76,6 @@ http://tv.factoryiptv.com:80/1/2/37123
 http://tv.factoryiptv.com:80/1/2/38390
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",CABARE EDUARDO COSTA & LEONARDO
 http://tv.factoryiptv.com:80/1/2/39768
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Canal Brasil
-http://tv.factoryiptv.com:80/1/2/37122
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Canal Brasil FHD
-http://tv.factoryiptv.com:80/1/2/41517
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Canção Nova
 http://tv.factoryiptv.com:80/1/2/37023
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Cartoon Network
@@ -88,10 +84,6 @@ http://tv.factoryiptv.com:80/1/2/37121
 http://tv.factoryiptv.com:80/1/2/41471
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Cartoon Network HD
 http://tv.factoryiptv.com:80/1/2/36927
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Cascavel Panorâmica
-http://tv.factoryiptv.com:80/1/2/40116
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",CBN SP 90,5 FM - Estúdio Ao Vivo
-http://tv.factoryiptv.com:80/1/2/40212
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Charlie e Lola [24h]
 http://tv.factoryiptv.com:80/1/2/39579
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Chaves [24h]
@@ -290,108 +282,22 @@ http://tv.factoryiptv.com:80/1/2/39570
 http://tv.factoryiptv.com:80/1/2/39573
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Gazeta HD
 http://tv.factoryiptv.com:80/1/2/40120
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo Anhanguera
-http://tv.factoryiptv.com:80/1/2/38966
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO BAHIA
-http://tv.factoryiptv.com:80/1/2/37096
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV BAHIA FHD
-http://tv.factoryiptv.com:80/1/2/42987
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV BAHIA HD
-http://tv.factoryiptv.com:80/1/2/41402
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo Brasília
-http://tv.factoryiptv.com:80/1/2/37095
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo Brasília HD
-http://tv.factoryiptv.com:80/1/2/40513
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO EPTV ARARAQUARA
-http://tv.factoryiptv.com:80/1/2/42950
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO EPTV CAMPINAS
-http://tv.factoryiptv.com:80/1/2/42951
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO EPTV CAMPINAS FHD
-http://tv.factoryiptv.com:80/1/2/42983
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO EPTV CAMPINAS HD
-http://tv.factoryiptv.com:80/1/2/42952
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO EPTV RIBEIRAO PRETO
-http://tv.factoryiptv.com:80/1/2/42954
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO EPTV RIBEIRAO PRETO FHD
-http://tv.factoryiptv.com:80/1/2/42999
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO EPTV RIBEIRÃO PRETO HD
-http://tv.factoryiptv.com:80/1/2/42953
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO EPTV SAO CARLOS
-http://tv.factoryiptv.com:80/1/2/42955
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo Florianopolis
 http://tv.factoryiptv.com:80/1/2/38641
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO FLORIANOPOLIS FHD
 http://tv.factoryiptv.com:80/1/2/42985
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO INTER TV NATAL
-http://tv.factoryiptv.com:80/1/2/42956
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO MG
-http://tv.factoryiptv.com:80/1/2/40250
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo MG FHD
-http://tv.factoryiptv.com:80/1/2/41515
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO MG HD
-http://tv.factoryiptv.com:80/1/2/40251
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo Nordeste
 http://tv.factoryiptv.com:80/1/2/37092
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO NORDESTE FHD
-http://tv.factoryiptv.com:80/1/2/42984
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo Nordeste HD
-http://tv.factoryiptv.com:80/1/2/38971
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO NSC TV CHAPECO
-http://tv.factoryiptv.com:80/1/2/42971
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO NSC TV CHAPECO FHD
-http://tv.factoryiptv.com:80/1/2/42969
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO NSC TV CHAPECO HD
-http://tv.factoryiptv.com:80/1/2/42970
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO NSC TV FLORIANOPOLIS HD
 http://tv.factoryiptv.com:80/1/2/42958
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RBS TV PORTO ALEGRE
 http://tv.factoryiptv.com:80/1/2/42959
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO REDE AM. MANAUS
-http://tv.factoryiptv.com:80/1/2/42960
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo Rio
-http://tv.factoryiptv.com:80/1/2/37091
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo Rio HD
-http://tv.factoryiptv.com:80/1/2/36968
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RJ FHD
-http://tv.factoryiptv.com:80/1/2/38425
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo RPC Curitiba
-http://tv.factoryiptv.com:80/1/2/37366
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RPC CURITIBA FHD
-http://tv.factoryiptv.com:80/1/2/38381
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RPC CURITIBA HD
-http://tv.factoryiptv.com:80/1/2/42961
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RPC FOZ DO IGUACU
-http://tv.factoryiptv.com:80/1/2/42972
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RPC FOZ DO IGUACU FHD
-http://tv.factoryiptv.com:80/1/2/42973
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RPC FOZ DO IGUACU HD
-http://tv.factoryiptv.com:80/1/2/42974
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo SP
 http://tv.factoryiptv.com:80/1/2/37090
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo SP FHD
 http://tv.factoryiptv.com:80/1/2/38424
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo SP HD
 http://tv.factoryiptv.com:80/1/2/37361
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV ANHANGUERA
-http://tv.factoryiptv.com:80/1/2/42962
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV ANHANGUERA FHD
-http://tv.factoryiptv.com:80/1/2/42986
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV ANHANGUERA HD
-http://tv.factoryiptv.com:80/1/2/38967
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV C. AMERICA CUIABA
-http://tv.factoryiptv.com:80/1/2/42963
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV CLUBE TERESINA
-http://tv.factoryiptv.com:80/1/2/42975
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV CLUBE TERESINA FHD
-http://tv.factoryiptv.com:80/1/2/42976
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV CLUBE TERESINA HD
-http://tv.factoryiptv.com:80/1/2/42977
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV GAZETA ALAGOAS
-http://tv.factoryiptv.com:80/1/2/42994
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV GAZETA ALAGOAS FHD
-http://tv.factoryiptv.com:80/1/2/42995
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV GAZETA ALAGOAS HD
-http://tv.factoryiptv.com:80/1/2/42996
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Cine Ação 24h
 http://tv.factoryiptv.com:80/1/2/58947
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Cine Comedia 24h
@@ -404,44 +310,6 @@ http://tv.factoryiptv.com:80/1/2/58946
 http://tv.factoryiptv.com:80/1/2/58943
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Zé Buscapé 24h
 http://tv.factoryiptv.com:80/1/2/58944
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV GAZETA SUL ES FHD
-http://tv.factoryiptv.com:80/1/2/42997
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV GAZETA SUL ES HD
-http://tv.factoryiptv.com:80/1/2/42998
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV GAZETA VITORIA
-http://tv.factoryiptv.com:80/1/2/42978
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV GAZETA VITORIA FHD
-http://tv.factoryiptv.com:80/1/2/42979
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV GAZETA VITORIA HD
-http://tv.factoryiptv.com:80/1/2/42980
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV LIBERAL BELEM
-http://tv.factoryiptv.com:80/1/2/42964
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV MIRANTE SAO LUIS
-http://tv.factoryiptv.com:80/1/2/42990
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV MIRANTE SAO LUIS FHD
-http://tv.factoryiptv.com:80/1/2/42988
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV MIRANTE SAO LUIS HD
-http://tv.factoryiptv.com:80/1/2/42989
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV MORENA CAMPO GRANDE
-http://tv.factoryiptv.com:80/1/2/42992
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV MORENA CAMPO GRANDE FHD
-http://tv.factoryiptv.com:80/1/2/42991
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV SERGIPE
-http://tv.factoryiptv.com:80/1/2/42908
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV SERGIPE FHD
-http://tv.factoryiptv.com:80/1/2/42981
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV SERGIPE HD
-http://tv.factoryiptv.com:80/1/2/42982
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV TEM SAO JOSE DO RIO PRETO
-http://tv.factoryiptv.com:80/1/2/40516
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV TEM SAO JOSE DO RIO PRETO FHD
-http://tv.factoryiptv.com:80/1/2/42993
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV TEM SAO JOSE DO RIO PRETO HD
-http://tv.factoryiptv.com:80/1/2/40515
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV TRIBUNA SANTOS
-http://tv.factoryiptv.com:80/1/2/42966
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV VANGUARDA S. J. DOS CAMPOS
-http://tv.factoryiptv.com:80/1/2/42967
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GloboNews
 http://tv.factoryiptv.com:80/1/2/37093
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GloboNews FHD
