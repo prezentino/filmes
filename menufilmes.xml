@@ -3,6 +3,17 @@
 
 <channels>
 <channel>
+<name>[COLOR white][B]VOLBLACK[/B][/COLOR] - [COLOR red][B]Filmes Atualizados[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/Z9QaMbG.jpg</thumbnail>
+<fanart>https://i.imgur.com/iHLvn98.jpg</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://cld.pt/dl/download/9fb90cf6-9f90-4387-ad3d-2a06fad482f3/addon%20play%20home.xml</externallink>
+<info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR white][B]FILMES FOGO[/B][/COLOR] - [COLOR YELLOW][B]Marco[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/nx8WYiz.png</thumbnail>
 <fanart>https://i.imgur.com/nx8WYiz.png</fanart>
@@ -120,17 +131,6 @@
 <fanart>http://cdn-fund.fundacaotelefonica.org.br/wp-content/uploads/2015/08/thumbnail-21.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://raw.githubusercontent.com/nunca1/-/master/filmes/Lan%C3%A7amentos.xml</externallink>
-<info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLBLACK[/B][/COLOR] - [COLOR red][B]Filmes Atualizados[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/Z9QaMbG.jpg</thumbnail>
-<fanart>https://i.imgur.com/iHLvn98.jpg</fanart>
-<link>http://ignorar.com/</link>
-<externallink>https://cld.pt/dl/download/9fb90cf6-9f90-4387-ad3d-2a06fad482f3/addon%20play%20home.xml</externallink>
 <info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
 </channel>
 </channels>
