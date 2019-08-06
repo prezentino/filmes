@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1,GLOBO RBS PORTO ALEGRE
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13481.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13481.m3u8
 #EXTINF:-1,GLOBO RBS PORTO ALEGRE HD *
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13480.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13480.m3u8
 #EXTINF:-1,BAND SP
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13606.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13606.m3u8
 #EXTINF:-1,BAND SP HD *
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13605.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13605.m3u8
 #EXTINF:-1,SBT
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13344.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13344.m3u8
 #EXTINF:-1,SBT FHD *
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13343.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13343.m3u8
 #EXTINF:-1,SBT HD
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13342.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13342.m3u8
 #EXTINF:-1,RECORD RS HD
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13351.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13351.m3u8
 #EXTINF:-1,RECORD SP HD *
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13350.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13350.m3u8
 #EXTINF:-1,REDE TV
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13348.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13348.m3u8
 #EXTINF:-1,REDE TV HD
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13347.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13347.m3u8
 
 #EXTINF:-1,AMC
 http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13625.m3u8
