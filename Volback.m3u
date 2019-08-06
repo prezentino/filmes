@@ -8,8 +8,6 @@ http://tv.factoryiptv.com:80/1/2/40263
 http://tv.factoryiptv.com:80/1/2/36929
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Aeromsith
 http://tv.factoryiptv.com:80/1/2/42571
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Agro Canal
-http://tv.factoryiptv.com:80/1/2/40244
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",AMC
 http://tv.factoryiptv.com:80/1/2/41087
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",AMC FHD
@@ -18,8 +16,6 @@ http://tv.factoryiptv.com:80/1/2/40262
 http://tv.factoryiptv.com:80/1/2/36928
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",amigaozao [24h]
 http://tv.factoryiptv.com:80/1/2/40786
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Angel TV [Alternativo]
-http://tv.factoryiptv.com:80/1/2/43000
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Animal Planet
 http://tv.factoryiptv.com:80/1/2/37128
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",ANIMAL PLANET FHD
@@ -1434,96 +1430,18 @@ http://tv.factoryiptv.com:80/1/2/51120
 http://tv.factoryiptv.com:80/1/2/51121
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",TNT SERIES SD  [Alternativo]
 http://tv.factoryiptv.com:80/1/2/51122
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] ADULTO 1
-http://tv.factoryiptv.com:80/1/2/52276
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] ADULTO 10
-http://tv.factoryiptv.com:80/1/2/52285
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] ADULTO 2
-http://tv.factoryiptv.com:80/1/2/52277
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] ADULTO 3
-http://tv.factoryiptv.com:80/1/2/52278
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] ADULTO 4
-http://tv.factoryiptv.com:80/1/2/52279
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] ADULTO 5
-http://tv.factoryiptv.com:80/1/2/52280
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] ADULTO 6
-http://tv.factoryiptv.com:80/1/2/52281
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] ADULTO 7
-http://tv.factoryiptv.com:80/1/2/52282
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] ADULTO 8
-http://tv.factoryiptv.com:80/1/2/52283
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] ADULTO 9
-http://tv.factoryiptv.com:80/1/2/52284
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Xuxa só para Baixinhos 24h
 http://tv.factoryiptv.com:80/1/2/50956
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[XX] Visit-X HD
 http://tv.factoryiptv.com:80/1/2/40151
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Woohoo HD
 http://tv.factoryiptv.com:80/1/2/36899
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO INTER TV ALTO LITORAL FHD
-http://tv.factoryiptv.com:80/1/2/52593
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO INTER TV ALTO LITORAL HD
-http://tv.factoryiptv.com:80/1/2/52592
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO INTER TV DOS VALES
-http://tv.factoryiptv.com:80/1/2/52578
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO INTER TV DOS VALES FHD
-http://tv.factoryiptv.com:80/1/2/52590
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO INTER TV DOS VALES HD
-http://tv.factoryiptv.com:80/1/2/52587
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO INTER TV GRANDE MINAS
-http://tv.factoryiptv.com:80/1/2/52575
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO INTER TV GRANDE MINAS FHD
-http://tv.factoryiptv.com:80/1/2/52577
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO INTER TV GRANDE MINAS HD
-http://tv.factoryiptv.com:80/1/2/52576
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO INTER TV SERRA MAR
-http://tv.factoryiptv.com:80/1/2/52572
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO INTER TV SERRA MAR FHD
-http://tv.factoryiptv.com:80/1/2/52574
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO INTER TV SERRA MAR HD
-http://tv.factoryiptv.com:80/1/2/52573
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO NSC TV BLUMENAU
-http://tv.factoryiptv.com:80/1/2/52571
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO NSC TV BLUMENAU FHD
-http://tv.factoryiptv.com:80/1/2/52569
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO NSC TV BLUMENAU HD
-http://tv.factoryiptv.com:80/1/2/52570
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO NSC TV JOINVILLE
-http://tv.factoryiptv.com:80/1/2/52540
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO NSC TV JOINVILLE FHD
-http://tv.factoryiptv.com:80/1/2/52538
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO NSC TV JOINVILLE HD
-http://tv.factoryiptv.com:80/1/2/52539
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RBS TV CAXIAS DO SUL
 http://tv.factoryiptv.com:80/1/2/52568
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RBS TV CAXIAS DO SUL FHD
 http://tv.factoryiptv.com:80/1/2/52566
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RBS TV CAXIAS DO SUL HD
 http://tv.factoryiptv.com:80/1/2/52567
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RBS TV PELOTAS
-http://tv.factoryiptv.com:80/1/2/52543
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RBS TV PELOTAS FHD
-http://tv.factoryiptv.com:80/1/2/52541
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RBS TV PELOTAS HD
-http://tv.factoryiptv.com:80/1/2/52542
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV CABO BRANCO
-http://tv.factoryiptv.com:80/1/2/52546
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV CABO BRANCO FHD
-http://tv.factoryiptv.com:80/1/2/52544
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV CABO BRANCO HD
-http://tv.factoryiptv.com:80/1/2/52545
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV RIO SUL
-http://tv.factoryiptv.com:80/1/2/52549
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV RIO SUL FHD
-http://tv.factoryiptv.com:80/1/2/52547
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV RIO SUL HD
-http://tv.factoryiptv.com:80/1/2/52548
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV SANTA CRUZ
-http://tv.factoryiptv.com:80/1/2/52565
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV SANTA CRUZ FHD
-http://tv.factoryiptv.com:80/1/2/52563
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO TV SANTA CRUZ HD
-http://tv.factoryiptv.com:80/1/2/52564
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Zé Neto e Cristiano
 http://tv.factoryiptv.com:80/1/2/39769
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[RD] Radio Aparecida FM
