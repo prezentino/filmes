@@ -704,3 +704,200 @@ http://177.54.158.18:8082/TV3163
 EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , ZOOMOO 02
 http://178.132.6.61:8082/TV3163
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/keym7MPn1icW1wWfzMnW3HeuzWU.jpg" group-title="Filmes" ,Velozes & Furiosos: Hobbs & Shaw
+https://bucket-a03.unitplay.stream/cam/384018-hobbs.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="Filmes" ,Vingadores: Ultimato
+https://bucket-a03.unitplay.stream/hd/299534-avengers-endgame.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/gaTbUC1j5eouaarSrR65Ak4zy9Z.jpg" group-title="Filmes" ,Max 2: Um Agente Animal
+https://bucket-a03.unitplay.stream/hd/446829-max-2-white-house-hero.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8NMUF8ofBGCiH5Udpjn1GbtsXoP.jpg" group-title="Filmes" ,Carnivore: O Lobisomem De Londres
+https://bucket-a03.unitplay.stream/hd/441926-carnivore-werewolf-of-london.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/88HAJqpl49NvP7L1p7hWhyybLgk.jpg" group-title="Filmes" ,Ice
+https://bucket-a03.unitplay.stream/hd/440630.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9wRTH85w1punu5EwZwRDHwrsl14.jpg" group-title="Filmes" ,Meu Amigo Vampiro
+https://bucket-a03.unitplay.stream/hd/442056-the-little-vampire-3d.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tl2HXoLuxii1KjTd72QC3x0sU06.jpg" group-title="Filmes" ,Atração Violenta
+https://bucket-a03.unitplay.stream/hd/433621-get-the-girl.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3XD18SDSquOBLmvWY97YLOHcysF.jpg" group-title="Filmes" ,Guerreiro da Escuridão
+https://bucket-a03.unitplay.stream/hd/425298-underverden.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ljlTYcbO6tj5XfCZ9wYIRAdYFDv.jpg" group-title="Filmes" ,Paradox
+https://bucket-a03.unitplay.stream/hd/376292-paradox.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bj24DqgxSksdfpCZECOXRRcODnb.jpg" group-title="Filmes" ,Deus da Guerra
+https://bucket-a03.unitplay.stream/hd/455043-god-of-war.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5L2UP16K1KYLJGDlDOqw08fDjqr.jpg" group-title="Filmes" ,Império dos Tubarões
+https://bucket-a03.unitplay.stream/hd/457710-empire-of-the-sharks.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bqlpFp96uWu2VDpsm4MVvLXdumh.jpg" group-title="Filmes" ,Shaft
+https://bucket-a03.unitplay.stream/hd/479-shaft.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/rC3hlLHzQQKVNqAQ1fCigQeszCt.jpg" group-title="Filmes" ,Com Deus no Caminho
+https://bucket-a03.unitplay.stream/hd/434767-god-bless-the-broken-road.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/an1oaHvLqmz6YioxAx66vchy8BW.jpg" group-title="Filmes" ,Desculpe Te Incomodar
+https://bucket-a03.unitplay.stream/hd/424781-sorry-to-bother-you.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/2N6fkTKTKzkb8ywF9A4OoyuAVTM.jpg" group-title="Filmes" ,Nas Trevas
+https://bucket-a03.unitplay.stream/hd/463322-the-dark.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qulNWdtoFomUIjllKA0FJyh2kF1.jpg" group-title="Filmes" ,Invencível: Caminho da Redenção
+https://bucket-a03.unitplay.stream/hd/506680-unbroken-path-to-redemption.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/fbyGbSZMD8bjLXUaXJzt1r9BLPu.jpg" group-title="Filmes" ,Killer Unicorn
+https://bucket-a03.unitplay.stream/hd/511827-killer-unicorn.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/lqNiRYErqND6A0pSyEy4EPBQndt.jpg" group-title="Filmes" ,Jogo Duplo
+https://bucket-a03.unitplay.stream/hd/537617-the-padre.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uo7u2bRW6KPPe4ipTUqx5RZ9rwC.jpg" group-title="Filmes" ,Jurassic Galaxy
+https://bucket-a03.unitplay.stream/hd/540247-jurassic-galaxy.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/sTlXEkcB865C6FCaJyFBRV4kixa.jpg" group-title="Filmes" ,Icebox
+https://bucket-a03.unitplay.stream/hd/543772-icebox.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9Xiqmm4cUZQwmZfGfhzZ34Z2OAs.jpg" group-title="Filmes" ,Cucuy: O Bicho-Papão
+https://bucket-a03.unitplay.stream/hd/552938-cucuy-the-boogeyman.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/czhIpy9QnnxdaSGrLOVJT67R5gO.jpg" group-title="Filmes" ,Karma: Aqui se Faz, Aqui se Paga
+https://bucket-a03.unitplay.stream/hd/553928-karma.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kzsA6zcJlCS4KEfzy92HJ3GfyDR.jpg" group-title="Filmes" ,Happy Hour – Verdades e Consequências
+https://bucket-a03.unitplay.stream/hd/555768-happy-hour.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/zecOplwpW7TlP3ZKSAKov1ws4b0.jpg" group-title="Filmes" ,O Mau Exemplo de Cameron Post
+https://bucket-a03.unitplay.stream/hd/426613-the-miseducation-of-cameron-post.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/r6v7nmitQiKL2LHCjYBWUO2ALa4.jpg" group-title="Filmes" ,Rastros do Além
+https://bucket-a03.unitplay.stream/hd/448095-i-still-see-you.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kM3QlCTSnLQSkY4kzNxddOSKouU.jpg" group-title="Filmes" ,Operação Supletivo: Agora Vai!
+https://bucket-a03.unitplay.stream/hd/454293-night-school.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9cdGOnHbMVqoUNcRfRNAKVZv3nm.jpg" group-title="Filmes" ,O Pequeno Órfão
+https://bucket-a03.unitplay.stream/hd/458302-r-mi-sans-famille.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/apoaNISBUsaw76AJ54RhV13ZGI4.jpg" group-title="Filmes" ,Nossa Vida com Cães
+https://bucket-a03.unitplay.stream/hd/477510-dog-days.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/oQOH1xoqe568Wr5fDSi5KK2lf7s.jpg" group-title="Filmes" ,Tango One, O Mais Procurado
+https://bucket-a03.unitplay.stream/hd/479198-tango-one.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/lMM8ZKphFD57IuF6k6CeX8lVJkR.jpg" group-title="Filmes" ,Nina: No Palco e Na Vida
+https://bucket-a03.unitplay.stream/hd/483435-all-about-nina.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kNJHE5toiMWuF2GYaPY8VIl3qD1.jpg" group-title="Filmes" ,Segredos e Despedidas
+https://bucket-a03.unitplay.stream/hd/484355-here-and-now.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xoOCw0fhOrZINnot9jHEonHYQch.jpg" group-title="Filmes" ,Praça Pública
+https://bucket-a03.unitplay.stream/hd/486521-la-place-publique.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3C3FxKqBHF3D7ek9IHAIcNdbbLl.jpg" group-title="Filmes" ,Três Estranhos Idênticos
+https://bucket-a03.unitplay.stream/hd/489988-three-identical-strangers.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/fqH4KgqwzhSkqX5B6x1FzG2bw4n.jpg" group-title="Filmes" ,Onde Está a Vovó?
+https://bucket-a03.unitplay.stream/hd/492353-metti-la-nonna-in-freezer.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/patzx6JSth70QKEUqZ1fU4Hatkd.jpg" group-title="Filmes" ,A Espiã Vermelha
+https://bucket-a03.unitplay.stream/hd/494974-red-joan.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/afvi5tVi5S3Ux9faZaI32SmPRkj.jpg" group-title="Filmes" ,Saída Proibida
+https://bucket-a03.unitplay.stream/hd/505063-await-further-instructions.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8kvRH0Q9ghWXvYsQIqybAYf2BZq.jpg" group-title="Filmes" ,Paraíso Perdido
+https://bucket-a03.unitplay.stream/hd/524323-paraiso-perdido.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/d5qgiCABJFUbpqf9Q22VI1zNhZD.jpg" group-title="Filmes" ,Resgate Mortal
+https://bucket-a03.unitplay.stream/hd/551910-dead-in-the-water.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ecMoWaWseqqLcm1riklTRi3tWzp.jpg" group-title="Filmes" ,Sexta-Feira Muito Louca
+https://bucket-a01.unitplay.stream/hd/505904-freaky-friday.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kXbiVm89zd4NuMyzMMSPyT6Utrc.jpg" group-title="Filmes" ,45 Dias Sem Você
+https://bucket-a03.unitplay.stream/hd/563091-45-dias-sem-voce.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dUgoy8qSCZ5Y5pBiu5ipufvS16d.jpg" group-title="Filmes" ,A Casa Assombrada
+https://bucket-a03.unitplay.stream/hd/491132-before-someone-gets-hurt.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/hr5NzBpK1IQRIDEZIzhuAPRfiwm.jpg" group-title="Filmes" ,Uma Prece Antes do Amanhecer
+https://bucket-a03.unitplay.stream/hd/448776-a-prayer-before-dawn.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/l6mbdXVinpYl4pWZ6CkySX6dUZ9.jpg" group-title="Filmes" ,Era Uma Vez Um Deadpool
+https://bucket-a04.unitplay.stream/hd/567604-once-upon-a-deadpool.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/b7NeAtW9lS4XOoXkf8UL1pzwfsA.jpg" group-title="Filmes" ,Dragon Ball Super: Broly
+https://bucket-a03.unitplay.stream/hd/503314-untitled-dragon-ball-movie.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/q1mXhMMFZmCQVcFlnjv8Ty72UvJ.jpg" group-title="Filmes" ,País da Violência
+https://bucket-a03.unitplay.stream/hd/446101-assassination-nation.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qM1r04f3WzCBFkUUCSAZKqZD1iT.jpg" group-title="Filmes" ,Popular e Perigosa
+https://bucket-a03.unitplay.stream/hd/559302-psycho-prom-queen.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3bDOTBCRDwZxUV3LCkolLCZmunJ.jpg" group-title="Filmes" ,Natal No Palácio
+https://bucket-a03.unitplay.stream/hd/550023-christmas-at-the-palace.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/e3eY148LsldmJywXUqMhNIxH7Te.jpg" group-title="Filmes" ,Silencio
+https://bucket-a03.unitplay.stream/hd/526703-silencio.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cZ86QuBowAOX6LKnm6QdEoV9qyH.jpg" group-title="Filmes" ,Amor No Safari
+https://bucket-a03.unitplay.stream/hd/525454-love-on-safari.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/l69vmy7RaPMRKOHTE5U40unE8j.jpg" group-title="Filmes" ,CARGA
+https://bucket-a03.unitplay.stream/hd/507313-carga.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ynv9tbskUZxmj0iXwjPSuJu395l.jpg" group-title="Filmes" ,Upgrade
+https://bucket-a03.unitplay.stream/hd/500664-upgrade.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/j98gOdn1HB8WW2dfpq2SK4xq8Lj.jpg" group-title="Filmes" ,O Retorno de Ben
+https://bucket-a03.unitplay.stream/hd/492452-ben-is-back.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9U14Dip0WmvEUMrU8cCcqipoHZF.jpg" group-title="Filmes" ,Como é Cruel Viver Assim
+https://bucket-a03.unitplay.stream/hd/480714-como-cruel-viver-assim.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3lU7fYmSxNxu79M4v1vQ9aFLLjs.jpg" group-title="Filmes" ,O Vazio do Domingo
+https://bucket-a03.unitplay.stream/hd/442811-la-enfermedad-del-domingo.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ggX7hyJr3toYvNzu8FtcYNUQlME.jpg" group-title="Filmes" ,Sobibor
+https://bucket-a03.unitplay.stream/hd/440626.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kgHRznD5Zs1VAGykQ7oF7D3Rcm2.jpg" group-title="Filmes" ,Alma da Festa
+https://bucket-a03.unitplay.stream/hd/399796-life-of-the-party.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qklGv6ZvmIpEP7RTInbngyKUT5V.jpg" group-title="Filmes" ,Suspíria: A Dança do Medo
+https://bucket-a03.unitplay.stream/hd/361292-suspiria.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/u3hDPc70JEWbrLruk6sni1OcODe.jpg" group-title="Filmes" ,Galveston Destinos Cruzados
+https://bucket-a03.unitplay.stream/hd/283601-galveston.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xJnV6n9P71HGZUwV3IiekfVPhak.jpg" group-title="Filmes" ,Bem-vindos a Marwen
+https://bucket-a03.unitplay.stream/hd/351044-marwencol.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ecPlsaYUnBfFt01cTqhpPFtcxem.jpg" group-title="Filmes" ,A Morte do Superman
+https://bucket-a03.unitplay.stream/hd/487670-death-of-superman.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vXqDNIp7CrUpkcBc8eMBtDPch4J.jpg" group-title="Filmes" ,O Rei das Drogas
+https://bucket-a03.unitplay.stream/hd/497370.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/weWAoaNOWi5VBnnGF5wEDI14LYi.jpg" group-title="Filmes" ,Operação Enganosa
+https://bucket-a03.unitplay.stream/hd/511815-the-bleeding-edge.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2LTSiHg" group-title="Filmes" ,Shazam
+https://bit.ly/32olHzc
+ 
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O decimo primeiro Homem
+http://thor.lhmtv.gq/filmes/o12homem-dub-480p.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2LTSiHg" group-title="Filmes" ,Besouro
+https://bit.ly/31oHBBb
