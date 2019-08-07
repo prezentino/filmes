@@ -171,7 +171,7 @@ http://hvod.imirun.net:8080/AMC-HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC ♣
 http://backup.greenplanet.top:8080/br-8043amc/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANIMAL PLANET 01 ?
-http://mcny.allmedia4.tv/AJ2G0tKt/AzApromo/1466
+https://ricks.azureedge.net/hls1/animalplanet.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANIMAL PLANET 02
 http://178.132.6.61:8082/TV3878
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS @
