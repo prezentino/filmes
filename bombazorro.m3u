@@ -15,6 +15,8 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
 http://tv.factoryiptv.com:80/1/2/36990
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT web
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FILME MAE E MUITO MAIS
+https://edge32.streamguard.cc/sec/1565316817/33383433fb9859a004480f2c78dd47988b3a5c2335c88f8c/ivs/3f/06/a58a04cc0739/hls/tracks-3,4/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT web2
 http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1627.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , SBT CONEXÃO TUBE
