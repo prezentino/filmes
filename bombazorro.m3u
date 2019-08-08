@@ -53,7 +53,7 @@ https://ricks.azureedge.net/hls1/recordsp.m3u8
 #EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-rede-tv-ao-vivo-online-249x140.png" group-title="ABERTOS",ConexãoTube REDE TV!
 https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1117559205.m3u8
 #EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-band-ao-vivo-online-249x140.png" group-title="ABERTOS",ConexãoTube BAND
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13606.m3u8
+https://ricks.azureedge.net/hls1/band.m3u8
 #EXTINF:-1 tvg-logo="https://www.rs21.com.br/wp-content/uploads/2016/01/logo-rede-seculo-21.jpg" group-title="RELIGIOSOS",ConexãoTube REDE SÉCULO 21
 https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1038245040831782917/qA9g_HsS_400x400.jpg" group-title="RELIGIOSOS",ConexãoTube TV APARECIDA
