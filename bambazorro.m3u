@@ -1,203 +1,203 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/globo-ao-vivo.png" group-title="ABERTOS",ConexãoTube GLOBO
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/globo-ao-vivo.png" group-title="ABERTOS",GLOBO
 https://ricks.azureedge.net/hls1/bobosp.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-sbt-ao-vivo-online.png" group-title="ABERTOS",ConexãoTube SBT
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-sbt-ao-vivo-online.png" group-title="ABERTOS",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w548702998_b216000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/static.otvfoco.com.br/2017/05/record-tv-jornalismo-1-e1504109982449.jpg" group-title="ABERTOS",ConexãoTube RECORD TV
+#EXTINF:-1 tvg-logo="https://i1.wp.com/static.otvfoco.com.br/2017/05/record-tv-jornalismo-1-e1504109982449.jpg" group-title="ABERTOS",RECORD TV
 https://ricks.azureedge.net/hls1/recordsp.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-rede-tv-ao-vivo-online-249x140.png" group-title="ABERTOS",ConexãoTube REDE TV!
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-rede-tv-ao-vivo-online-249x140.png" group-title="ABERTOS",REDE TV!
 https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1117559205.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-band-ao-vivo-online-249x140.png" group-title="ABERTOS",ConexãoTube BAND
-https://ricks.azureedge.net/hls1/band.m3u8
-#EXTINF:-1 tvg-logo="https://www.rs21.com.br/wp-content/uploads/2016/01/logo-rede-seculo-21.jpg" group-title="RELIGIOSOS",ConexãoTube REDE SÉCULO 21
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-band-ao-vivo-online-249x140.png" group-title="ABERTOS",BAND
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=https://ricks.azureedge.net/hls1/band.m3u8
+#EXTINF:-1 tvg-logo="https://www.rs21.com.br/wp-content/uploads/2016/01/logo-rede-seculo-21.jpg" group-title="RELIGIOSOS",REDE SÉCULO 21
 https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1038245040831782917/qA9g_HsS_400x400.jpg" group-title="RELIGIOSOS",ConexãoTube TV APARECIDA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1038245040831782917/qA9g_HsS_400x400.jpg" group-title="RELIGIOSOS",TV APARECIDA
 https://caikron.com.br:8082/tvap/tvap/tvap/720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/animalplanet.jpg" group-title="DOCUMENTARIOS",ConexãoTube ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/animalplanet.jpg" group-title="DOCUMENTARIOS",ANIMAL PLANET
 https://ricks.azureedge.net/hls1/animalplanet.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/discovery.jpg" group-title="DOCUMENTARIOS",ConexãoTube DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/discovery.jpg" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
 https://ricks.azureedge.net/hls1/discovery.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoverycience.jpg" group-title="DOCUMENTARIOS",ConexãoTube DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoverycience.jpg" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
 https://ricks.azureedge.net/hls1/discoverysience.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoveryworld.jpg" group-title="DOCUMENTARIOS",ConexãoTube DISCOVERY WORD
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoveryworld.jpg" group-title="DOCUMENTARIOS",DISCOVERY WORD
 https://ricks.azureedge.net/hls1/discoveryworld.m3u8
-#EXTINF:-1 tvg-logo=https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoverycivilization.jpg"" group-title="DOCUMENTARIOS",ConexãoTube DISCOVERY CIVILIZATION
+#EXTINF:-1 tvg-logo=https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoverycivilization.jpg"" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION
 https://ricks.azureedge.net/hls1/discoverycivilization.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/investigacaodiscovery.jpg" group-title="DOCUMENTARIOS",ConexãoTube INVESTIGAÇÃO DISCOVERY
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/investigacaodiscovery.jpg" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY
 https://ricks.azureedge.net/hls1/investigacaodiscovery.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoveryturbo.jpg" group-title="DOCUMENTARIOS",ConexãoTube DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoveryturbo.jpg" group-title="DOCUMENTARIOS",DISCOVERY TURBO
 https://ricks.azureedge.net/hls1/discoveryturbo.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/history.jpg" group-title="DOCUMENTARIOS",ConexãoTube HISTORY
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/history.jpg" group-title="DOCUMENTARIOS",HISTORY
 https://ricks.azureedge.net/hls1/history.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/h2.jpg" group-title="DOCUMENTARIOS",ConexãoTube H2
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/h2.jpg" group-title="DOCUMENTARIOS",H2
 https://ricks.azureedge.net/hls1/history2.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/natgeo.jpg" group-title="DOCUMENTARIOS",ConexãoTube NAT GEO
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/natgeo.jpg" group-title="DOCUMENTARIOS",NAT GEO
 https://ricks.azureedge.net/hls1/natgeo.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/natgeowild.jpg" group-title="DOCUMENTARIOS",ConexãoTube NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/natgeowild.jpg" group-title="DOCUMENTARIOS",NAT GEO WILD
 https://ricks.azureedge.net/hls1/natgeowild.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/6xy1NxyN7eEc6CDHCLYwkuppfjUJ5of2eepIxZIkawcVP9Dpz01UA372BHlrI2fPMLQ" group-title="ESPORTES",ConexãoTube BAND SPORTS
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/6xy1NxyN7eEc6CDHCLYwkuppfjUJ5of2eepIxZIkawcVP9Dpz01UA372BHlrI2fPMLQ" group-title="ESPORTES",BAND SPORTS
 https://ricks.azureedge.net/hls1/bandsports.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/combate.jpg" group-title="ESPORTES",ConexãoTube COMBATE
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/combate.jpg" group-title="ESPORTES",COMBATE
 https://ricks.azureedge.net/hls1/combate.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/canaloff.jpg" group-title="ESPORTES",ConexãoTube CANAL OFF
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/canaloff.jpg" group-title="ESPORTES",CANAL OFF
 https://ricks.azureedge.net/hls1/off.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-espn-brasil-ao-vivo-online-1-1.png" group-title="ESPORTES",ConexãoTube ESPN BRASIL
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-espn-brasil-ao-vivo-online-1-1.png" group-title="ESPORTES",ESPN BRASIL
 https://ricks.azureedge.net/hls1/espnbrasil.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/espn2.jpg" group-title="ESPORTES",ConexãoTube ESPN 2
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/espn2.jpg" group-title="ESPORTES",ESPN 2
 https://ricks.azureedge.net/hls1/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/espnextra.jpg" group-title="ESPORTES",ConexãoTube ESPN EXTRA
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/espnextra.jpg" group-title="ESPORTES",ESPN EXTRA
 https://ricks.azureedge.net/hls1/espnextra.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/espn.jpg" group-title="ESPORTES",ConexãoTube ESPN
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/espn.jpg" group-title="ESPORTES",ESPN
 https://ricks.azureedge.net/hls1/espn.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/foxsports.jpg" group-title="",ConexãoTube FOX SPORTS
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/foxsports.jpg" group-title="",FOX SPORTS
 https://ricks.azureedge.net/hls1/foxsports1.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/foxsports2.jpg" group-title="ESPORTES",ConexãoTube FOX SPORTS 2
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/foxsports2.jpg" group-title="ESPORTES",FOX SPORTS 2
 https://ricks.azureedge.net/hls1/foxsports2.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/sportv.jpg" group-title="ESPORTES",ConexãoTube SPORTV
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/sportv.jpg" group-title="ESPORTES",SPORTV
 https://ricks.azureedge.net/hls1/sportv1.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/sportv2.jpg" group-title="ESPORTES",ConexãoTube SPORTV 2
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/sportv2.jpg" group-title="ESPORTES",SPORTV 2
 https://ricks.azureedge.net/hls1/sportv2.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-sportv3-ao-vivo-online.png" group-title="ESPORTES",ConexãoTube SPORTV 3
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-sportv3-ao-vivo-online.png" group-title="ESPORTES",SPORTV 3
 https://ricks.azureedge.net/hls1/sportv3.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/premiere.jpg" group-title="ESPORTES",ConexãoTube PREMIERE CLUBE
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/premiere.jpg" group-title="ESPORTES",PREMIERE CLUBE
 https://ricks.azureedge.net/hls1/premiereclubes.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",ConexãoTube PREMIERE 2
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",PREMIERE 2
 https://ricks.azureedge.net/hls1/premiere2.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo.png" group-title="ESPORTES",ConexãoTube PREMIERE 3
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo.png" group-title="ESPORTES",PREMIERE 3
 https://ricks.azureedge.net/hls1/premiere3.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-4.png" group-title="ESPORTES",ConexãoTube PREMIERE 4
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-4.png" group-title="ESPORTES",PREMIERE 4
 https://ricks.azureedge.net/hls1/premiere4.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/premiere.jpg" group-title="ESPORTES",ConexãoTube PREMIERE 5
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/premiere.jpg" group-title="ESPORTES",PREMIERE 5
 https://ricks.azureedge.net/hls1/premiere5.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png" group-title="ESPORTES",ConexãoTube PREMIERE 6
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png" group-title="ESPORTES",PREMIERE 6
 https://ricks.azureedge.net/hls1/premiere6.m3u8
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere7.jpg" group-title="ESPORTES",ConexãoTube PREMIERE 7
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere7.jpg" group-title="ESPORTES",PREMIERE 7
 https://ricks.azureedge.net/hls1/premiere7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KcY5nOV.jpg" group-title="ESPORTES",ConexãoTube RED BULL TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KcY5nOV.jpg" group-title="ESPORTES",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/aee.jpg" group-title="FILMES & SÉRIES",ConexãoTube A&E
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/aee.jpg" group-title="FILMES & SÉRIES",A&E
 https://ricks.azureedge.net/hls1/aie.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/amc.jpg" group-title="FILMES & SÉRIES",ConexãoTube AMC
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/amc.jpg" group-title="FILMES & SÉRIES",AMC
 https://ricks.azureedge.net/hls1/amc.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/axn.jpg" group-title="FILMES & SÉRIES",ConexãoTube AXN
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/axn.jpg" group-title="FILMES & SÉRIES",AXN
 https://ricks.azureedge.net/hls1/axn.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/cinemax.jpg" group-title="FILMES & SÉRIES",ConexãoTube CINEMAX
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/cinemax.jpg" group-title="FILMES & SÉRIES",CINEMAX
 https://ricks.azureedge.net/hls1/cinemax.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/curta.jpg" group-title="FILMES & SÉRIES",ConexãoTube CURTA!
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/curta.jpg" group-title="FILMES & SÉRIES",CURTA!
 https://ricks.azureedge.net/hls1/curta.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/foxchannel.jpg" group-title="FILMES & SÉRIES",ConexãoTube FOX
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/foxchannel.jpg" group-title="FILMES & SÉRIES",FOX
 https://ricks.azureedge.net/hls1/fox.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/foxpremium1.jpg" group-title="FILMES & SÉRIES",ConexãoTube FOX PREMIUM 1
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/foxpremium1.jpg" group-title="FILMES & SÉRIES",FOX PREMIUM 1
 https://ricks.azureedge.net/hls1/foxpremium1.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/foxpremium2.jpg" group-title="FILMES & SÉRIES",ConexãoTube FOX PREMIUM 2
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/foxpremium2.jpg" group-title="FILMES & SÉRIES",FOX PREMIUM 2
 https://ricks.azureedge.net/hls1/foxpremium2.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/fx.jpg" group-title="FILMES & SÉRIES",ConexãoTube FX
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/fx.jpg" group-title="FILMES & SÉRIES",FX
 https://ricks.azureedge.net/hls1/fx.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/foxlife.jpg" group-title="FILMES & SÉRIES",ConexãoTube FOXLIVE
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/foxlife.jpg" group-title="FILMES & SÉRIES",FOXLIVE
 https://ricks.azureedge.net/hls1/foxlife.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/hbo.jpg" group-title="FILMES & SÉRIES",ConexãoTube HBO
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/hbo.jpg" group-title="FILMES & SÉRIES",HBO
 https://ricks.azureedge.net/hls1/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/hbo2.jpg" group-title="FILMES & SÉRIES",ConexãoTube HBO 2
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/hbo2.jpg" group-title="FILMES & SÉRIES",HBO 2
 https://ricks.azureedge.net/hls1/hbo2.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2016/04/hbofamily-1024x576.png" group-title="FILMES & SÉRIES",ConexãoTube HBO FAMILY
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2016/04/hbofamily-1024x576.png" group-title="FILMES & SÉRIES",HBO FAMILY
 https://ricks.azureedge.net/hls1/hbofamily.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/hboplus.jpg" group-title="FILMES & SÉRIES",ConexãoTube HBO PLUS
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/hboplus.jpg" group-title="FILMES & SÉRIES",HBO PLUS
 https://ricks.azureedge.net/hls1/hboplus.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/hbosignature.jpg" group-title="FILMES & SÉRIES",ConexãoTube HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/hbosignature.jpg" group-title="FILMES & SÉRIES",HBO SIGNATURE
 https://ricks.azureedge.net/hls1/hbosignature.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LTDX6hw.jpg" group-title="FILMES & SÉRIES",ConexãoTube MAX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LTDX6hw.jpg" group-title="FILMES & SÉRIES",MAX
 https://ricks.azureedge.net/hls1/max.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/maxprime.jpg" group-title="FILMES & SÉRIES",ConexãoTube MAX PRIME
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/maxprime.jpg" group-title="FILMES & SÉRIES",MAX PRIME
 https://ricks.azureedge.net/hls1/maxprime.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/maxup.jpg" group-title="FILMES & SÉRIES",ConexãoTube MAX UP
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/maxup.jpg" group-title="FILMES & SÉRIES",MAX UP
 https://ricks.azureedge.net/hls1/maxup.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/megapix.jpg" group-title="FILMES & SÉRIES",ConexãoTube MEGAPIX
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/megapix.jpg" group-title="FILMES & SÉRIES",MEGAPIX
 https://ricks.azureedge.net/hls1/megapix.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/paramountchannel.jpg" group-title="FILMES & SÉRIES",ConexãoTube PARAMOUNT
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/paramountchannel.jpg" group-title="FILMES & SÉRIES",PARAMOUNT
 https://ricks.azureedge.net/hls1/paramount.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/sony.jpg" group-title="FILMES & SÉRIES",ConexãoTube SONY
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/sony.jpg" group-title="FILMES & SÉRIES",SONY
 https://ricks.azureedge.net/hls1/sony.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/space.jpg" group-title="FILMES & SÉRIES",ConexãoTube SPACE
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/space.jpg" group-title="FILMES & SÉRIES",SPACE
 https://ricks.azureedge.net/hls1/space.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/studiouniversal.jpg" group-title="FILMES & SÉRIES",ConexãoTube STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/studiouniversal.jpg" group-title="FILMES & SÉRIES",STUDIO UNIVERSAL
 https://ricks.azureedge.net/hls1/studiouniversal.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/syfy.jpg" group-title="FILMES & SÉRIES",ConexãoTube SYFY
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/syfy.jpg" group-title="FILMES & SÉRIES",SYFY
 https://ricks.azureedge.net/hls1/syfy.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/tcm.jpg" group-title="FILMES & SÉRIES",ConexãoTube TCM
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/tcm.jpg" group-title="FILMES & SÉRIES",TCM
 https://ricks.azureedge.net/hls1/tcm.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinecult.jpg" group-title="FILMES & SÉRIES",ConexãoTube TELECINE ACTION
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinecult.jpg" group-title="FILMES & SÉRIES",TELECINE ACTION
 https://ricks.azureedge.net/hls1/telecineaction.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinecult.jpg" group-title="FILMES & SÉRIES",ConexãoTube TELECINE CULT
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinecult.jpg" group-title="FILMES & SÉRIES",TELECINE CULT
 https://ricks.azureedge.net/hls1/telecinecult.m3u8
-#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/tc-fun.png" group-title="FILMES & SÉRIES",ConexãoTube TELECINE FUN
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/tc-fun.png" group-title="FILMES & SÉRIES",TELECINE FUN
 https://ricks.azureedge.net/hls1/telecinefun.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinepipoca.jpg" group-title="FILMES & SÉRIES",ConexãoTube TELECINE PIPOCA
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinepipoca.jpg" group-title="FILMES & SÉRIES",TELECINE PIPOCA
 https://ricks.azureedge.net/hls1/telecinepipoca.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinepremium.jpg" group-title="FILMES & SÉRIES",ConexãoTube TELECINE PREMIUM
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinepremium.jpg" group-title="FILMES & SÉRIES",TELECINE PREMIUM
 https://ricks.azureedge.net/hls1/telecinepremium.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinetouch.jpg" group-title="FILMES & SÉRIES",ConexãoTube TELECINE TOUCH
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinetouch.jpg" group-title="FILMES & SÉRIES",TELECINE TOUCH
 https://ricks.azureedge.net/hls1/telecinetouch.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/tnt.jpg" group-title="FILMES & SÉRIES",ConexãoTube TNT
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/tnt.jpg" group-title="FILMES & SÉRIES",TNT
 https://ricks.azureedge.net/hls1/tnt.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/tntseries.jpg" group-title="FILMES & SÉRIES",ConexãoTube TNT SÉRIES
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/tntseries.jpg" group-title="FILMES & SÉRIES",TNT SÉRIES
 https://ricks.azureedge.net/hls1/tntseries.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/universaltv.jpg" group-title="FILMES & SÉRIES",ConexãoTube UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/universaltv.jpg" group-title="FILMES & SÉRIES",UNIVERSAL CHANNEL
 https://ricks.azureedge.net/hls1/universal.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/warner.jpg" group-title="FILMES & SÉRIES",ConexãoTube WARNER
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/warner.jpg" group-title="FILMES & SÉRIES",WARNER
 https://ricks.azureedge.net/hls1/warner.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/boomerang.jpg" group-title="INFANTIL",ConexãoTube BOOMERANG
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/boomerang.jpg" group-title="INFANTIL",BOOMERANG
 https://ricks.azureedge.net/hls1/boomerang.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/cartoon.jpg" group-title="INFANTIL",ConexãoTube CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/cartoon.jpg" group-title="INFANTIL",CARTOON NETWORK
 https://ricks.azureedge.net/hls1/cartoon.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/discoverykids.jpg" group-title="INFANTIL",ConexãoTube DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/discoverykids.jpg" group-title="INFANTIL",DISCOVERY KIDS
 https://ricks.azureedge.net/hls1/discoverykids.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/disneychannel.jpg" group-title="INFANTIL",ConexãoTube DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/disneychannel.jpg" group-title="INFANTIL",DISNEY CHANNEL
 https://ricks.azureedge.net/hls1/disney.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/disneyjunior.jpg" group-title="INFANTIL",ConexãoTube DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/disneyjunior.jpg" group-title="INFANTIL",DISNEY JUNIOR
 https://ricks.azureedge.net/hls1/disneyjunior.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/disneyxd.jpg" group-title="INFANTIL",ConexãoTube DISNEY XD
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/disneyxd.jpg" group-title="INFANTIL",DISNEY XD
 https://ricks.azureedge.net/hls1/disneyxd.m3u8
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/gloob.jpg" group-title="INFANTIL",ConexãoTube GLOOB
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/gloob.jpg" group-title="INFANTIL",GLOOB
 https://ricks.azureedge.net/hls1/gloob.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/nickelodeon.jpg" group-title="INFANTIL",ConexãoTube NICKELODEON
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/nickelodeon.jpg" group-title="INFANTIL",NICKELODEON
 https://ricks.azureedge.net/hls1/nick.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/nickjr.jpg" group-title="INFANTIL",ConexãoTube NICK JR
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/nickjr.jpg" group-title="INFANTIL",NICK JR
 https://ricks.azureedge.net/hls1/nickjr.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/natgeokids.jpg" group-title="INFANTIL",ConexãoTube NAT GEO KIDS
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/natgeokids.jpg" group-title="INFANTIL",NAT GEO KIDS
 https://ricks.azureedge.net/hls1/natgeokids.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/toocast.jpg" group-title="INFANTIL",ConexãoTube TOONCAST
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/toocast.jpg" group-title="INFANTIL",TOONCAST
 https://ricks.azureedge.net/hls1/tooncast.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/zoomoo.jpg" group-title="INFANTIL",ConexãoTube ZOOMOO
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/zoomoo.jpg" group-title="INFANTIL",ZOOMOO
 https://ricks.azureedge.net/hls1/zoomoo.m3u8
-#EXTINF:-1 tvg-logo="https://teleguiado.com/wp-content/uploads/2018/11/Arte1.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube ARTE 1
+#EXTINF:-1 tvg-logo="https://teleguiado.com/wp-content/uploads/2018/11/Arte1.jpg" group-title="VARIEDADES & MÚSICAS",ARTE 1
 https://ricks.azureedge.net/hls1/arte1.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/bis.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube BIS
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/bis.jpg" group-title="VARIEDADES & MÚSICAS",BIS
 https://ricks.azureedge.net/hls1/bis.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/comedycentral.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/comedycentral.jpg" group-title="VARIEDADES & MÚSICAS",COMEDY CENTRAL
 https://ricks.azureedge.net/hls1/comedycentral.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/canale.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube CANAL E!
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/canale.jpg" group-title="VARIEDADES & MÚSICAS",CANAL E!
 https://ricks.azureedge.net/hls1/canale.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2019/04/food.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2019/04/food.jpg" group-title="VARIEDADES & MÚSICAS",FOOD NETWORK
 https://ricks.azureedge.net/hls1/foodnetwork.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/gnt.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube GNT
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/gnt.jpg" group-title="VARIEDADES & MÚSICAS",GNT
 https://ricks.azureedge.net/hls1/gnt.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/lifetime.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube LIFETIME
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/lifetime.jpg" group-title="VARIEDADES & MÚSICAS",LIFETIME
 https://ricks.azureedge.net/hls1/foxlife.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zTM4P7A9vKE/Wo3o0_pT_cI/AAAAAAABEio/IhczRMkrQyUkjMX7eBBINqyJq5lntGt-QCLcBGAs/s1600/Mais%2BGlobosat.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube MAIS GLOBOSAT
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zTM4P7A9vKE/Wo3o0_pT_cI/AAAAAAABEio/IhczRMkrQyUkjMX7eBBINqyJq5lntGt-QCLcBGAs/s1600/Mais%2BGlobosat.jpg" group-title="VARIEDADES & MÚSICAS",MAIS GLOBOSAT
 https://ricks.azureedge.net/hls1/maisbobosat.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/mtv.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube MTV
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/mtv.jpg" group-title="VARIEDADES & MÚSICAS",MTV
 https://ricks.azureedge.net/hls1/mtv.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/multishow.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube MULTISHOW
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/multishow.jpg" group-title="VARIEDADES & MÚSICAS",MULTISHOW
 https://ricks.azureedge.net/hls1/multishow.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/viva.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube VIVA
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/viva.jpg" group-title="VARIEDADES & MÚSICAS",VIVA
 https://ricks.azureedge.net/hls1/viva.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/tlc.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube TLC
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/tlc.jpg" group-title="VARIEDADES & MÚSICAS",TLC
 https://ricks.azureedge.net/hls1/tlc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LRBqBQU.png" group-title="VARIEDADES & MÚSICAS",ConexãoTube TOP TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LRBqBQU.png" group-title="VARIEDADES & MÚSICAS",TOP TV
 http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/36974578/9_thumb_band_news.jpg" group-title="NOTÍCIAS",ConexãoTube BAND NEWS
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/36974578/9_thumb_band_news.jpg" group-title="NOTÍCIAS",BAND NEWS
 https://ricks.azureedge.net/hls1/bandnews.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/globonews.jpg" group-title="NOTÍCIAS",ConexãoTube GLOBO NEWS
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/globonews.jpg" group-title="NOTÍCIAS",GLOBO NEWS
 https://ricks.azureedge.net/hls1/globonews.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/recordnews.jpg" group-title="NOTÍCIAS",ConexãoTube RECORD NEWS
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/recordnews.jpg" group-title="NOTÍCIAS",RECORD NEWS
 https://ricks.azureedge.net/hls1/recordnews.m3u8
