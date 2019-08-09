@@ -275,10 +275,14 @@ http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
 http://tv.factoryiptv.com:80/1/2/39772
 #EXTINF:-1 tvg-id="" tvg-name="JOAO NETO E FREDERICO" tvg-logo="" group-title="Shows",JOAO NETO E FREDERICO
 http://tv.factoryiptv.com:80/1/2/39790
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Shows",GUSTTAVO LIMA
+http://webtvcde.com/Servidor/sh/gl50om.mp4
 #EXTINF:-1 tvg-id="" tvg-name="CABARE EDUARDO COSTA & LEONARDO" tvg-logo="" group-title="Shows",CABARE EDUARDO COSTA & LEONARDO
 http://tv.factoryiptv.com:80/1/2/39768
 #EXTINF:-1 tvg-id="" tvg-name="DAVID GUETTA" tvg-logo="" group-title="Shows",DAVID GUETTA
 http://tv.factoryiptv.com:80/1/2/39785
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Shows",CRISTIANO ARAUJO
+http://webtvcde.com/Servidor/sh/caitca.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="FILMES E SERIES",Cine Sky
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/can%C3%A7aonova.png" group-title="CANAIS DE RELIGIAO", Cancao Nova 
