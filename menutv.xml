@@ -1,6 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layoutype>list</layoutype>
 
+<channels>
+<channel>
+<name>[COLOR yellow][B]T V   M A R C O[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<fanart>https://i.imgur.com/wTHwmDe.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/bambazorro.m3u</externallink>
+<info>Esta seleção foi feita e atualizada por mim.</info>
+</channel>
+</channe>ls
+
 <channel>
 <name>[COLOR lime][B]K O A L A   S E R V I D O R 4[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
