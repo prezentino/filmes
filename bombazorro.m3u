@@ -5,6 +5,8 @@ http://tv.factoryiptv.com:80/1/2/38641
 http://tv.factoryiptv.com:80/1/2/43430
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO RS2
 http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13480.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO CAXIAS DO SUL TCHE
+http://tv.factoryiptv.com:80/1/2/52566
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO CONEXÃO TUBE
 https://ricks.azureedge.net/hls1/bobosp.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND CONEXÃO
