@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <layoutype>list</layoutype>
 
 <channels>
@@ -78,6 +78,20 @@
 <info>AS MELHORES SERIES ANIDAS VOCE ENCONTRA AQUI</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR yellow][B]FOGO DESENHOS[/B][/COLOR] - [COLOR red][B]FOGO[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/TKxCLs8.png</thumbnail>
+<fanart>https://i.imgur.com/TKxCLs8.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://github.com/colla69/pythonTrainingSandbox/blob/b50c00fc64bdb7cd40bad8960e7342ca3e847e07/testProj/Pastebin/files/ackU61NY.txt</externallink>
+<info>AS MELHORES SERIES ANIDAS VOCE ENCONTRA AQUI</info>
+</channel>
+</channels>
+
+
+
 
 <channels>
 <channel>
