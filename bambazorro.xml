@@ -47,13 +47,6 @@
 </item>
 
 <item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]RECORD NEWS[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]recordnews.m3u8|Referer=https://cometa.top/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
-<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/recordnews.jpg</thumbnail>
-</item>
-
-<item>
 <title>[COLOR red][B] ***[/B][/COLOR] [I][B][COLOR blue]CONEXÃO TUBE[/COLOR][/I][/B] [I][B][COLOR red]SERVIDOR - 2[/COLOR][/I][/B] [COLOR red][B]*** [/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.imgur.com/JKao8OY.png</thumbnail>
@@ -67,109 +60,6 @@
 <thumbnail>https://i.imgur.com/fbChnT1.jpg</thumbnail>
 </item>
  
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]CANAL RICOS[/B][/COLOR]</title>
-<link>http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8</link>
-<thumbnail>http://uploaddeimagens.com.br/images/002/063/259/original/2019-04-21.png</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]ALLTV[/B][/COLOR]</title>
-<link>https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w1391791153.m3u8</link>
-<thumbnail>http://www.sonoticiaboa.com.br/wp-content/uploads/2012/05/alltv.png</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TV CARIOCA[/B][/COLOR]</title>
-<link>https://593d7fe3c9b0d.streamlock.net/tvcarioca/tvcarioca/chunklist_w166095008.m3u8</link>
-<thumbnail>https://yt3.ggpht.com/a-/AN66SAwpKSg-ysXaUK_lUYx3F9bEtd_oN3EfjKUwiw=s900-mo-c-c0xffffffff-rj-k-no</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TV DIÁRIO DO SERTÃO[/B][/COLOR]</title>
-<link>http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1216392493.m3u8</link>
-<thumbnail>https://i.imgur.com/HA76GT2.jpg</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]VIA MORENA[/B][/COLOR]</title>
-<link>https://v5.ciclano.io:1443/cleuza-734/_definst_/cleuza-734/chunklist_w960524910.m3u8</link>
-<thumbnail>https://3.bp.blogspot.com/-CLrhHmhkWZY/WxxnpDq8b8I/AAAAAAAAAH4/2CQfOXFLM4M3s4u5-8ptfnESMHXRtGqVwCLcBGAs/s640/Screenshot_2018-06-09-20-46-44.png</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR red][B] ≤≤≤ [/B][/COLOR][COLOR magenta][B]CANAIS[/B][/COLOR] [COLOR aqua][B]ABERTOS BRASIL E DO MUNDO[/B][/COLOR][COLOR red][B] ≥≥≥ [/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.imgur.com/fbChnT1.jpg</thumbnail>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TV ARACATI[/B][/COLOR]</title>
-<link>https://srv1.zcast.com.br/tvaracati/tvaracati/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/WNfa1gj.png</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]SER TV[/B][/COLOR]</title>
-<link>http://179.107.83.10:1935/live/tvcidadeaovivo_1/chunklist_w2089265464.m3u8</link>
-<thumbnail>https://i.imgur.com/srvrINZ.png</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]SUMMER TV[/B][/COLOR]</title>
-<link>http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1185460365.m3u8</link>
-<thumbnail>https://i.imgur.com/YjdJ1O9.png</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TV TRANSAMÉRICA[/B][/COLOR]</title>
-<link>http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/chunklist_w57548924.m3u8</link>
-<thumbnail>https://i.imgur.com/mQdDpk8.png</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TV MAR[/B][/COLOR]</title>
-<link>https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w958070618.m3u8</link>
-<thumbnail>https://i.imgur.com/VNPN63H.png</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]All SPORTS TV[/B][/COLOR]</title>
-<link>https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w425558023.m3u8</link>
-<thumbnail>http://s24stream.com/wp-content/uploads/2018/08/allsport-400x300.jpg</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]FUTURA[/B][/COLOR]</title>
-<link>http://caikron.com.br:1935/unipar/tvup/chunklist_w829711024.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-XZN-vwzreuY/VgAmoO5KsxI/AAAAAAAAAaA/3ABpgD1pVMY/s1600/futura.jpg</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TV PANTANAL MS[/B][/COLOR]</title>
-<link>https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w2072336047.m3u8</link>
-<thumbnail>https://i.imgur.com/zJhEBn8.jpg</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TV CULTURA - CATVE[/B][/COLOR]</title>
-<link>https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1561292854.m3u8</link>
-<thumbnail>https://pbs.twimg.com/profile_images/1068659066203979776/iarwbED-_400x400.jpg</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
-
 <item>
 <title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]REDE SÉCULO 21[/B][/COLOR]</title>
 <link>https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-p.m3u8</link>
@@ -1012,4 +902,11 @@
 <link>$doregex[CONEXAOTUBE]globonews.m3u8|Referer=https://cometa.top/</link>
 <regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
 <thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/globonews.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]RECORD NEWS[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]recordnews.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/recordnews.jpg</thumbnail>
 </item>
