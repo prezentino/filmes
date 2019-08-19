@@ -55,12 +55,6 @@
 </item>
 
 <item>
-<title>[COLOR red][B] ≤≤≤ [/B][/COLOR][COLOR magenta][B]CANAIS[/B][/COLOR] [COLOR aqua][B]WEB Tv[/B][/COLOR][COLOR red][B] ≥≥≥ [/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.imgur.com/fbChnT1.jpg</thumbnail>
-</item>
- 
-<item>
 <title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]REDE SÉCULO 21[/B][/COLOR]</title>
 <link>https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-p.m3u8</link>
 <thumbnail>https://www.rs21.com.br/wp-content/uploads/2016/01/logo-rede-seculo-21.jpg</thumbnail>
@@ -82,108 +76,10 @@
 </item>
 
 <item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TERRA VIVA[/B][/COLOR]</title>
-<link>https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w288512142.m3u8</link>
-<thumbnail>http://www.exorbeo.com/wp-content/uploads/2015/03/canal-terraviva-estreia-tres-novas-atracoes.jpg</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TV UNIÃO[/B][/COLOR]</title>
-<link>https://beenet.castr.io/live_0b63b960ac8a11e9995c91754b9c7c83/tracks-v1a1/mono.m3u8</link>
-<thumbnail>http://tdhbrasil.org/images/clipping/tvuniao.png</thumbnail>
-<genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
-
-<item>
 <title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TOP TV[/B][/COLOR]</title>
 <link>http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/LRBqBQU.png</thumbnail>
 <genre>[COLOR white]BRASIL[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]MUSIC TOP[/B][/COLOR]</title>
-<link>http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1221606545_b2028000_sleng.m3u8</link>
-<thumbnail>https://live-tv-channels.org/pt-data/uploads/logo/ar-music-top.jpg</thumbnail>
-<genre>[COLOR white]Argentina[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]M2O TV[/B][/COLOR]</title>
-<link>https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8</link>
-<thumbnail>http://oklivetv.com/wp-content/uploads/media/6b7394c0b60379bf9f84aaf7a0f33e8a.jpeg</thumbnail>
-<genre>[COLOR white]Itália[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]KRONEHIT TV[/B][/COLOR]</title>
-<link>https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b628000.m3u8</link>
-<thumbnail>https://ulango.tv/uploads/channels/3783814/logo_kronehit%20tv.png</thumbnail>
-<genre>[COLOR white]Áustria[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]NRJ HITS TV[/B][/COLOR]</title>
-<link>https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w1097292515_b1431072.m3u8</link>
-<thumbnail>https://i.imgur.com/Fxcglt4.jpg</thumbnail>
-<genre>[COLOR white]França[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]NZTV[/B][/COLOR]</title>
-<link>https://5cc00ac6defaf.streamlock.net:1443/nacaozulutv/_definst_/nacaozulutv/chunklist_w1301068159.m3u8</link>
-<thumbnail>https://i.imgur.com/elhyyRn.jpg</thumbnail>
-<genre>[COLOR white]Estados Unidos[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]RETRÔ MUSIC TV[/B][/COLOR]</title>
-<link>http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1678359016_b200000.m3u8</link>
-<thumbnail>https://i.imgur.com/dkgNmdg.jpg</thumbnail>
-<genre>[COLOR white]República Tcheca[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]CBTV[/B][/COLOR]</title>
-<link>https://vse-sa-all22.secdn.net/cbtv-chorigin/live/stream_source/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/s9Xtyra.jpg</thumbnail>
-<genre>[COLOR white]Estados Unidos[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]RAI NEWS 24[/B][/COLOR]</title>
-<link>https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8</link>
-<thumbnail>https://i1.wp.com/mediterranee-audiovisuelle.com/wp-content/uploads/2015/03/logo-rai-news.jpg</thumbnail>
-<genre>[COLOR white]Itália[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]DW[/B][/COLOR]</title>
-<link>https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8</link>
-<thumbnail>https://i.pinimg.com/originals/fa/93/ea/fa93ea13c52677f6f730bcecf5073104.jpg</thumbnail>
-<genre>[COLOR white]Alemanha[/COLOR]</genre>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]HISPAN TV[/B][/COLOR]</title>
-<link>https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w1725900349_b944100_slen.m3u8</link>
-<thumbnail>https://www.parsatv.com/index_files/channels/hispan.png</thumbnail>
-<genre>[COLOR white]Espanha[/COLOR]</genre>
-</item>
-
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]RAI MOVIE[/B][/COLOR]</title>
-<link>https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8</link>
-<thumbnail>https://pbs.twimg.com/profile_images/986620703796551685/iBvojM0X_400x400.jpg</thumbnail>
-<genre>[COLOR white]Itália[/COLOR]</genre>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]MIAMI TV[/B][/COLOR]</title>
-<link>https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w1130231545_b2592000.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/10/Miami_tv.png</thumbnail>
-<genre>[COLOR white]Estados Unidos[/COLOR]</genre>
 </item>
  
 <item>
@@ -193,44 +89,6 @@
 <genre>[COLOR white]Estados Unidos[/COLOR]</genre>
 </item>
  
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]CBS NEWS[/B][/COLOR]</title>
-<link>https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-p.m3u8</link>
-<thumbnail>https://pbs.twimg.com/profile_images/702918449421373440/PNkQhqQa.jpg</thumbnail>
-<genre>[COLOR white]Estados Unidos[/COLOR]</genre>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]3ABN KIDS[/B][/COLOR]</title>
-<link>https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8</link>
-<thumbnail>https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg</thumbnail>
-<genre>[COLOR white]Alemanha[/COLOR]</genre>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]NHK WORLD[/B][/COLOR]</title>
-<link>https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8</link>
-<thumbnail>https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/NHK-Logo-620x360.png</thumbnail>
-<genre>[COLOR white]Japão[/COLOR]</genre>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]RT DOCUMENTARY CHANNEL[/B][/COLOR]</title>
-<link>https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0</link>
-<thumbnail>https://prolecenter.files.wordpress.com/2015/07/rt-logo.png</thumbnail>
-<genre>[COLOR white]Rússia[/COLOR]</genre>
-</item>
-
-
-<item>
-<title>[COLOR red][B] *** [/B][/COLOR][I][B][COLOR blue]CONEXÃO TUBE[/COLOR][/I][/B] [I][B][COLOR lime]SERVIDOR - 1[/COLOR][/I][/B][COLOR red][B] *** [/B][/COLOR]
-</title>
-<link>ignoreme</link>
-<thumbnail>https://i.imgur.com/4Moa4Ah.png</thumbnail>
-<fanart>https://i.imgur.com/XorUul0.jpg</fanart>
-<genre>[I][B][COLOR white]=>TV Online Grátis[/COLOR][/I][/B]</genre>
-</item>
-
 <item>
 <title>[COLOR red][B] ≤≤≤ [/B][/COLOR][COLOR magenta][B]"CANAIS[/B][/COLOR] [COLOR aqua][B]DOCUMENTÁRIOS"[/B][/COLOR][COLOR red][B] ≥≥≥ [/B][/COLOR]</title>
 <link>ignoreme</link>
