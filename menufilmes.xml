@@ -14,7 +14,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES FOGO[/B][/COLOR] - [COLOR YELLOW][B]Marco[/B][/COLOR]</name>
+<name>[COLOR white][B]F I L M E S   F O G O[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/nx8WYiz.png</thumbnail>
 <fanart>https://i.imgur.com/nx8WYiz.png</fanart>
 <link>http://ignorar.com/</link>
@@ -25,7 +25,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]BRAZUCA PLAY LANÇAMENTOS[/B][/COLOR] - [COLOR red][B]Filmes Atualizados[/B][/COLOR]</name>
+<name>[COLOR white][B]B R A Z U C A   P L A Y LANÇAMENTOS[/B][/COLOR] - [COLOR red][B]Filmes Atualizados[/B][/COLOR]</name>
 <thumbnail>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <link>http://ignorar.com/</link>
@@ -80,22 +80,11 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES SRmasazuka[/B][/COLOR] - [COLOR YELLOW][B]Marco[/B][/COLOR]</name>
+<name>[COLOR white][B]F I L M E S   S R m a s a z u k a[/B][/COLOR]</name>
 <thumbnail>http://cdn-fund.fundacaotelefonica.org.br/wp-content/uploads/2015/08/thumbnail-21.png</thumbnail>
 <fanart>http://cdn-fund.fundacaotelefonica.org.br/wp-content/uploads/2015/08/thumbnail-21.png</fanart>
 <link>http://ignorar.com/</link>
 <externallink>https://raw.githubusercontent.com/SRmasazuka/arquivos/master/ult-adicionados</externallink>
-<info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR blue][B]N U N C A[/B][/COLOR]</name>
-<thumbnail>http://cdn-fund.fundacaotelefonica.org.br/wp-content/uploads/2015/08/thumbnail-21.png</thumbnail>
-<fanart>http://cdn-fund.fundacaotelefonica.org.br/wp-content/uploads/2015/08/thumbnail-21.png</fanart>
-<link>http://ignorar.com/</link>
-<externallink>https://raw.githubusercontent.com/nunca1/-/master/filmes/Lan%C3%A7amentos.xml</externallink>
 <info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
 </channel>
 </channels>
