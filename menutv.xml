@@ -12,6 +12,16 @@
 </channel>
 </channe>ls
 
+<channels>
+<channel>
+<name>[COLOR red][B]»» [/B][/COLOR][COLOR beige][B]RDC[/B][/COLOR] [COLOR magenta][B]SERVER[COLOR aquamarine] 0 [/B][/COLOR][COLOR lime][B](ON)[/B][/COLOR] [COLOR red][B][/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/bJx0sJQs/Categorias.png</thumbnail>
+<externallink>https://cld.pt/dl/download/e950d58a-7cdf-4f3e-9c87-5cbe97518473/TV%20RASIL.xml</externallink>
+<fanart>http://www.otvfoco.com.br/wp-content/uploads/2017/04/sbt-redetv-e-record-768x432.png</fanart>
+<info></info>
+</channel>
+</channe>ls
+
 <channel>
 <name>[COLOR lime][B]K O A L A   S E R V I D O R 4[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
@@ -110,19 +120,6 @@
 <info>Esta seleção foi feita e atualizada por mim.</info>
 </channel>
 </channe>ls
-
-
-<channels>
-<channel>
-<name>[COLOR red][B]»» [/B][/COLOR][COLOR beige][B]RDC[/B][/COLOR] [COLOR magenta][B]SERVER[COLOR aquamarine] 0 [/B][/COLOR][COLOR lime][B](ON)[/B][/COLOR] [COLOR red][B][/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/bJx0sJQs/Categorias.png</thumbnail>
-<externallink>https://cld.pt/dl/download/e950d58a-7cdf-4f3e-9c87-5cbe97518473/TV%20RASIL.xml</externallink>
-<fanart>http://www.otvfoco.com.br/wp-content/uploads/2017/04/sbt-redetv-e-record-768x432.png</fanart>
-<info></info>
-</channel>
-
-
-
 
 
 
