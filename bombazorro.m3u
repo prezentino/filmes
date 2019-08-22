@@ -5,14 +5,8 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
 http://tv.factoryiptv.com:80/1/2/36990
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT web
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",FILME MAE E MUITO MAIS
-https://edge32.streamguard.cc/sec/1565316817/33383433fb9859a004480f2c78dd47988b3a5c2335c88f8c/ivs/3f/06/a58a04cc0739/hls/tracks-3,4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",minusculo
-https://edge24.streamguard.cc/sec/1565317407/39323736d2693e8437913de420e9cbdb1c279f0f8d459f75/ivs/a9/db/f0b82c3c1e0c/hls/tracks-2,4/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT web2
 http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1627.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , SBT CONEXÃO TUBE
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w548702998_b216000_sleng.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",RECORD
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="ESPORTES",COMBATE milhano
