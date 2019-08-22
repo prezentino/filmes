@@ -1,23 +1,4 @@
 ﻿#EXTM3U
-<<<<<<< HEAD
-=======
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO SC
-http://dns.clientetv.net:8000/live/frank/12345678/40346.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO
-http://tv.factoryiptv.com:80/1/2/43430
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO RS2
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13481.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO CAXIAS DO SUL TCHE
-http://tv.factoryiptv.com:80/1/2/52566
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO CAXIAS DO SUL TCHE
-http://tv.factoryiptv.com:80/1/2/52567
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO CAXIAS DO SUL TCHE
-http://tv.factoryiptv.com:80/1/2/52568
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS" , GLOBO CONEXÃO TUBE
-https://ricks.azureedge.net/hls1/bobosp.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND CONEXÃO
-https://ricks.azureedge.net/hls1/band.m3u8
->>>>>>> 7e2f81942ee9b66e4d2db45eeb1c4b9651ff7313
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web2
