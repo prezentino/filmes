@@ -2,7 +2,7 @@
 #EXTINF:-1,GLOBO RBS PORTO ALEGRE
 http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13481.m3u8
 #EXTINF:-1,GLOBO RBS PORTO ALEGRE HD *
-http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13480.m3u8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13480.m3u8
 #EXTINF:-1,BAND SP
 http://setv.ma:1925/live/zxc0007/jb5BdtBcxa/13606.m3u8
 #EXTINF:-1,BAND SP HD *
