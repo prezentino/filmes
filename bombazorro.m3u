@@ -138,10 +138,6 @@ http://hvod.imirun.net:8080/Fox-Premium-1-HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais: Filmes e Series" , FOX premium 2
 http://hvod.imirun.net:8080/Fox-Premium-2-HD/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2" tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium.png"group-title="Canais: Filmes e Series",Fox Premium 2
-
-
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes",Fox Sports
 http://hvod.imirun.net:8080/Fox-Sports-HD/index.m3u8
 
@@ -222,7 +218,7 @@ http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
 http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3
-http://srv01.iptvquantum.co:80/murilo/murilo/11590 ''#CONEXAO SERV03''
+http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4
 http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
