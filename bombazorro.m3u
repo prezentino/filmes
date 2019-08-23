@@ -103,8 +103,6 @@ http://playback.imirun.net:8080//DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://logocanais.ddns.net/Logo/DisneyJunior1.png" group-title="Canais: Infantil",Disney Junior
 http://playback.imirun.net:8080//DisneyJunior-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://logocanais.ddns.net/Logo/DisneyXD1.png" group-title="Canais: Infantil",Disney XD
-
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://logocanais.ddns.net/Logo/E!1.png" group-title="Canais: Variedades e Musicas",E! Entertainment Television
 http://playback.imirun.net:8080//E!HD/tracks-v1a1/mono.m3u8
 
