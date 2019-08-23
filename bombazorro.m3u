@@ -1,16 +1,10 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web2
-http://tv.factoryiptv.com:80/1/2/36990
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT web
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",RECORD
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="ESPORTES",COMBATE milhano
-http://b.greenplanet.top:8080/br-sdCombate/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="ESPORTES",COMBATE 2
-https://ricks.azureedge.net/hls1/combate.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV **" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",Record web
 https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8?sts=st=1560978199~exp=1560984799~acl=/*~hmac=e94f4eb9e032adbd4f751e207c593e6e89b2db93770b64077854f7374e5938e3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",REDE TV web
@@ -521,19 +515,10 @@ http://placartv.futeboltv.com:8081/live/7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="" g0roup-title="Esportes",SPORTV 3
 http://placartv.futeboltv.com:8081/live/11/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOPTV Sertaneja" tvg-logo="" group-title="Shows",TOPTV Sertaneja
-http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=1087538700
-#EXTINF:-1 tvg-id="" tvg-name="FESTIVAL SERTANEJO" tvg-logo="" group-title="Shows",FESTIVAL SERTANEJO
-http://tv.factoryiptv.com:80/1/2/39772
-#EXTINF:-1 tvg-id="" tvg-name="JOAO NETO E FREDERICO" tvg-logo="" group-title="Shows",JOAO NETO E FREDERICO
-http://tv.factoryiptv.com:80/1/2/39790
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Shows",GUSTTAVO LIMA
 http://webtvcde.com/Servidor/sh/gl50om.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CABARE EDUARDO COSTA & LEONARDO" tvg-logo="" group-title="Shows",CABARE EDUARDO COSTA & LEONARDO
-http://tv.factoryiptv.com:80/1/2/39768
 #EXTINF:-1 tvg-id="" tvg-name="HENRIQUE E JULIANO" tvg-logo="" group-title="Shows",HENRIQUE E JULIANO
 http://webtvcde.com/Servidor/sh/hejavb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DAVID GUETTA" tvg-logo="" group-title="Shows",DAVID GUETTA
-http://tv.factoryiptv.com:80/1/2/39785
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Shows",CRISTIANO ARAUJO
 http://webtvcde.com/Servidor/sh/caitca.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="FILMES E SERIES",Cine Sky
@@ -548,22 +533,14 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA 24h" tvg-logo="" group-title="24Hrs Infantil",A PANTERA COR DE ROSA
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A pantera cor de Rosa" tvg-logo="" group-title="24Hrs Infantil",A Pantera Cor de Rosa
-http://tv.factoryiptv.com:80/1/2/39576
 #EXTINF:-1 tvg-id="" tvg-name="APENAS UM SHOW 24h" tvg-logo="" group-title="24Hrs Infantil",APENAS UM SHOW
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13098.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clarencio [24h]" tvg-logo="https://imgur.com/0tK8520.jpg" group-title="24Hrs Infantil",Clarencio [24h]
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amigaozao" tvg-logo=""24Hrs Infantil",AMIGÃOZAO [24h]
-http://tv.factoryiptv.com:80/1/2/40786
-#EXTINF:-1 tvg-id="" tvg-name="A TURMA DA MONICA" tvg-logo="" group-title="24Hrs Infantil",A TURMA DA MONICA [24h]
-http://tv.factoryiptv.com:80/1/2/39571
 #EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://imgur.com/TIv2l6x.jpg" group-title="24Hrs Infantil",3 Palavrinhas
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12268.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="https://imgur.com/mpiy6HX.jpg" group-title="24Hrs Infantil",Bob Zoom
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="https://imgur.com/mpiy6HX.jpg" group-title="24Hrs Infantil",Bob Zoom2
-Bob Zoom [24h]:http://tv.factoryiptv.com:80/1/2/40745
 #EXTINF:-1 tvg-id="" tvg-name="Contos Assustadores da Masha" tvg-logo="https://imgur.com/aJQoTqc.jpg" group-title="24Hrs Infantil",Contos Assustadores da Masha
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/15375.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Contos da Masha" tvg-logo="https://imgur.com/w6Lai14.jpg" group-title="24Hrs Infantil",Contos da Masha
@@ -572,8 +549,6 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/15374.m3u8
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12502.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Daniel Tigre" tvg-logo="https://imgur.com/hwB35Oi.jpg" group-title="24Hrs Infantil",Daniel Tigre
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PICA-PAU" tvg-logo="" group-title="24Hrs Infantil",PICA-PAU [24h]
-http://tv.factoryiptv.com:80/1/2/53025
 #EXTINF:-1 tvg-id="" tvg-name="Pocoyo 1º temporada" tvg-logo="https://imgur.com/9By3rAE.jpg" group-title="24Hrs Infantil",Pocoyo 1º temporada
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12270.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pocoyo 2º temporada" tvg-logo="https://imgur.com/9By3rAE.jpg" group-title="24Hrs Infantil",Pocoyo 2º temporada
@@ -588,8 +563,6 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12505.m3u8
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12437.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Masha e o Urso" tvg-logo="https://imgur.com/tgmBvoy.jpg" group-title="24Hrs Infantil",Masha e o Urso
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/11991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O incrivel Mundo de Gumbal"" group-title="24Hrs Infantil",O Incrivel Mundo de Gumball [24h]
-http://tv.factoryiptv.com:80/1/2/39774
 #EXTINF:-1 tvg-id="" tvg-name="O Show Da Luna" tvg-logo="https://imgur.com/PMFTsEq.jpg" group-title="24Hrs Infantil",O Show Da Luna
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/11988.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canções Infantis" tvg-logo="https://imgur.com/ShcunPs.jpg" group-title="24Hrs Infantil",Canções Infantis
@@ -606,8 +579,6 @@ http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/11990.m3u8
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13444.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Casa do Mickey T1 T2 T3" tvg-logo="https://imgur.com/D1p67OG.jpg" group-title="24Hrs Infantil",A Casa do Mickey T1 T2 T3
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/21247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZE BUSCAPE 24h" tvg-logo="" group-title="24Hrs Infantil",ZE BUSCAPE 24h
-http://tv.factoryiptv.com:80/1/2/58944
 #EXTINF:-1 tvg-id="" tvg-name="ZORRA TOTAL 24h" tvg-logo="" group-title="24Hrs Infantil",ZORRA TOTAL 24h
 http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13042.m3u8
 
