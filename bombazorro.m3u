@@ -16,7 +16,7 @@ http://playback.imirun.net:8080/CartoonNetwork-HD/index.m3u8
 #EXTINF:-1,REDE RECORD
 http://b.greenplanet.top:8080/br-8069Record/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTINF:-1,COMEDY CENTRAL
-https://roda1.azureedge.net/hls1/comedycentral.m3u8
+http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Canais: Filmes e Series",A&E
 http://hvod.imirun.net:8080/A&E-HD/index.m3u8
