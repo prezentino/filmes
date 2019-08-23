@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zTM4P7A9vKE/Wo3o0_pT_cI/AAAAAAABEio/IhczRMkrQyUkjMX7eBBINqyJq5lntGt-QCLcBGAs/s1600/Mais%2BGlobosat.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube MAIS GLOBOSAT
 https://cdnfe1.azureedge.net/hls1/bobosp.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zTM4P7A9vKE/Wo3o0_pT_cI/AAAAAAABEio/IhczRMkrQyUkjMX7eBBINqyJq5lntGt-QCLcBGAs/s1600/Mais%2BGlobosat.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube MAIS GLOBOSAT
+https%3A%2F%2Fcdnfe1.azureedge.net%2Fhls1%2Fboborj.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web2
