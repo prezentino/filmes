@@ -218,7 +218,7 @@ http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
 http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3
-http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
+http://srv01.iptvquantum.co:80/murilo/murilo/11590 ''#CONEXAO SERV03''
 
 #EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4
 http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
@@ -227,8 +227,7 @@ http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
 http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6
-http://hvod.imirun.net:8080/Premiere-6-HD/index.m3
-
+http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
 
 #EXTINF:0 tvg-logo=""group-title="Canais:Abertos", RECORD
 http://hvod.imirun.net:8080/RecordSPHD/index.m3u8
