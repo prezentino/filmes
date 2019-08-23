@@ -52,9 +52,6 @@ http://stmv2.srvstm.com/16692/16692/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony" tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Filmes e Series",Canal Sony
 http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
 
-#EXTINF:0 type="favorites" channelId="-1" tvg-logo="" group-title="Filmes e Series", CLASSIQUE TV
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
-
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="Canais: Variedades e Musicas",BIS
 http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
 
