@@ -32,7 +32,7 @@ http://playback.imirun.net:8080//AnimalPlanet-HD/tracks-v1a1/mono.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series",AXN
-http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59453
+http://hvod.imirun.net:8080/AXN-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="AgroBrasil TV" tvg-name="AgroBrasil TV" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="CANAIS DIGITAL", AgroBrasil TV
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?CANALANDRONALTAS
@@ -64,16 +64,6 @@ http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="Canais: Variedades e Musicas",BIS
 http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-16.png" group-title="Canais: Variedades e Musicas",Brasil
-http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59446
-
-
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Nova" tvg-logo="" group-title="Canais: Esportes",CANAL NOVA
-http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59444
-
-#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="" group-title="Canais: Variedades Rural",CANAL RURAL
-http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59447
-
 #EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil",Cartoon
 http://playback.imirun.net:8080//CartoonNetwork-HD/index.m3u8
 
@@ -85,9 +75,6 @@ http://hvod.imirun.net:8080/Combate-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://logocanais.ddns.net/Logo/ComedyCentral1.png" group-title="Canais: Variedades e Musicas",Comedy Central
 http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Curta" tvg-name="Curta" tvg-logo="http://i.imgur.com/GYOaiO7.png" group-title="Canais: Variedades e Musicas",Curta
-http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59436
 
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="http://logocanais.ddns.net/Logo/tvcultura1.png" group-title="Canais: Abertos",TV Cultura
 http://200.189.113.201/hls/tve.m3u8
