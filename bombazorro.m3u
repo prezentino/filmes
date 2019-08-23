@@ -22,9 +22,6 @@ http://hvod.imirun.net:8080/A&E-HD/index.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series",AMC
 http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series",AMC 2
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18990.m3u8
-
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://logocanais.ddns.net/Logo/AnimalPlanet.png" group-title="Canais: Documentarios",Animal Planet
 http://playback.imirun.net:8080//AnimalPlanet-HD/tracks-v1a1/mono.m3u8
 
@@ -45,9 +42,6 @@ http://hvod.imirun.net:8080/Band-News-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes",Band Sports
 http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="BRASIL KIDS " tvg-name="BRASIL KIDS " tvg-logo="https://pbs.twimg.com/profile_images/664408682705235968/MESMw-5B_400x400.jpg" group-title="Canais: Infantil",BRASIL KIDS
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19002.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="Canais: Infantil",Boomerang
 http://playback.imirun.net:8080//Boomerang-HD/index.m3u8
@@ -133,12 +127,6 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chun
 #EXTINF:-1 tvg-id="" tvg-name="ESPN " tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN +
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18963.m3u8
-
-#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://logocanais.ddns.net/Logo/fish.png" group-title="Canais: Esportes",Fish TV
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18960.m3u8
-
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network " tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="Canais: Variedades e Musicas",Food Network
 http://playback.imirun.net:8080//FoodNetworkHD/tracks-v1a1/mono.m3u8
 
@@ -148,12 +136,6 @@ http://hvod.imirun.net:8080/FOX-HD/index.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://logocanais.ddns.net/Logo/Fox.png" group-title="Canais: Filmes e Series",FOX CHANNEL
 
 http://hvod.imirun.net:8080/FOX-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://logocanais.ddns.net/Logo/FoxLife1.png" group-title="Canais: Variedades e Musicas",Fox Life
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18961.m3u8
-
-#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life 2" tvg-logo="http://logocanais.ddns.net/Logo/FoxLife1.png" group-title="Canais: Variedades e Musicas",Fox Life 2
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18958.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Premium " tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium22.png" group-title="Canais: Filmes e Series",Fox Premium 
 http://hvod.imirun.net:8080/Fox-Premium-1-HD/index.m3u8
@@ -210,37 +192,14 @@ http://hvod.imirun.net:8080/HBO-HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais: Filmes e Series" , HBO 2
 http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo=""group-title="Canais: Filmes e Series",HBO +
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18945.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="Canais: Filmes e Series",HBO PLUS
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18944.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="Canais: Filmes e Series",HBO SIGNATURE
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18943.m3u8
-
-
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://logocanais.ddns.net/Logo/Lifetime1.png" group-title="Canais: Variedades e Músicas",Lifetime
 http://playback.imirun.net:8080//Lifetime-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="",MAIS GLOBOSAT
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18880.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="",MAX 
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18941.m3u8
 
 #EXTINF:0 tvg-logo=""group-title="",MAX PRIME
 http://playback.imirun.net:8080//MaxPrime*eHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo=""group-title="",MAX PRIME E
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18939.m3u8
-
 #EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP" tvg-logo="http://logocanais.ddns.net/Logo/MaxUP1.png" group-title="Canais: Filmes e Series",MAX UP
 http://playback.imirun.net:8080//MaxUpHD/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:0 tvg-logo=""group-title="",MEGA PIX
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18937.m3u8
 
 #EXTINF:0 tvg-logo=""group-title="",MTV
 http://playback.imirun.net:8080//MTVHD/tracks-v1a1/mono.m3u8
@@ -250,46 +209,17 @@ http://playback.imirun.net:8080//MTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=""group-title="Canais:Variedades e Musicas",MULT SHOW
 http://playback.imirun.net:8080//MultishowHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo=""group-title="", MUSIC BOX BRAZIL
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19005.m3u8
-
-
-#EXTINF:0 tvg-logo=""group-title="", NAT GEO
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18934.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , NATIONAL GEOGRAPHIC 
 http://hvod.imirun.net:8080/National-Geographic-HD/index.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="", NAT GEO KIDS
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18933.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="", NAT GEO KIDS 2
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19004.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAt GEO WILD 
 http://playback.imirun.net:8080//NatGeoWild-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo=""group-title="",NICK JR
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18930.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="",NICK & LODEON
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18929.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="",NOVA TEMPO
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18928.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , OFF 
 http://playback.imirun.net:8080//OFF/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:0 type="stream" channelId="1719" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/250px-Paramount.png"group-title="TV FILMES", PARAMOUNT CHANNEL
 http://paramount.live.flumotion.com/live/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="",PFC
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18914.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="",PLAY REPRISE
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18926.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes
 https://ricks.azureedge.net/hls1/premiereclubes.m3u8
@@ -310,26 +240,17 @@ http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
 http://hvod.imirun.net:8080/Premiere-6-HD/index.m3
 
 
-#EXTINF:0 tvg-logo=""group-title="",  POLISHOP
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18994.m3u8
-
 #EXTINF:0 tvg-logo=""group-title="Canais:Abertos", RECORD
 http://hvod.imirun.net:8080/RecordSPHD/index.m3u8
 
 #EXTINF:0 tvg-logo=""group-title="Canais:Abertos", RECORD NEWS
 http://hvod.imirun.net:8080/Record-News-HD/index.m3u8
 
-#EXTINF:0 tvg-logo=""group-title="", REDE BRASIL
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18912.m3u8
-
 #EXTINF:0 type="stream" channelId="2435" tvg-logo="http://goo.gl/QAsaU6"group-title="TV ABERTA", REDETV!
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w73731525.m3u8
 
 #EXTINF:0group-title="EVANGÉLICOS",REDE MÃO AMIGA
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="", RTB!
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18999.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="Canais Abertos",SBT HD
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
@@ -382,9 +303,6 @@ http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais: Filmes e Series",Telecine Touch
 http://playback.imirun.net:8080//TelecineTouch/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo=""group-title="", TERRA VIVA
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19000.m3u8
-
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://logocanais.ddns.net/Logo/TLC1.png" group-title="Canais: Variedades e Musicas",TLC
 http://playback.imirun.net:8080//TLC/tracks-v1a1/mono.m3u8
 
@@ -393,12 +311,6 @@ http://hvod.imirun.net:8080/TNT-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TCM
 http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://logocanais.ddns.net/Logo/tooncast1.png" group-title="Canais: Infantil",Tooncast
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18896.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="", TRUTV
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18895.m3u8
 
 #EXTINF:-1 tvg-id="Aparecida" tvg-name="Aparecida" tvg-logo="http://logocanais.ddns.net/Logo/Aparecida1.png" group-title="Canais: Religioso", TV Aparecida
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
@@ -411,9 +323,6 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:0tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/365defd359f0551f8ee7f7a21da916c2.png" group-title="TV FILMES",TV BOA ESPERANÇA
 http://stmv2.euroti.com.br:1935/16692/16692/live.m3u8
 
-
-#EXTINF:0 type="stream" channelId="2569" tvg-logo="http://goo.gl/64fVgQ"group-title="TV ABERTA", TV ESCOLA
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18894.m3u8
 
 #EXTINF:0 tvg-logo=""group-title="", TV ESCOLA
 https://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b270336.m3u8
