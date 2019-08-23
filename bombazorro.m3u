@@ -13,8 +13,6 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK2
 http://playback.imirun.net:8080/CartoonNetwork-HD/index.m3u8
-#EXTINF:-1,REDE RECORD
-http://b.greenplanet.top:8080/br-8069Record/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTINF:-1,COMEDY CENTRAL
 http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
 
