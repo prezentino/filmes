@@ -1,15 +1,10 @@
 ﻿#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/globo-ao-vivo.png" group-title="ABERTOS",ConexãoTube GLOBO
-http://hvod.imirun.net:8080/GloboSPHD23/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web2
 http://tv.factoryiptv.com:80/1/2/36990
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT web
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT web2
-http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1627.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",RECORD
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="ESPORTES",COMBATE milhano
@@ -22,9 +17,7 @@ https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",REDETV web2
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",REDETV web3
-http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1630.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK2
+#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK2
 http://playback.imirun.net:8080/CartoonNetwork-HD/index.m3u8
 #EXTINF:-1,REDE RECORD
 http://b.greenplanet.top:8080/br-8069Record/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
@@ -665,23 +658,14 @@ http://178.132.6.61:8082/TV3170
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , CANAL BRASIL *
 http://177.54.158.18:8082/TV3170
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CHEF TV ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1447
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , CINEMAX ♣
 http://backup.greenplanet.top:8080/br-8044Cinemax/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , CARTON NETWORK @ 
 http://playback.imirun.net:8080/CartoonNetwork-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CARTON NETWORK ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1448
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMBATE @
 http://hvod.imirun.net:8080/Combate-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMBATE ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1443
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMEDY CENTRAL ♣
 http://backup.greenplanet.top:8080/br-8074ComedyCentral/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
@@ -707,12 +691,6 @@ http://backup.greenplanet.top:8080/br-18094DiscKi/mpegts?token=planet_190521YttI
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY KIDS 02
 http://178.132.6.61:8082/TV3874
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY XD ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1429
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY JR ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1430
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY CHANNEL 
 http://178.132.6.61:8082/TV1469 
 
@@ -728,14 +706,10 @@ http://178.132.6.61:8082/TV3168
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY TURBO
 http://178.132.6.61:8082/TV3873
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY THEATHER ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1473
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY SCIENCE
 http://177.54.158.18:8082/TV3122 
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN EXTRA ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1425 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN BRASIL @
 http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
@@ -773,9 +747,6 @@ http://178.132.6.61:8082/TV3749
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX LIFE @
 http://hvod.imirun.net:8080/Lifetime-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX LIFE ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1420
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX @
 http://hvod.imirun.net:8080/FOX-HD/index.m3u8
 
@@ -785,14 +756,8 @@ http://177.54.158.18:8082/TV3150
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX 01
 http://178.132.6.61:8082/TV3150
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOOD ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1584
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , FILM & ART
 http://177.54.158.18:8082/TV3117
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FISH TV ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1423
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , FX @
 http://hvod.imirun.net:8080/FX-HD/index.m3u8
@@ -833,13 +798,6 @@ http://playback.imirun.net:8080/Globo-News-HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO NEWS *
 http://177.54.158.18:8082/TV3196
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GNT ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1589
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBINHO ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1590
-
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOOB @
 http://hvod.imirun.net:8080/Gloob-HD/index.m3u8
 
@@ -858,12 +816,6 @@ http://177.54.158.18:8082/TV3109
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO SIGNATURE 01
 http://178.132.6.61:8082/TV3109
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO PLUS ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1585
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  HBO FAMILY ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1586
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO @
 http://hvod.imirun.net:8080/HBO-HD/index.m3u8
 
@@ -879,12 +831,6 @@ http://177.54.158.18:8082/TV3171
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , History  01
 http://178.132.6.61:8082/TV3171
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MAX PRIME ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/3148
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MAX ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1577
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , LIFE TIME *
 http://177.54.158.18:8082/TV3178
 
@@ -893,9 +839,6 @@ http://178.132.6.61:8082/TV3178
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , ID 
 http://178.132.6.61:8082/TV3877
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,NAT GEO KIDS ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1570
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  NAT GEO 
 http://178.132.6.61:8082/TV1475 
@@ -908,15 +851,6 @@ http://177.54.158.18:8082/TV3134
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , MTV
 http://177.54.158.18:8082/TV3160
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MEGA PIX ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1574
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NICKELODEON ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1565
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NICK JR
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1566
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  OFF
 http://177.54.158.18:8082/TV3131
@@ -948,27 +882,6 @@ http://177.54.158.18:8082/TV3105
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 05 
 http://178.132.6.61:8082/TV3105
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 01 ? 
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1561 
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 03 ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1560
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER CLUBES ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1638
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 9 ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1558
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 7 ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1556
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 6 ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1640
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 8 ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1639
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , PARAMOUNT 01
 http://178.132.6.61:8082/TV3130
 
@@ -987,17 +900,11 @@ http://177.54.158.18:8082/TV3217
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE TV 01
 http://178.132.6.61:8082/TV3217
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE BRASIL ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1469
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , PRIME BOX BRASIL
 http://178.132.6.61:8082/TV3767
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RATIBUM
 http://178.132.6.61:8082/TV3175
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RECORD NEWS ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1633
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , RECORD *
 http://177.54.158.18:8082/TV3160
@@ -1005,17 +912,8 @@ http://177.54.158.18:8082/TV3160
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , RECORD 02
 http://178.132.6.61:8082/TV3110
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RIT
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1628
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV 3 ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1623
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SPORTV *
 http://177.54.158.18:8082/TV3102
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SPORTV 2
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1624
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPACE *
 http://177.54.158.18:8082/TV3174
@@ -1041,9 +939,6 @@ http://178.132.6.61:8082/TV3173
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , SYFY * 
 http://177.54.158.18:8082/TV3173
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  STUDIO UNIVERSAL ? 
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1622
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , TCM
 http://178.132.6.61:8082/TV3856
 
@@ -1059,9 +954,6 @@ http://177.54.158.18:8082/TV3161
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE FUN 02
 http://178.132.6.61:8082/TV3161
  
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TOON CAST ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1609
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , TNT SERIES  JÁ
 http://178.132.6.61:8082/TV3859
 
@@ -1107,32 +999,12 @@ http://177.54.158.18:8082/TV3151
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TRAVEL BOX BRASIL
 http://178.132.6.61:8082/TV3770
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TRUE TV ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1607
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TV JUSTIÇA 
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1600
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV ESCOLA ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1602
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TV CULTURA ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1604
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV CAMERA
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1603
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV BRASIL 01 
 http://178.132.6.61:8082/TV3170
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV BRASIL * 
 http://177.54.158.18:8082/TV3170
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV APARECIDA ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1606
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , VH1  ?
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1694
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  UNIVESP SÃO PAULO
 http://178.132.6.61:8082/TV3776
@@ -1144,8 +1016,6 @@ http://177.54.158.18:8082/TV3204
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  UNIVERSAL 02 
 http://178.132.6.61:8082/TV3204
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV SENADO ? 
-http://mcny.allmedia4.tv/bNaF33ue/AzApromo/1697
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  WOOHOO *
 http://177.54.158.18:8082/TV3123
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  WOOHOO 02
