@@ -31,211 +31,482 @@ http://b.greenplanet.top:8080/br-8069Record/mpegts?token=planet_190521YttIo238HH
 #EXTINF:-1,COMEDY CENTRAL
 https://roda1.azureedge.net/hls1/comedycentral.m3u8
 
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/globo-ao-vivo.png" group-title="ABERTOS",ConexãoTube GLOBO
-https://ricks.azureedge.net/hls1/bobosp.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-sbt-ao-vivo-online.png" group-title="ABERTOS",ConexãoTube SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w548702998_b216000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/static.otvfoco.com.br/2017/05/record-tv-jornalismo-1-e1504109982449.jpg" group-title="ABERTOS",ConexãoTube RECORD TV
-https://ricks.azureedge.net/hls1/recordsp.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-rede-tv-ao-vivo-online-249x140.png" group-title="ABERTOS",ConexãoTube REDE TV!
-https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1117559205.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-band-ao-vivo-online-249x140.png" group-title="ABERTOS",ConexãoTube BAND
-https://ricks.azureedge.net/hls1/band.m3u8
-#EXTINF:-1 tvg-logo="https://www.rs21.com.br/wp-content/uploads/2016/01/logo-rede-seculo-21.jpg" group-title="RELIGIOSOS",ConexãoTube REDE SÉCULO 21
-https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1038245040831782917/qA9g_HsS_400x400.jpg" group-title="RELIGIOSOS",ConexãoTube TV APARECIDA
-https://caikron.com.br:8082/tvap/tvap/tvap/720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/animalplanet.jpg" group-title="DOCUMENTARIOS",ConexãoTube ANIMAL PLANET
-https://ricks.azureedge.net/hls1/animalplanet.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/discovery.jpg" group-title="DOCUMENTARIOS",ConexãoTube DISCOVERY CHANNEL
-https://ricks.azureedge.net/hls1/discovery.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoverycience.jpg" group-title="DOCUMENTARIOS",ConexãoTube DISCOVERY SCIENCE
-https://ricks.azureedge.net/hls1/discoverysience.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoveryworld.jpg" group-title="DOCUMENTARIOS",ConexãoTube DISCOVERY WORD
-https://ricks.azureedge.net/hls1/discoveryworld.m3u8
-#EXTINF:-1 tvg-logo=https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoverycivilization.jpg"" group-title="DOCUMENTARIOS",ConexãoTube DISCOVERY CIVILIZATION
-https://ricks.azureedge.net/hls1/discoverycivilization.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/investigacaodiscovery.jpg" group-title="DOCUMENTARIOS",ConexãoTube INVESTIGAÇÃO DISCOVERY
-https://ricks.azureedge.net/hls1/investigacaodiscovery.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoveryturbo.jpg" group-title="DOCUMENTARIOS",ConexãoTube DISCOVERY TURBO
-https://ricks.azureedge.net/hls1/discoveryturbo.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/history.jpg" group-title="DOCUMENTARIOS",ConexãoTube HISTORY
-https://ricks.azureedge.net/hls1/history.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/h2.jpg" group-title="DOCUMENTARIOS",ConexãoTube H2
-https://ricks.azureedge.net/hls1/history2.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/natgeo.jpg" group-title="DOCUMENTARIOS",ConexãoTube NAT GEO
-https://ricks.azureedge.net/hls1/natgeo.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/natgeowild.jpg" group-title="DOCUMENTARIOS",ConexãoTube NAT GEO WILD
-https://ricks.azureedge.net/hls1/natgeowild.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/6xy1NxyN7eEc6CDHCLYwkuppfjUJ5of2eepIxZIkawcVP9Dpz01UA372BHlrI2fPMLQ" group-title="ESPORTES",ConexãoTube BAND SPORTS
-https://ricks.azureedge.net/hls1/bandsports.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/combate.jpg" group-title="ESPORTES",ConexãoTube COMBATE
-https://ricks.azureedge.net/hls1/combate.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/canaloff.jpg" group-title="ESPORTES",ConexãoTube CANAL OFF
-https://ricks.azureedge.net/hls1/off.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-espn-brasil-ao-vivo-online-1-1.png" group-title="ESPORTES",ConexãoTube ESPN BRASIL
-https://ricks.azureedge.net/hls1/espnbrasil.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/espn2.jpg" group-title="ESPORTES",ConexãoTube ESPN 2
-https://ricks.azureedge.net/hls1/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/espnextra.jpg" group-title="ESPORTES",ConexãoTube ESPN EXTRA
-https://ricks.azureedge.net/hls1/espnextra.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/espn.jpg" group-title="ESPORTES",ConexãoTube ESPN
-https://ricks.azureedge.net/hls1/espn.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/foxsports.jpg" group-title="",ConexãoTube FOX SPORTS
-https://ricks.azureedge.net/hls1/foxsports1.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/foxsports2.jpg" group-title="ESPORTES",ConexãoTube FOX SPORTS 2
-https://ricks.azureedge.net/hls1/foxsports2.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/sportv.jpg" group-title="ESPORTES",ConexãoTube SPORTV
-https://ricks.azureedge.net/hls1/sportv1.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/sportv2.jpg" group-title="ESPORTES",ConexãoTube SPORTV 2
-https://ricks.azureedge.net/hls1/sportv2.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-sportv3-ao-vivo-online.png" group-title="ESPORTES",ConexãoTube SPORTV 3
-https://ricks.azureedge.net/hls1/sportv3.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/premiere.jpg" group-title="ESPORTES",ConexãoTube PREMIERE CLUBE
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Canais: Filmes e Series",A&E
+http://hvod.imirun.net:8080/A&E-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series",AMC
+http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series",AMC 2
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18990.m3u8
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://logocanais.ddns.net/Logo/AnimalPlanet.png" group-title="Canais: Documentarios",Animal Planet
+http://playback.imirun.net:8080//AnimalPlanet-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.playhdtv.pw/img/allsports.png"group-title=" Esportes", ALL SPORTS HD (DF)
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series",AXN
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59453
+
+#EXTINF:-1 tvg-id="AgroBrasil TV" tvg-name="AgroBrasil TV" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="CANAIS DIGITAL", AgroBrasil TV
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="Canais: Abertos",Band
+http://ev.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="Canais: Noticias",Band News
+http://hvod.imirun.net:8080/Band-News-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes",Band Sports
+http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Baby TV " tvg-name="Baby TV " tvg-logo="http://logocanais.ddns.net/Logo/BabyTV.png" group-title="Canais: Infantil",Baby TV
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59452
+
+#EXTINF:-1 tvg-id="BRASIL KIDS " tvg-name="BRASIL KIDS " tvg-logo="https://pbs.twimg.com/profile_images/664408682705235968/MESMw-5B_400x400.jpg" group-title="Canais: Infantil",BRASIL KIDS
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19002.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="Canais: Infantil",Boomerang
+http://playback.imirun.net:8080//Boomerang-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="Canais: Documentarios",BIOSFERA
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony" tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Filmes e Series",Canal Sony
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59442
+
+#EXTINF:0 type="favorites" channelId="-1" tvg-logo="" group-title="Filmes e Series", CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="Canais: Variedades e Musicas",BIS
+http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-16.png" group-title="Canais: Variedades e Musicas",Brasil
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59446
+
+
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Nova" tvg-logo="" group-title="Canais: Esportes",CANAL NOVA
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59444
+
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="" group-title="Canais: Variedades Rural",CANAL RURAL
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59447
+
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil",Cartoon
+http://playback.imirun.net:8080//CartoonNetwork-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://logocanais.ddns.net/Logo/Cinemax1.png" group-title="Canais: Filmes e Series",Cinemax
+http://playback.imirun.net:8080//Cinemax-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate
+http://hvod.imirun.net:8080/Combate-HD/index.m3u8     
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://logocanais.ddns.net/Logo/ComedyCentral1.png" group-title="Canais: Variedades e Musicas",Comedy Central
+http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Curta" tvg-name="Curta" tvg-logo="http://i.imgur.com/GYOaiO7.png" group-title="Canais: Variedades e Musicas",Curta
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59436
+
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="http://logocanais.ddns.net/Logo/tvcultura1.png" group-title="Canais: Abertos",TV Cultura
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:0 type="stream" channelId="352" tvg-logo="http://www.digicelplay.com.pg/Images/Assets/7269/1/"group-title="Documentarios", DWTV HD (INGLES)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryChannel1.png" group-title="Canais: Documentarios",Discovery Channel
+http://playback.imirun.net:8080//DiscoveryChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Home Health" tvg-name="Discovery Home Health" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryH&H1.png" group-title="Canais: Documentarios",Discovery Home Health
+http://playback.imirun.net:8080//DiscoveryH&H-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" tvg-logo="https://pt.wikipedia.org/wiki/Investigação_Discovery#/media/Ficheiro:Investigação_Discovery_1.png" group-title="Canais: Documentarios",Discovery ID
+http://playback.imirun.net:8080//InvestigacaoDiscoveryHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil",Discovery Kids
+http://playback.imirun.net:8080//DiscoveryKids-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://logocanais.ddns.net/Logo/DiscoverySCience1.png" group-title="Canais: Documentarios",Discovery Science
+http://playback.imirun.net:8080//DiscoveryScienceHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater " tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTheater1.png" group-title="Canais: Documentarios",Discovery Theater
+http://playback.imirun.net:8080//DiscoveryTheater-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="Canais: Documentarios",Discovery Turbo
+http://playback.imirun.net:8080//DiscoveryTurbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World " tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="Canais: Documentarios",Discovery World
+http://playback.imirun.net:8080//DiscoveryWorldHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="Canais: Infantil",Disney Channel
+http://playback.imirun.net:8080//DiscoveryChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://logocanais.ddns.net/Logo/DisneyJunior1.png" group-title="Canais: Infantil",Disney Junior
+http://playback.imirun.net:8080//DisneyJunior-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://logocanais.ddns.net/Logo/DisneyXD1.png" group-title="Canais: Infantil",Disney XD
+
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://logocanais.ddns.net/Logo/E!1.png" group-title="Canais: Variedades e Musicas",E! Entertainment Television
+http://playback.imirun.net:8080//E!HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes",ESPN Brasil
+http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN [2]" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN [2]
+http://hvod.imirun.net:8080/ESPN+/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN " tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes",ESPN 
+http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://steve-lovelace.com/wordpress/wp-content/uploads/2013/07/catalan-logo.png"group-title="Esportes Internacionais", CATALAN HD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN " tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN +
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18963.m3u8
+
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://logocanais.ddns.net/Logo/fish.png" group-title="Canais: Esportes",Fish TV
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18960.m3u8
+
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network " tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="Canais: Variedades e Musicas",Food Network
+http://playback.imirun.net:8080//FoodNetworkHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais: Filmes e Series" ,  FOX 
+http://hvod.imirun.net:8080/FOX-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://logocanais.ddns.net/Logo/Fox.png" group-title="Canais: Filmes e Series",FOX CHANNEL
+
+http://hvod.imirun.net:8080/FOX-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://logocanais.ddns.net/Logo/FoxLife1.png" group-title="Canais: Variedades e Musicas",Fox Life
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18961.m3u8
+
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life 2" tvg-logo="http://logocanais.ddns.net/Logo/FoxLife1.png" group-title="Canais: Variedades e Musicas",Fox Life 2
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18958.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium " tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium22.png" group-title="Canais: Filmes e Series",Fox Premium 
+http://hvod.imirun.net:8080/Fox-Premium-1-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais: Filmes e Series" , FOX premium 2
+http://hvod.imirun.net:8080/Fox-Premium-2-HD/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2" tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium.png"group-title="Canais: Filmes e Series",Fox Premium 2
+
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes",Fox Sports
+http://hvod.imirun.net:8080/Fox-Sports-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes",Fox Sports 2
+http://hvod.imirun.net:8080/Fox-Sports-2-HD/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2454" tvg-logo="http://goo.gl/KK9jTv"group-title="Tv Aberta", CANAL FUTURA 
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais:Filmes e Series",FX
+http://hvod.imirun.net:8080/FX-HD/index.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais: Abertos",TV GAZETA
+http://playback.imirun.net:8080//TVGazeta/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais:Abertos",GLOBO NEWS
+http://playback.imirun.net:8080/Globo-News-HD/index.m3u8
+
+#EXTINF:0 tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png"group-title="Canais:Abertos",GLOBO
+http://hvod.imirun.net:8080/GloboSPHD23/index.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais: Infantil", GLOOB
+http://hvod.imirun.net:8080/Gloob-HD/index.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais: Filmes e Series",GNT
+http://playback.imirun.net:8080//GNT-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 " tvg-logo="http://logocanais.ddns.net/Logo/H21.png" group-title="Canais: Documentarios",H2
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:-1 tvg-id="The History Channel" tvg-name="The History Channel " tvg-logo="http://logocanais.ddns.net/Logo/History1.png" group-title="Canais: Documentarios",The History Channel 
+http://playback.imirun.net:8080//HistoryChannel_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 2" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series",HBO 2
+http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series",HBO Family
+http://playback.imirun.net:8080//HBO-Family-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series",HBO
+http://hvod.imirun.net:8080/HBO-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais: Filmes e Series" , HBO 2
+http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais: Filmes e Series",HBO +
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18945.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais: Filmes e Series",HBO PLUS
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18944.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais: Filmes e Series",HBO SIGNATURE
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18943.m3u8
+
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://logocanais.ddns.net/Logo/Lifetime1.png" group-title="Canais: Variedades e Músicas",Lifetime
+http://playback.imirun.net:8080//Lifetime-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="",MAIS GLOBOSAT
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18880.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="",MAX 
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18941.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="",MAX PRIME
+http://playback.imirun.net:8080//MaxPrime*eHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="",MAX PRIME E
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18939.m3u8
+
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP" tvg-logo="http://logocanais.ddns.net/Logo/MaxUP1.png" group-title="Canais: Filmes e Series",MAX UP
+http://playback.imirun.net:8080//MaxUpHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-logo=""group-title="",MEGA PIX
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18937.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="",MTV
+http://playback.imirun.net:8080//MTVHD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:0 tvg-logo=""group-title="Canais:Variedades e Musicas",MULT SHOW
+http://playback.imirun.net:8080//MultishowHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="", MUSIC BOX BRAZIL
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19005.m3u8
+
+
+#EXTINF:0 tvg-logo=""group-title="", NAT GEO
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18934.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NATIONAL GEOGRAPHIC 
+http://hvod.imirun.net:8080/National-Geographic-HD/index.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="", NAT GEO KIDS
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18933.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="", NAT GEO KIDS 2
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19004.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAt GEO WILD 
+http://playback.imirun.net:8080//NatGeoWild-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="",NICK JR
+Jhttp://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18930.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="",NICK & LODEON
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18929.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="",NOVA TEMPO
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18928.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , OFF 
+http://playback.imirun.net:8080//OFF/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 type="stream" channelId="1719" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/250px-Paramount.png"group-title="TV FILMES", PARAMOUNT CHANNEL
+http://paramount.live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="",PFC
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18914.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="",PLAY REPRISE
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18926.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes
 https://ricks.azureedge.net/hls1/premiereclubes.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",ConexãoTube PREMIERE 2
-https://ricks.azureedge.net/hls1/premiere2.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo.png" group-title="ESPORTES",ConexãoTube PREMIERE 3
-https://ricks.azureedge.net/hls1/premiere3.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-4.png" group-title="ESPORTES",ConexãoTube PREMIERE 4
-https://ricks.azureedge.net/hls1/premiere4.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/premiere.jpg" group-title="ESPORTES",ConexãoTube PREMIERE 5
-https://ricks.azureedge.net/hls1/premiere5.m3u8
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png" group-title="ESPORTES",ConexãoTube PREMIERE 6
-https://ricks.azureedge.net/hls1/premiere6.m3u8
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere7.jpg" group-title="ESPORTES",ConexãoTube PREMIERE 7
-https://ricks.azureedge.net/hls1/premiere7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KcY5nOV.jpg" group-title="ESPORTES",ConexãoTube RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/aee.jpg" group-title="FILMES & SÉRIES",ConexãoTube A&E
-https://ricks.azureedge.net/hls1/aie.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/amc.jpg" group-title="FILMES & SÉRIES",ConexãoTube AMC
-https://ricks.azureedge.net/hls1/amc.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/axn.jpg" group-title="FILMES & SÉRIES",ConexãoTube AXN
-https://ricks.azureedge.net/hls1/axn.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/cinemax.jpg" group-title="FILMES & SÉRIES",ConexãoTube CINEMAX
-https://ricks.azureedge.net/hls1/cinemax.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/curta.jpg" group-title="FILMES & SÉRIES",ConexãoTube CURTA!
-https://ricks.azureedge.net/hls1/curta.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/foxchannel.jpg" group-title="FILMES & SÉRIES",ConexãoTube FOX
-https://ricks.azureedge.net/hls1/fox.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/foxpremium1.jpg" group-title="FILMES & SÉRIES",ConexãoTube FOX PREMIUM 1
-https://ricks.azureedge.net/hls1/foxpremium1.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/foxpremium2.jpg" group-title="FILMES & SÉRIES",ConexãoTube FOX PREMIUM 2
-https://ricks.azureedge.net/hls1/foxpremium2.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/fx.jpg" group-title="FILMES & SÉRIES",ConexãoTube FX
-https://ricks.azureedge.net/hls1/fx.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/foxlife.jpg" group-title="FILMES & SÉRIES",ConexãoTube FOXLIVE
-https://ricks.azureedge.net/hls1/foxlife.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/hbo.jpg" group-title="FILMES & SÉRIES",ConexãoTube HBO
-https://ricks.azureedge.net/hls1/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/hbo2.jpg" group-title="FILMES & SÉRIES",ConexãoTube HBO 2
-https://ricks.azureedge.net/hls1/hbo2.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2016/04/hbofamily-1024x576.png" group-title="FILMES & SÉRIES",ConexãoTube HBO FAMILY
-https://ricks.azureedge.net/hls1/hbofamily.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/hboplus.jpg" group-title="FILMES & SÉRIES",ConexãoTube HBO PLUS
-https://ricks.azureedge.net/hls1/hboplus.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/hbosignature.jpg" group-title="FILMES & SÉRIES",ConexãoTube HBO SIGNATURE
-https://ricks.azureedge.net/hls1/hbosignature.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LTDX6hw.jpg" group-title="FILMES & SÉRIES",ConexãoTube MAX
-https://ricks.azureedge.net/hls1/max.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/maxprime.jpg" group-title="FILMES & SÉRIES",ConexãoTube MAX PRIME
-https://ricks.azureedge.net/hls1/maxprime.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/maxup.jpg" group-title="FILMES & SÉRIES",ConexãoTube MAX UP
-https://ricks.azureedge.net/hls1/maxup.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/megapix.jpg" group-title="FILMES & SÉRIES",ConexãoTube MEGAPIX
-https://ricks.azureedge.net/hls1/megapix.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/paramountchannel.jpg" group-title="FILMES & SÉRIES",ConexãoTube PARAMOUNT
-https://ricks.azureedge.net/hls1/paramount.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/sony.jpg" group-title="FILMES & SÉRIES",ConexãoTube SONY
-https://ricks.azureedge.net/hls1/sony.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/space.jpg" group-title="FILMES & SÉRIES",ConexãoTube SPACE
-https://ricks.azureedge.net/hls1/space.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/studiouniversal.jpg" group-title="FILMES & SÉRIES",ConexãoTube STUDIO UNIVERSAL
-https://ricks.azureedge.net/hls1/studiouniversal.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/syfy.jpg" group-title="FILMES & SÉRIES",ConexãoTube SYFY
-https://ricks.azureedge.net/hls1/syfy.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/tcm.jpg" group-title="FILMES & SÉRIES",ConexãoTube TCM
-https://ricks.azureedge.net/hls1/tcm.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinecult.jpg" group-title="FILMES & SÉRIES",ConexãoTube TELECINE ACTION
-https://ricks.azureedge.net/hls1/telecineaction.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinecult.jpg" group-title="FILMES & SÉRIES",ConexãoTube TELECINE CULT
-https://ricks.azureedge.net/hls1/telecinecult.m3u8
-#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/tc-fun.png" group-title="FILMES & SÉRIES",ConexãoTube TELECINE FUN
-https://ricks.azureedge.net/hls1/telecinefun.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinepipoca.jpg" group-title="FILMES & SÉRIES",ConexãoTube TELECINE PIPOCA
-https://ricks.azureedge.net/hls1/telecinepipoca.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinepremium.jpg" group-title="FILMES & SÉRIES",ConexãoTube TELECINE PREMIUM
-https://ricks.azureedge.net/hls1/telecinepremium.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/telecinetouch.jpg" group-title="FILMES & SÉRIES",ConexãoTube TELECINE TOUCH
-https://ricks.azureedge.net/hls1/telecinetouch.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/tnt.jpg" group-title="FILMES & SÉRIES",ConexãoTube TNT
-https://ricks.azureedge.net/hls1/tnt.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/tntseries.jpg" group-title="FILMES & SÉRIES",ConexãoTube TNT SÉRIES
-https://ricks.azureedge.net/hls1/tntseries.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/universaltv.jpg" group-title="FILMES & SÉRIES",ConexãoTube UNIVERSAL CHANNEL
-https://ricks.azureedge.net/hls1/universal.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/warner.jpg" group-title="FILMES & SÉRIES",ConexãoTube WARNER
-https://ricks.azureedge.net/hls1/warner.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/boomerang.jpg" group-title="INFANTIL",ConexãoTube BOOMERANG
-https://ricks.azureedge.net/hls1/boomerang.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/cartoon.jpg" group-title="INFANTIL",ConexãoTube CARTOON NETWORK
-https://ricks.azureedge.net/hls1/cartoon.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/discoverykids.jpg" group-title="INFANTIL",ConexãoTube DISCOVERY KIDS
-https://ricks.azureedge.net/hls1/discoverykids.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/disneychannel.jpg" group-title="INFANTIL",ConexãoTube DISNEY CHANNEL
-https://ricks.azureedge.net/hls1/disney.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/disneyjunior.jpg" group-title="INFANTIL",ConexãoTube DISNEY JUNIOR
-https://ricks.azureedge.net/hls1/disneyjunior.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/disneyxd.jpg" group-title="INFANTIL",ConexãoTube DISNEY XD
-https://ricks.azureedge.net/hls1/disneyxd.m3u8
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/gloob.jpg" group-title="INFANTIL",ConexãoTube GLOOB
-https://ricks.azureedge.net/hls1/gloob.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/nickelodeon.jpg" group-title="INFANTIL",ConexãoTube NICKELODEON
-https://ricks.azureedge.net/hls1/nick.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/nickjr.jpg" group-title="INFANTIL",ConexãoTube NICK JR
-https://ricks.azureedge.net/hls1/nickjr.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/natgeokids.jpg" group-title="INFANTIL",ConexãoTube NAT GEO KIDS
-https://ricks.azureedge.net/hls1/natgeokids.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/toocast.jpg" group-title="INFANTIL",ConexãoTube TOONCAST
-https://ricks.azureedge.net/hls1/tooncast.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/zoomoo.jpg" group-title="INFANTIL",ConexãoTube ZOOMOO
-https://ricks.azureedge.net/hls1/zoomoo.m3u8
-#EXTINF:-1 tvg-logo="https://teleguiado.com/wp-content/uploads/2018/11/Arte1.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube ARTE 1
-https://ricks.azureedge.net/hls1/arte1.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/bis.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube BIS
-https://ricks.azureedge.net/hls1/bis.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/comedycentral.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube COMEDY CENTRAL
-https://ricks.azureedge.net/hls1/comedycentral.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/canale.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube CANAL E!
-https://ricks.azureedge.net/hls1/canale.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2019/04/food.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube FOOD NETWORK
-https://ricks.azureedge.net/hls1/foodnetwork.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/gnt.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube GNT
-https://ricks.azureedge.net/hls1/gnt.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/lifetime.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube LIFETIME
-https://ricks.azureedge.net/hls1/foxlife.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zTM4P7A9vKE/Wo3o0_pT_cI/AAAAAAABEio/IhczRMkrQyUkjMX7eBBINqyJq5lntGt-QCLcBGAs/s1600/Mais%2BGlobosat.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube MAIS GLOBOSAT
-https://ricks.azureedge.net/hls1/maisbobosat.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/mtv.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube MTV
-https://ricks.azureedge.net/hls1/mtv.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/multishow.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube MULTISHOW
-https://ricks.azureedge.net/hls1/multishow.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/viva.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube VIVA
-https://ricks.azureedge.net/hls1/viva.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/tlc.jpg" group-title="VARIEDADES & MÚSICAS",ConexãoTube TLC
-https://ricks.azureedge.net/hls1/tlc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LRBqBQU.png" group-title="VARIEDADES & MÚSICAS",ConexãoTube TOP TV
-http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/36974578/9_thumb_band_news.jpg" group-title="NOTÍCIAS",ConexãoTube BAND NEWS
-https://ricks.azureedge.net/hls1/bandnews.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/06/globonews.jpg" group-title="NOTÍCIAS",ConexãoTube GLOBO NEWS
-https://ricks.azureedge.net/hls1/globonews.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2015/07/recordnews.jpg" group-title="NOTÍCIAS",ConexãoTube RECORD NEWS
-https://ricks.azureedge.net/hls1/recordnews.m3u8
+
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 2
+http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3
+http://srv01.iptvquantum.co:80/murilo/murilo/11590 ''#CONEXAO SERV03''
+
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4
+http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 5
+http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6
+http://hvod.imirun.net:8080/Premiere-6-HD/index.m3
+
+
+#EXTINF:0 tvg-logo=""group-title="",  POLISHOP
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18994.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais:Abertos", RECORD
+http://hvod.imirun.net:8080/RecordSPHD/index.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais:Abertos", RECORD NEWS
+http://hvod.imirun.net:8080/Record-News-HD/index.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="", REDE BRASIL
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18912.m3u8
+
+#EXTINF:0 type="stream" channelId="2435" tvg-logo="http://goo.gl/QAsaU6"group-title="TV ABERTA", REDETV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w73731525.m3u8
+
+#EXTINF:0group-title="EVANGÉLICOS",REDE MÃO AMIGA
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="", RTB!
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18999.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="Canais Abertos",SBT HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="", SPACE
+http://hvod.imirun.net:8080/SpaceHD/index.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais: Esportes", SPORT TV
+http://hvod.imirun.net:8080/SporTV-HD/index.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais: Esportes", SPORT TV 2
+http://hvod.imirun.net:8080/SporTV-2-HD/index.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais: Esportes", SPORT TV 3
+http://hvod.imirun.net:8080/SporTV-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SONY
+http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="", STUDIO UNIVERSAL
+http://playback.imirun.net:8080//StudioUniversalHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series",Syfy
+http://hvod.imirun.net:8080/SyFyHD/index.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="Canais:Esportes", SPORT TV
+http://hvod.imirun.net:8080/SporTV-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV [2]" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes",SporTV [ 2]
+http://hvod.imirun.net:8080/SporTV-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="Canais: Filmes e Series",TBS
+http://playback.imirun.net:8080//TBSHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais: Filmes e Series",Telecine Action
+http://playback.imirun.net:8080//TelecineActionHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais: Filmes e Series",Telecine Cult
+http://playback.imirun.net:8080//TelecineCult/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais: Filmes e Series",Telecine Fun
+http://playback.imirun.net:8080//Telecine-Fun-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais: Filmes e Series",Telecine Pipoca
+http://playback.imirun.net:8080//TelecinePipocaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais: Filmes e Series",Telecine Premium [Alter 2]
+http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais: Filmes e Series",Telecine Touch
+http://playback.imirun.net:8080//TelecineTouch/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="", TERRA VIVA
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19000.m3u8
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://logocanais.ddns.net/Logo/TLC1.png" group-title="Canais: Variedades e Musicas",TLC
+http://playback.imirun.net:8080//TLC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Filmes e Series",TNT
+http://hvod.imirun.net:8080/TNT-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TCM
+http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://logocanais.ddns.net/Logo/tooncast1.png" group-title="Canais: Infantil",Tooncast
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18896.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="", TRUTV
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18895.m3u8
+
+#EXTINF:-1 tvg-id="Aparecida" tvg-name="Aparecida" tvg-logo="http://logocanais.ddns.net/Logo/Aparecida1.png" group-title="Canais: Religioso", TV Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
 
 
+#EXTINF:0 type="stream" channelId="378" tvg-logo="http://goo.gl/6jQNFV"group-title="TV ABERTA", TV BRASIL HD - TVE (RS)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:0tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/365defd359f0551f8ee7f7a21da916c2.png" group-title="TV FILMES",TV BOA ESPERANÇA
+http://stmv2.euroti.com.br:1935/16692/16692/live.m3u8
+
+
+#EXTINF:0 type="stream" channelId="2569" tvg-logo="http://goo.gl/64fVgQ"group-title="TV ABERTA", TV ESCOLA
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18894.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="", TV ESCOLA
+https://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b270336.m3u8
+
+#EXTINF:0group-title="DOCUMENTÁRIO",TV FAAP HD
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:0group-title="Evangelicos",TV GIDEÕES HD
+https://streaming01.zas.media/gideoes
+/programacao_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/SPPZAB" group-title="Evangelicos", GOSPEL MOVIES TELEVISION
+http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
+
+#EXTINF:0tvg-logo="http://www.tvnailha.com.br/img/284974862.png"group-title="TV FILMES",TV NA ILHA
+http://108.170.56.202/tvnailha/tvnailha/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.annaramalho.com.br/wp-content/uploads/2018/02/tvines.png"group-title="TV SAUDE", TV INES
+https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w282858352_DVR.m3u8
+
+#EXTINF:-1,TV JUSTICA
+http://srv.mtvs.me:8880/guinhoirmao/1234567890/28453
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="="", TV KID MAIS
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
+
+
+#EXTINF:0 tvg-logo=""group-title="", TV NOVO TEMPO
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18992.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa2d79aa1de837e717638a2f88268e12.png"group-title="TV ESPORTES", TV PANTANAL (MS)
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w817097591.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="", TV RA TIM BUM
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18999.m3u8
+
+#EXTINF:0group-title="EVANGÉLICOS",TV CI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7efb8aa368564e9ebb3befd2a8b0cb09.jpg" group-title="TV FILMES", TV TEEN NET
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="", TV UNIVERSAL
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18998.m3u8
+
+
+#EXTINF:0 tvg-logo=""group-title="", TV UPHD
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVB Santos" tvg-name="TVB Santos" tvg-logo="https://sc.dish.com/shared/images/station-logos/tvbp.png" group-title="Canais Abertos", TVB Santos 
+http://stmv2.euroti.com.br:1935/tvbelohorizonte/tvbelohorizonte/live.m3u8
+#EXTINF:0 tvg-logo=""group-title="", VH1
+http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18892.m3u8
+
+#EXTINF:0 tvg-logo=""group-title="",  TV VIVA
+http://playback.imirun.net:8080//VIVA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Filmes e Series",Warner Channel
+http://hvod.imirun.net:8080/Warner-Channel-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://logocanais.ddns.net/Logo/woohoo1.png" group-title="Canais: Esportes",Woohoo
+http://playback.imirun.net:8080//Woohoo/tracks-v1a1/mono.m3u8
 
 
 
