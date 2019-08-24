@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:0 tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png"group-title="Canais:Abertos",GLOBO
 http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/36968 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web
@@ -17,6 +17,8 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://playback.imirun.net:8080/CartoonNetwork-HD/index.m3u8
 #EXTINF:-1,COMEDY CENTRAL
 http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/36986
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Canais: Filmes e Series",A&E
 http://hvod.imirun.net:8080/A&E-HD/index.m3u8
